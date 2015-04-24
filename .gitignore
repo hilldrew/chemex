@@ -1,0 +1,32 @@
+*.sublime*
+.ipynb_checkpoints
+notebooks.old/
+temp/
+
+# Operating system junk
+.DS_Store
+.DS_Store?
+._*
+.~*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Logs
+pip-log.txt
+pip-delete-this-directory.txt
+*.log
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml

@@ -1,0 +1,975 @@
+,CASRN,CID_ixs,CID,IUPACName,InChIKey,MolecularFormula,p65name
+0,100-00-5,7474,7474.0,1-chloro-4-nitrobenzene,CZGCEKJOLUNIFY-UHFFFAOYSA-N,C6H4ClNO2,1-Chloro-4-nitrobenzene
+2,100-25-4,7492,7492.0,"1,4-dinitrobenzene",FYFDQJRXFWGIBS-UHFFFAOYSA-N,C6H4N2O4,p-Dinitrobenzene
+3,100-40-3,7499,7499.0,4-ethenylcyclohexene,BBDKZWKEPDTENS-UHFFFAOYSA-N,C8H12,4-Vinylcyclohexene
+4,100-41-4,7500,7500.0,ethylbenzene,YNQLUTRBYVCPMQ-UHFFFAOYSA-N,C8H10,Ethylbenzene
+5,100-44-7,7503,7503.0,chloromethylbenzene,KCXMKQUNVWSEMD-UHFFFAOYSA-N,C7H7Cl,Benzyl chloride
+7,100-75-4,7526,7526.0,1-nitrosopiperidine,UWSDONTXWQOZFN-UHFFFAOYSA-N,C5H10N2O,N-Nitrosopiperidine
+8,10024-97-2,948,948.0,nitrous oxide,GQPLMRYTRLFLPF-UHFFFAOYSA-N,N2O,"Nitrous oxide [Basis for listing changed effective November 8, 2013]"
+9,10026-24-1,61444,61444.0,cobalt(2+);sulfate;heptahydrate,MEYVLGVRTYSQHI-UHFFFAOYSA-L,CoH14O11S,Cobalt sulfate heptahydrate
+11,10034-93-2,24842,24842.0,hydrazine;sulfuric acid,ZGCHATBSUIJLRL-UHFFFAOYSA-N,H6N2O4S,Hydrazine sulfate
+14,10043-66-0,807,807.0,molecular iodine,PNDPGZBMCMUPRI-UHFFFAOYSA-N,I2,Iodine-131
+18,10043-66-0,24855,24855.0,,PNDPGZBMCMUPRI-HVTJNCQCSA-N,I2,Iodine-131
+21,10048-13-2,5284457,5284457.0,,UTSVPXMQSFGQTM-UHFFFAOYSA-N,C18H12O6,Sterigmatocystin
+22,10048-13-2,5280389,5280389.0,,UTSVPXMQSFGQTM-DCXZOGHSSA-N,C18H12O6,Sterigmatocystin
+24,101-14-4,7543,7543.0,4-[(4-amino-3-chlorophenyl)methyl]-2-chloroaniline,IBOFVQJTBBUKMU-UHFFFAOYSA-N,C13H12Cl2N2,"4,4'-Methylene bis(2-chloroaniline)"
+28,101-61-1,7567,7567.0,"4-[[4-(dimethylamino)phenyl]methyl]-N,N-dimethylaniline",JNRLEMMIVRBKJE-UHFFFAOYSA-N,C17H22N2,"4,4'-Methylene bis(N,N-dimethyl)benzenamine"
+32,101-77-9,7577,7577.0,4-[(4-aminophenyl)methyl]aniline,YBRVSVVVWCFQMG-UHFFFAOYSA-N,C13H14N2,"4,4'-Methylenedianiline"
+36,101-80-4,7579,7579.0,4-(4-aminophenoxy)aniline,HLBLWEWZXPIGSM-UHFFFAOYSA-N,C12H12N2O,"4,4'-Diaminodiphenyl ether (4,4'-Oxydianiline)"
+38,101-90-6,7586,7586.0,2-[[3-(oxiran-2-ylmethoxy)phenoxy]methyl]oxirane,WPYCRFCQABTEKC-UHFFFAOYSA-N,C12H14O4,Diglycidyl resorcinol ether (DGRE)
+40,10124-43-3,24965,24965.0,cobalt(2+);sulfate,KTVIXTQDYHMGHF-UHFFFAOYSA-L,CoO4S,Cobalt sulfate
+41,1024-57-3,13930,13930.0,,ZXFXBSWRVIQKOD-UHFFFAOYSA-N,C10H5Cl7O,Heptachlor epoxide
+45,103-33-3,2272,2272.0,diphenyldiazene,DMLAVOWQYNRWNQ-UHFFFAOYSA-N,C12H10N2,Azobenzene
+47,10418-03-8,25249,25249.0,,LKAJKIOFIWVMDJ-IYRCEVNGSA-N,C21H32N2O,Stanozolol
+51,10418-03-8,5277,5277.0,,LKAJKIOFIWVMDJ-UHFFFAOYSA-N,C21H32N2O,Stanozolol
+60,10418-03-8,44629810,44629810.0,,LKAJKIOFIWVMDJ-OLPJAUBDSA-N,C21H32N2O,Stanozolol
+64,10418-03-8,12866474,12866474.0,,LKAJKIOFIWVMDJ-GVQHXQKQSA-N,C21H32N2O,Stanozolol
+66,10453-86-8,5053,5053.0,"(5-benzylfuran-3-yl)methyl 2,2-dimethyl-3-(2-methylprop-1-enyl)cyclopropane-1-carboxylate",VEMKTZHHVJILDY-UHFFFAOYSA-N,C22H26O3,Resmethrin
+70,10540-29-1,2733526,2733526.0,"2-[4-[(Z)-1,2-diphenylbut-1-enyl]phenoxy]-N,N-dimethylethanamine",NKANXQFJJICGDU-QPLCGJKRSA-N,C26H29NO,Tamoxifen and its salts
+73,105650-23-5,1530,1530.0,"1-methyl-6-phenylimidazo[4,5-b]pyridin-2-amine",UQVKZNNCIHJZLS-UHFFFAOYSA-N,C13H12N4,"PhiP(2-Amino-1-methyl-6-phenylimidazol[4,5-b]pyridine)"
+75,105735-71-5,60018,60018.0,"3,7-dinitrofluoranthene",WAAHHGKGQYVTNS-UHFFFAOYSA-N,C16H8N2O4,"3,7-Dinitrofluoranthene"
+76,10595-95-6,25418,25418.0,N-ethyl-N-methylnitrous amide,RTDCJKARQCRONF-UHFFFAOYSA-N,C3H8N2O,N-Nitrosomethylethylamine
+78,106-46-7,4685,4685.0,"1,4-dichlorobenzene",OCJBOOLMMGQPQU-UHFFFAOYSA-N,C6H4Cl2,p-Dichlorobenzene
+81,106-47-8,7812,7812.0,4-chloroaniline,QSNSCYSYFYORTR-UHFFFAOYSA-N,C6H6ClN,p-Chloroaniline
+84,106-49-0,7813,7813.0,4-methylaniline,RZXMPPFPUUCRFN-UHFFFAOYSA-N,C7H9N,"para-Toluidine  Delisted October 29, 1999 [Click here for the basis for delisting]"
+87,106-87-6,7833,7833.0,4-(oxiran-2-yl)-7-oxabicyclo[4.1.0]heptane,OECTYKWYRCHAKR-UHFFFAOYSA-N,C8H12O2,4-Vinyl-1-cyclohexene diepoxide (Vinyl cyclohexenedioxide)
+88,106-89-8,7835,7835.0,2-(chloromethyl)oxirane,BRLQWZUYTZBJKN-UHFFFAOYSA-N,C3H5ClO,Epichlorohydrin
+94,106-93-4,7839,7839.0,"1,2-dibromoethane",PAAZPARNPHGIKF-UHFFFAOYSA-N,C2H4Br2,Ethylene dibromide 
+97,106-94-5,7840,7840.0,1-bromopropane,CYNYIHKIEHGYOZ-UHFFFAOYSA-N,C3H7Br,1-Bromopropane (1-BP)
+98,106-99-0,7845,7845.0,"buta-1,3-diene",KAKZBPTYRLMSJV-UHFFFAOYSA-N,C4H6,"1,3-Butadiene"
+100,107-05-1,7850,7850.0,3-chloroprop-1-ene,OSDWBNJEKMUWAV-UHFFFAOYSA-N,C3H5Cl,"Allyl chloride  Delisted October 29, 1999 [Click here for the basis for delisting]"
+102,107-06-2,11,11.0,"1,2-dichloroethane",WSLDOOZREJYCGB-UHFFFAOYSA-N,C2H4Cl2,"Ethylene dichloride (1,2-Dichloroethane)"
+105,107-13-1,7855,7855.0,prop-2-enenitrile,NLHHRLWOUZZQLW-UHFFFAOYSA-N,C3H3N,Acrylonitrile
+106,107-30-2,7864,7864.0,chloro(methoxy)methane,XJUZRXYOEPSWMB-UHFFFAOYSA-N,C2H5ClO,Chloromethyl methyl ether (technical grade)
+109,107910-75-8,23700083,23700083.0,"sodium;2-amino-9-(1,3-dihydroxypropan-2-yloxymethyl)purin-6-olate",JJICLMJFIKGAAU-UHFFFAOYSA-M,C9H12N5NaO4,Ganciclovir sodium
+114,107910-75-8,23707495,23707495.0,"sodium;2-amino-9-(1,3-dihydroxypropan-2-yloxymethyl)purin-1-id-6-one",JJICLMJFIKGAAU-UHFFFAOYSA-M,C9H12N5NaO4,Ganciclovir sodium
+116,107910-75-8,3454,3454.0,"2-amino-9-(1,3-dihydroxypropan-2-yloxymethyl)-3H-purin-6-one",IRSCQMHQWWYFCW-UHFFFAOYSA-N,C9H13N5O4,Ganciclovir sodium
+124,108-10-1,7909,7909.0,4-methylpentan-2-one,NTIZESTWPVYFNL-UHFFFAOYSA-N,C6H12O,Methyl isobutyl ketone (MIBK)
+126,108-88-3,1140,1140.0,toluene,YXFVVABEGXRONW-UHFFFAOYSA-N,C7H8,Toluene
+128,108-93-0,7966,7966.0,cyclohexanol,HPXRVTGHNJAIIH-UHFFFAOYSA-N,C6H12O,"Cyclohexanol  Delisted January 25, 2002 [Click here for the basis for delisting]"
+130,108171-26-2,22833489,22833489.0,"2,3,4,6,7,8-hexachlorodecane",ZPSFPNSXYWWGRF-UHFFFAOYSA-N,C10H16Cl6,"Chlorinated paraffins (Average chain length, C12;approximately 60 percent chlorine by weight)"
+131,109-86-4,8019,8019.0,2-methoxyethanol,XNWFRZJHXBZDAG-UHFFFAOYSA-N,C3H8O2,Ethylene glycol monomethyl ether
+133,110-00-9,8029,8029.0,furan,YLQBMQCUIZJEEH-UHFFFAOYSA-N,C4H4O,Furan
+134,110-49-6,8054,8054.0,2-methoxyethyl acetate,XLLIQLLCWZCATF-UHFFFAOYSA-N,C5H10O3,Ethylene glycol monomethyl ether acetate
+137,110-80-5,8076,8076.0,2-ethoxyethanol,ZNQVEEAIQZEUHB-UHFFFAOYSA-N,C4H10O2,Ethylene glycol monoethyl ether
+139,110-86-1,1049,1049.0,pyridine,JUJWROOIHBZHMG-UHFFFAOYSA-N,C5H5N,Pyridine
+140,110235-47-7,86296,86296.0,4-methyl-N-phenyl-6-prop-1-ynylpyrimidin-2-amine,CIFWZNRJIBNXRE-UHFFFAOYSA-N,C14H13N3,Mepanipyrim
+141,111-15-9,8095,8095.0,2-ethoxyethyl acetate,SVONRAPFKPVNKG-UHFFFAOYSA-N,C6H12O3,Ethylene glycol monoethyl ether acetate
+144,111-42-2,8113,8113.0,2-(2-hydroxyethylamino)ethanol,ZBCBWPMODOFKDW-UHFFFAOYSA-N,C4H11NO2,Diethanolamine
+146,111-44-4,8115,8115.0,1-chloro-2-(2-chloroethoxy)ethane,ZNSMNVMLTJELDZ-UHFFFAOYSA-N,C4H8Cl2O,Bis(2-chloroethyl)ether
+150,111406-87-2,60490,60490.0,1-[1-(1-benzothiophen-2-yl)ethyl]-1-hydroxyurea,MWLSOWXNZPKENC-UHFFFAOYSA-N,C11H12N2O2S,Zileuton 
+153,1116-54-7,14223,14223.0,"N,N-bis(2-hydroxyethyl)nitrous amide",YFCDLVPYFMHRQZ-UHFFFAOYSA-N,C4H10N2O3,N-Nitrosodiethanolamine
+154,1120-71-4,14264,14264.0,"oxathiolane 2,2-dioxide",FSSPGSAQUIYDCN-UHFFFAOYSA-N,C3H6O3S,"1,3-Propane sultone"
+155,1134-23-2,14337,14337.0,S-ethyl N-cyclohexyl-N-ethylcarbamothioate,DFCAFRGABIXSDS-UHFFFAOYSA-N,C11H21NOS,Cycloate
+156,113803-47-7,62312,62312.0,,SVYBPMMLNVMOPS-WBQZPATFSA-N,C84H113Cl3N8O16,MOPP (vincristine-prednisone-nitrogen mustard-procarbazine mixture)
+157,113852-37-2,60613,60613.0,[(2S)-1-(4-amino-2-oxopyrimidin-1-yl)-3-hydroxypropan-2-yl]oxymethylphosphonic acid,VWFCHDSQECPREK-LURJTMIESA-N,C8H14N3O6P,Cidofovir
+159,114-26-1,4944,4944.0,(2-propan-2-yloxyphenyl) N-methylcarbamate,ISRUGXGCCGIOQO-UHFFFAOYSA-N,C11H15NO3,Propoxur
+163,115-02-6,5284344,5284344.0,(E)-1-[(2S)-2-amino-2-carboxyethoxy]-2-diazonioethenolate,AGNGYMCLFWQVGX-AGFFZDDWSA-N,C5H7N3O4,Azaserine
+173,115-28-6,8266,8266.0,"1,2,3,4,7,7-hexachlorobicyclo[2.2.1]hept-2-ene-5,6-dicarboxylic acid",DJKGDNKYTKCJKD-UHFFFAOYSA-N,C9H4Cl6O4,Chlorendic acid
+176,115-67-3,8280,8280.0,"5-ethyl-3,5-dimethyl-1,3-oxazolidine-2,4-dione",VQASKUSHBVDKGU-UHFFFAOYSA-N,C7H11NO3,Paramethadione
+177,115-96-8,8295,8295.0,tris(2-chloroethyl) phosphate,HQUQLFOMPYWACS-UHFFFAOYSA-N,C6H12Cl3O4P,Tris(2-chloroethyl) phosphate
+178,116-14-3,8301,8301.0,"1,1,2,2-tetrafluoroethene",BFKJFAAPBSQJPD-UHFFFAOYSA-N,C2F4,Tetrafluoroethylene
+179,116355-83-0,3431,3431.0,"2-[2-[19-amino-6-(3,4-dicarboxybutanoyloxy)-11,16,18-trihydroxy-5,9-dimethylicosan-7-yl]oxy-2-oxoethyl]butanedioic acid",UVBUBMSSQKOIBE-UHFFFAOYSA-N,C34H59NO15,Fumonisin B1
+187,116355-83-0,62314,62314.0,"(2S)-2-[2-[(5S,6R,7R,9R,11S,16R,18S,19S)-19-amino-6-[(3S)-3,4-dicarboxybutanoyl]oxy-11,16,18-trihydroxy-5,9-dimethylicosan-7-yl]oxy-2-oxoethyl]butanedioic acid",UVBUBMSSQKOIBE-ZWKVXHQASA-N,C34H59NO15,Fumonisin B1
+199,116355-83-0,16760030,16760030.0,"(2S)-2-[2-[(5R,6R,7S,9S,11R,16R,18S,19S)-19-amino-6-[(3R)-3,4-dicarboxybutanoyl]oxy-11,16,18-trihydroxy-5,9-dimethylicosan-7-yl]oxy-2-oxoethyl]butanedioic acid",UVBUBMSSQKOIBE-UWCNXKJPSA-N,C34H59NO15,Fumonisin B1
+205,116355-83-0,14077784,14077784.0,"(2S)-2-[2-[(5R,6R,7S,9S,11R,16R,18S,19S)-19-amino-6-[(3S)-3,4-dicarboxybutanoyl]oxy-11,16,18-trihydroxy-5,9-dimethylicosan-7-yl]oxy-2-oxoethyl]butanedioic acid",UVBUBMSSQKOIBE-NDFMDLIYSA-N,C34H59NO15,Fumonisin B1
+210,116355-83-0,2733487,2733487.0,"(2R)-2-[2-[(5R,6R,7S,9S,11R,16R,18S,19S)-19-amino-6-[(3R)-3,4-dicarboxybutanoyl]oxy-11,16,18-trihydroxy-5,9-dimethylicosan-7-yl]oxy-2-oxoethyl]butanedioic acid",UVBUBMSSQKOIBE-DSLOAKGESA-N,C34H59NO15,Fumonisin B1
+214,117-10-2,2950,2950.0,"1,8-dihydroxyanthracene-9,10-dione",QBPFLULOKWLNNW-UHFFFAOYSA-N,C14H8O4,"Dantron (Chrysazin; 1,8-Dihydroxyanthraquinone)"
+215,117-37-3,2197,2197.0,"2-(4-methoxyphenyl)indene-1,3-dione",XRCFXMGQEVUZFC-UHFFFAOYSA-N,C16H12O3,Anisindione
+217,117-79-3,8341,8341.0,"2-aminoanthracene-9,10-dione",XOGPDSATLSAZEK-UHFFFAOYSA-N,C14H9NO2,2-Aminoanthraquinone
+219,117-81-7,8343,8343.0,"bis(2-ethylhexyl) benzene-1,2-dicarboxylate",BJQHLKABXJIVAM-UHFFFAOYSA-N,C24H38O4,Di(2-ethylhexyl)phthalate
+225,1172-18-5,14434,14434.0,"7-chloro-1-[2-(diethylamino)ethyl]-5-(2-fluorophenyl)-3H-1,4-benzodiazepin-2-one;dihydrochloride",ZIIJJOPLRSCQNX-UHFFFAOYSA-N,C21H25Cl3FN3O,Flurazepam hydrochloride
+227,118-74-1,8370,8370.0,"1,2,3,4,5,6-hexachlorobenzene",CKAPSXZOOQJIBF-UHFFFAOYSA-N,C6Cl6,Hexachlorobenzene
+228,118-96-7,8376,8376.0,"2-methyl-1,3,5-trinitrobenzene",SPSSULHKWOKEEL-UHFFFAOYSA-N,C7H5N3O6,"2,4.6-Trinitrotoluene (TNT)"
+231,119-34-6,3417419,3417419.0,4-amino-2-nitrophenol,WHODQVWERNSQEO-UHFFFAOYSA-N,C6H6N2O3,4-Amino-2-nitrophenol
+232,119-61-9,3102,3102.0,diphenylmethanone,RWCCWEUUXYIKHB-UHFFFAOYSA-N,C13H10O,Benzophenone
+234,119-90-4,8411,8411.0,4-(4-amino-3-methoxyphenyl)-2-methoxyaniline,JRBJSXQPQWSCCF-UHFFFAOYSA-N,C14H16N2O2,"3,3'-Dimethoxybenzidine (o-Dianisidine)"
+236,119-93-7,8413,8413.0,4-(4-amino-3-methylphenyl)-2-methylaniline,NUIURNJTPRWVAP-UHFFFAOYSA-N,C14H16N2,"3,3'-Dimethylbenzidine (ortho-Tolidine)"
+237,120-36-5,8427,8427.0,"2-(2,4-dichlorophenoxy)propanoic acid",MZHCENGPTKEIGP-UHFFFAOYSA-N,C9H8Cl2O3,"2,4-DP (dichloroprop)  Delisted January 25, 2002 [Click here for the basis for delisting]"
+243,120-58-1,637796,637796.0,"5-[(E)-prop-1-enyl]-1,3-benzodioxole",VHVOLFRBFDOUSH-NSCUHMNNSA-N,C10H10O2,"Isosafrole Delisted December 8, 2006 [Click here for the basis for delisting]"
+246,120-58-1,8439,8439.0,"5-prop-1-enyl-1,3-benzodioxole",VHVOLFRBFDOUSH-UHFFFAOYSA-N,C10H10O2,"Isosafrole Delisted December 8, 2006 [Click here for the basis for delisting]"
+254,120-58-1,1549044,1549044.0,"5-[(Z)-prop-1-enyl]-1,3-benzodioxole",VHVOLFRBFDOUSH-IHWYPQMZSA-N,C10H10O2,"Isosafrole Delisted December 8, 2006 [Click here for the basis for delisting]"
+256,120-71-8,8445,8445.0,2-methoxy-5-methylaniline,WXWCDTXEKCVRRO-UHFFFAOYSA-N,C8H11NO,p-Cresidine
+260,120-80-9,289,289.0,"benzene-1,2-diol",YCIMNLLNPGFGHC-UHFFFAOYSA-N,C6H6O2,Catechol
+261,120-97-8,3038,3038.0,"4,5-dichlorobenzene-1,3-disulfonamide",GJQPMPFPNINLKP-UHFFFAOYSA-N,C6H6Cl2N2O4S2,Dichlorphenamide
+264,121-14-2,8461,8461.0,"1-methyl-2,4-dinitrobenzene",RMBFBMJGBANMMK-UHFFFAOYSA-N,C7H6N2O4,"2,4-Dinitrotoluene"
+270,12122-67-7,5284484,5284484.0,zinc;N-[2-(sulfidocarbothioylamino)ethyl]carbamodithioate,AMHNZOICSMBGDH-UHFFFAOYSA-L,C4H6N2S4Zn,"Zineb  Delisted October 29, 1999 [Click here for the basis for delisting]"
+272,12122-67-7,3032296,3032296.0,zinc;N-[2-(sulfidocarbothioylamino)ethyl]carbamodithioate,AMHNZOICSMBGDH-UHFFFAOYSA-L,C4H6N2S4Zn,"Zineb  Delisted October 29, 1999 [Click here for the basis for delisting]"
+279,12122-67-7,5155529,5155529.0,[2-(dithiocarboxyamino)ethylamino]-sulfoniumylidenemethanethiolate;zinc,RGALBBQJPFDFCB-UHFFFAOYSA-N,C4H8N2S4Zn,"Zineb  Delisted October 29, 1999 [Click here for the basis for delisting]"
+283,12122-67-7,4228010,4228010.0,N-[2-(sulfidocarbothioylamino)ethyl]carbamodithioate,AWYFNIZYMPNGAI-UHFFFAOYSA-L,C4H6N2S4-2,"Zineb  Delisted October 29, 1999 [Click here for the basis for delisting]"
+287,12174-11-7,56842194,56842194.0,aluminum;magnesium;silicon;hydroxide;tetradecahydrate,DGMCGTFMFPEQLT-UHFFFAOYSA-M,Al2H29Mg2O15Si4-,Palygorskite fibers (> 5mm in length)
+288,121776-33-8,86187,86187.0,"2,2-dichloro-1-[5-(furan-2-yl)-2,2-dimethyl-1,3-oxazolidin-3-yl]ethanone",MCNOFYBITGAAGM-UHFFFAOYSA-N,C11H13Cl2NO3,MON 13900 (furilazole)
+289,122-60-1,31217,31217.0,2-(phenoxymethyl)oxirane,FQYUMYWMJTYZTK-UHFFFAOYSA-N,C9H10O2,"Phenyl glycidyl ether Delisted April 4, 2014 [Click for the basis for delisting]
+"
+292,122-66-7,31222,31222.0,"1,2-diphenylhydrazine",YBQZXXMEJHZYMB-UHFFFAOYSA-N,C12H12N2,"Hydrazobenzene (1,2-Diphenylhydrazine)"
+293,123-91-1,31275,31275.0,"1,4-dioxane",RYHBNJHYFVUHQT-UHFFFAOYSA-N,C4H8O2,"1,4-Dioxane"
+297,123312-89-0,9576037,9576037.0,"6-methyl-4-[(E)-pyridin-3-ylmethylideneamino]-2,5-dihydro-1,2,4-triazin-3-one",QHMTXANCGGJZRX-WUXMJOGZSA-N,C10H11N5O,Pymetrozine
+298,124-48-1,31296,31296.0,dibromo(chloro)methane,GATVIKZLVQHOMN-UHFFFAOYSA-N,CHBr2Cl,"Chlorodibromomethane  Delisted October 29, 1999 [Click here for the basis for delisting]"
+299,12427-38-2,3032581,3032581.0,manganese(2+);N-[2-(sulfidocarbothioylamino)ethyl]carbamodithioate,YKSNLCVSTHTHJA-UHFFFAOYSA-L,C4H6MnN2S4,Maneb
+301,125-02-0,31311,31311.0,"disodium;[2-(11,17-dihydroxy-10,13-dimethyl-3-oxo-7,8,9,11,12,14,15,16-octahydro-6H-cyclopenta[a]phenanthren-17-yl)-2-oxoethyl] phosphate",VJZLQIPZNBPASX-UHFFFAOYSA-L,C21H27Na2O8P,Prednisolone sodium phosphate
+310,125-02-0,441409,441409.0,"disodium;[2-[(8S,9S,10R,11S,13S,14S,17R)-11,17-dihydroxy-10,13-dimethyl-3-oxo-7,8,9,11,12,14,15,16-octahydro-6H-cyclopenta[a]phenanthren-17-yl]-2-oxoethyl] phosphate",VJZLQIPZNBPASX-OJJGEMKLSA-L,C21H27Na2O8P,Prednisolone sodium phosphate
+320,125-02-0,45006142,45006142.0,"disodium;[2-[(10R,11S,13S,17R)-11,17-dihydroxy-10,13-dimethyl-3-oxo-7,8,9,11,12,14,15,16-octahydro-6H-cyclopenta[a]phenanthren-17-yl]-2-oxoethyl] phosphate",VJZLQIPZNBPASX-HLSWQIQTSA-L,C21H27Na2O8P,Prednisolone sodium phosphate
+327,125-02-0,22815824,22815824.0,"disodium;[2-[(10R,13S,17R)-11,17-dihydroxy-10,13-dimethyl-3-oxo-7,8,9,11,12,14,15,16-octahydro-6H-cyclopenta[a]phenanthren-17-yl]-2-oxoethyl] phosphate",VJZLQIPZNBPASX-VCKUZQKMSA-L,C21H27Na2O8P,Prednisolone sodium phosphate
+333,125-33-7,4909,4909.0,"5-ethyl-5-phenyl-1,3-diazinane-4,6-dione",DQMZLTXERSFNPB-UHFFFAOYSA-N,C12H14N2O2,Primidone
+334,125-84-8,2145,2145.0,"3-(4-aminophenyl)-3-ethylpiperidine-2,6-dione",ROBVIMPUHSLWNV-UHFFFAOYSA-N,C13H16N2O2,Aminoglutethimide
+336,126-07-8,441140,441140.0,"(2S,5'R)-7-chloro-3',4,6-trimethoxy-5'-methylspiro[1-benzofuran-2,4'-cyclohex-2-ene]-1',3-dione",DDUHZTYCFQRHIY-RBHXEPJQSA-N,C17H17ClO6,Griseofulvin
+339,126-72-7,31356,31356.0,"tris(2,3-dibromopropyl) phosphate",PQYJRMFWJJONBO-UHFFFAOYSA-N,C9H15Br6O4P,"Tris(2,3-dibromopropyl)phosphate"
+340,126-85-2,9335,9335.0,2-chloro-N-(2-chloroethyl)-N-methylethanamine oxide,AFLXUQUGROGEFA-UHFFFAOYSA-N,C5H11Cl2NO,Nitrogen mustard N-oxide
+341,126-99-8,31369,31369.0,"2-chlorobuta-1,3-diene",YACLQRRMGMJLJV-UHFFFAOYSA-N,C4H5Cl,Chloroprene
+342,127-07-1,3657,3657.0,hydroxyurea,VSNHCAURESNICA-UHFFFAOYSA-N,CH4N2O2,Hydroxyurea
+343,127-18-4,31373,31373.0,"1,1,2,2-tetrachloroethene",CYTYCFOTNPOANT-UHFFFAOYSA-N,C2Cl4,Tetrachloroethylene (Perchloroethylene)
+344,127-19-5,31374,31374.0,"N,N-dimethylacetamide",FXHOOIRPVKKKFG-UHFFFAOYSA-N,C4H9NO,"N,N-Dimethylacetamide [Click here for the basis for addition of male reproductive endpoint, effective December 20, 2013]"
+348,127-48-0,5576,5576.0,"3,5,5-trimethyl-1,3-oxazolidine-2,4-dione",IRYJRGCIQBGHIV-UHFFFAOYSA-N,C6H9NO3,Trimethadione
+349,1271-28-9,62390,62390.0,"cyclopenta-1,3-diene;nickel(2+)",KZPXREABEBSAQM-UHFFFAOYSA-N,C10H10Ni,Nickelocene
+357,1271-28-9,21922314,21922314.0,"cyclopenta-1,3-diene;nickel(2+)",RQKPFSQDBAZFJV-UHFFFAOYSA-N,C10H10Ni,Nickelocene
+360,1271-28-9,13628993,13628993.0,"cyclopenta-1,3-diene;nickel(2+)",KZPXREABEBSAQM-UHFFFAOYSA-N,C10H10Ni,Nickelocene
+365,128-03-0,23662387,23662387.0,"potassium;N,N-dimethylcarbamodithioate",TVPFLPJBESCUKI-UHFFFAOYSA-M,C3H6KNS2,Potassium dimethyldithiocarbamate
+367,128-04-1,560256,560256.0,"sodium;N,N-dimethylcarbamodithioate",VMSRVIHUFHQIAL-UHFFFAOYSA-M,C3H6NNaS2,Sodium dimethyldithiocarbamate
+371,128-44-9,656582,656582.0,"sodium;1,1-dioxo-1,2-benzothiazol-2-id-3-one",WINXNKPZLFISPD-UHFFFAOYSA-M,C7H4NNaO3S,"Saccharin, sodium  Delisted January 17, 2003 [Click here for the basis for delisting]"
+375,128-44-9,5143,5143.0,"1,1-dioxo-1,2-benzothiazol-3-one",CVHZOJJKTDOEJC-UHFFFAOYSA-N,C7H5NO3S,"Saccharin, sodium  Delisted January 17, 2003 [Click here for the basis for delisting]"
+383,128-44-9,23675258,23675258.0,"sodium;1,1-dioxo-1,2-benzothiazol-3-olate",WINXNKPZLFISPD-UHFFFAOYSA-M,C7H4NNaO3S,"Saccharin, sodium  Delisted January 17, 2003 [Click here for the basis for delisting]"
+392,128-44-9,21583979,21583979.0,"sodium;1,1-dioxo-1,2-benzothiazol-3-one",WINXNKPZLFISPD-UHFFFAOYSA-N,C7H5NNaO3S+,"Saccharin, sodium  Delisted January 17, 2003 [Click here for the basis for delisting]"
+395,129-15-7,31426,31426.0,"2-methyl-1-nitroanthracene-9,10-dione",FYXKXZFTZBYYNP-UHFFFAOYSA-N,C15H9NO4,2-Methyl-1-nitroanthraquinone (of uncertain purity)
+396,129-43-1,8512,8512.0,"1-hydroxyanthracene-9,10-dione",BTLXPCBPYBNQNR-UHFFFAOYSA-N,C14H8O3,1-Hydroxyanthraquinone
+397,13010-47-4,3950,3950.0,1-(2-chloroethyl)-3-cyclohexyl-1-nitrosourea,GQYIWUVLTXOXAJ-UHFFFAOYSA-N,C9H16ClN3O2,1-(2-Chloroethyl)-3-cyclohexyl-1-nitrosourea (CCNU) (Lomustine)
+398,1303-00-0,14770,14770.0,gallanylidynearsane,JBRZTFJDHDCESZ-UHFFFAOYSA-N,AsGa,Gallium arsenide
+399,1307-96-6,14786,14786.0,oxocobalt,IVMYJDGYRUAWML-UHFFFAOYSA-N,CoO,Cobalt [II] oxide
+400,13121-70-5,6327054,6327054.0,tricyclohexyltin;hydrate,UGCNRZFAUBJVPT-UHFFFAOYSA-N,C18H35OSn,Cyhexatin
+402,1313-99-1,14805,14805.0,oxonickel,GNRSAWUEBMWBQH-UHFFFAOYSA-N,NiO,Nickel oxide
+403,1314-20-1,14808,14808.0,dioxothorium,ZCUFMDLYAMJYST-UHFFFAOYSA-N,O2Th,Thorium dioxide
+405,1314-62-1,14814,14814.0,dioxovanadiooxy(dioxo)vanadium,GNTDGMZSJNCJKK-UHFFFAOYSA-N,O5V2,Vanadium pentoxide (orthorhombic crystalline form)
+407,13194-48-4,3289,3289.0,1-[ethoxy(propylsulfanyl)phosphoryl]sulfanylpropane,VJYFKVYYMZPMAB-UHFFFAOYSA-N,C8H19O2PS2,Ethoprop
+412,132-27-4,23675735,23675735.0,sodium;2-phenylphenolate,KSQXVLVXUFHGJQ-UHFFFAOYSA-M,C12H9NaO,"o-Phenylphenate, sodium"
+414,13256-22-9,25811,25811.0,2-[methyl(nitroso)amino]acetic acid,HJMPSKKJHVWPBK-UHFFFAOYSA-N,C3H6N2O3,N-Nitrososarcosine
+415,13292-46-1,5381226,5381226.0,,FZYOVNIOYYPUPY-ZTWDQPHTSA-N,C43H58N4O12,Rifampin
+426,13292-46-1,5458213,5458213.0,,FZYOVNIOYYPUPY-UXKYPCFPSA-N,C43H58N4O12,Rifampin
+440,13292-46-1,6913622,6913622.0,,FZYOVNIOYYPUPY-AAHSBGALSA-N,C43H58N4O12,Rifampin
+449,13292-46-1,6842115,6842115.0,,FZYOVNIOYYPUPY-UHFFFAOYSA-N,C43H58N4O12,Rifampin
+462,13292-46-1,44419043,44419043.0,,FZYOVNIOYYPUPY-JFXANHDQSA-N,C43H58N4O12,Rifampin
+473,13292-46-1,45356263,45356263.0,,FZYOVNIOYYPUPY-LJJLNQMFSA-N,C43H58N4O12,Rifampin
+481,13292-46-1,24871024,24871024.0,,FZYOVNIOYYPUPY-NQUZFYFYSA-N,C43H58N4O12,Rifampin
+487,13292-46-1,5702112,5702112.0,,FZYOVNIOYYPUPY-QPASZNTLSA-N,C43H58N4O12,Rifampin
+495,133-06-2,8606,8606.0,"2-(trichloromethylsulfanyl)-3a,4,7,7a-tetrahydroisoindole-1,3-dione",LDVVMCZRFWMZSG-UHFFFAOYSA-N,C9H8Cl3NO2S,Captan
+498,133-07-3,8607,8607.0,"2-(trichloromethylsulfanyl)isoindole-1,3-dione",HKIOYBQGHSTUDB-UHFFFAOYSA-N,C9H4Cl3NO2S,Folpet
+499,13311-84-7,3397,3397.0,2-methyl-N-[4-nitro-3-(trifluoromethyl)phenyl]propanamide,MKXKFYHWDHIYRV-UHFFFAOYSA-N,C11H11F3N2O3,Flutamide
+500,1333-86-4,297,297.0,methane,VNWKTOKETHGBQD-UHFFFAOYSA-N,CH4,"Carbon black (airborne, unbound particles of respirable size)"
+501,1335-32-6,16717614,16717614.0,diacetyloxylead;lead;tetrahydrate,YXZMOTXWBZKTFY-UHFFFAOYSA-L,C4H14O8Pb3,Lead subacetate
+507,1335-32-6,18503859,18503859.0,diacetyloxylead;lead;tetrahydrate,YXZMOTXWBZKTFY-UHFFFAOYSA-L,C4H14O8Pb3,Lead subacetate
+511,134-29-2,8638,8638.0,2-methoxyaniline;hydrochloride,XCZCWGVXRBJCCD-UHFFFAOYSA-N,C7H10ClNO,o-Anisidine hydrochloride
+513,134-32-7,8640,8640.0,naphthalen-1-amine,RUFPHBVGCFYCNW-UHFFFAOYSA-N,C10H9N,1-Naphthylamine
+515,13463-39-3,518772,518772.0,carbon monoxide;nickel,AWDHUGLHGCVIEG-UHFFFAOYSA-N,C4NiO4,Nickel carbonyl 
+519,135-20-6,2724103,2724103.0,azanium;N-oxido-N-phenylnitrous amide,GDEBSAWXIHEMNF-UHFFFAOYSA-O,C6H9N3O2,Cupferron
+525,135-20-6,161122,161122.0,N-oxido-N-phenylnitrous amide,DTPFDWCBDYPUHO-UHFFFAOYSA-N,C6H5N2O2-,Cupferron
+536,135-20-6,71299445,71299445.0,azanylium;N-oxido-N-phenylnitrous amide,IOHXOFHIVBQTMV-UHFFFAOYSA-N,C6H7N3O2,Cupferron
+537,135319-73-2,3317081,3317081.0,"1-[[3-(2-chlorophenyl)-2-(4-fluorophenyl)oxiran-2-yl]methyl]-1,2,4-triazole",ZMYFCFLJBGAQRS-UHFFFAOYSA-N,C17H13ClFN3O,Epoxiconazole
+540,13552-44-8,26108,26108.0,4-[(4-aminophenyl)methyl]aniline;dihydrochloride,MXNNTNFLRICRPT-UHFFFAOYSA-N,C13H16Cl2N2,"4,4'-Methylenedianiline dihydrochloride"
+541,136-35-6,8689,8689.0,N-phenyldiazenylaniline,ALIFPGGMJDWMJH-UHFFFAOYSA-N,C12H11N3,Diazoaminobenzene
+543,136-40-3,8691,8691.0,"3-phenyldiazenylpyridine-2,6-diamine;hydrochloride",QQBPIHBUCMDKFG-UHFFFAOYSA-N,C11H12ClN5,Phenazopyridine hydrochloride
+546,136-45-8,8693,8693.0,"dipropyl pyridine-2,5-dicarboxylate",IITCWRFYJWUUPC-UHFFFAOYSA-N,C13H17NO4,Di-n-propyl isocinchomeronate (MGK Repellent 326)
+548,13614-98-7,54685925,54685925.0,"(4S,4aS,5aR,12aR)-4,7-bis(dimethylamino)-1,10,11,12a-tetrahydroxy-3,12-dioxo-4a,5,5a,6-tetrahydro-4H-tetracene-2-carboxamide;hydrochloride",WTJXVDPDEQKTCV-VQAITOIOSA-N,C23H28ClN3O7,Minocycline hydrochloride (internal use)
+553,13647-35-3,656583,656583.0,,KVJXBPDAXMEYOA-CXANFOAXSA-N,C20H27NO3,Trilostane
+556,13674-87-8,26177,26177.0,"tris(1,3-dichloropropan-2-yl) phosphate",ASLWPAWFJZFCKF-UHFFFAOYSA-N,C9H15Cl6O4P,"Tris(1,3-dichloro-2-propyl) phosphate (TDCPP)"
+557,137-41-7,23690432,23690432.0,potassium;N-methylcarbamodithioate,DQRQIQZHRCRSDB-UHFFFAOYSA-M,C2H4KNS2,Metam potassium
+559,137-42-8,5366415,5366415.0,sodium;N-methylcarbamodithioate,AFCCDDWKHLHPDF-UHFFFAOYSA-M,C2H4NNaS2,Metham sodium
+561,138-93-2,61088,61088.0,disodium;cyanoiminomethanedithiolate,AZDIXEXNLJMBJO-UHFFFAOYSA-L,C2N2Na2S2,Disodium cyanodithioimidocarbonate
+562,139-13-9,8758,8758.0,2-[bis(carboxymethyl)amino]acetic acid,MGFYIUFZLHCRTH-UHFFFAOYSA-N,C6H9NO6,Nitrilotriacetic acid
+564,139-65-1,8765,8765.0,4-(4-aminophenyl)sulfanylaniline,ICNFHJVPAJKPHW-UHFFFAOYSA-N,C12H12N2S,"4,4'-Thiodianiline"
+566,139-91-3,9553856,9553856.0,"5-(morpholin-4-ylmethyl)-3-[(E)-(5-nitrofuran-2-yl)methylideneamino]-1,3-oxazolidin-2-one",YVQVOQKFMFRVGR-VGOFMYFVSA-N,C13H16N4O6,5-(Morpholinomethyl)-3-[(5-nitrofurfurylidene)-amino]-2-oxazolidinone
+567,13909-09-6,5198,5198.0,1-(2-chloroethyl)-3-(4-methylcyclohexyl)-1-nitrosourea,FVLVBPDQNARYJU-UHFFFAOYSA-N,C10H18ClN3O2,1-(2-Chloroethyl)-3-(4-methylcyclohexyl)-1-nitrosourea (Methyl-CCNU)
+568,140-57-8,8809,8809.0,1-(4-tert-butylphenoxy)propan-2-yl 2-chloroethyl sulfite,YKFRAOGHWKADFJ-UHFFFAOYSA-N,C15H23ClO4S,Aramite
+569,140-67-0,8815,8815.0,1-methoxy-4-prop-2-enylbenzene,ZFMSMUAANRJZFM-UHFFFAOYSA-N,C10H12O,Estragole
+572,140-88-5,8821,8821.0,ethyl prop-2-enoate,JIGUQPWFLRLWPJ-UHFFFAOYSA-N,C5H8O2,Ethyl acrylate
+573,14028-44-5,2170,2170.0,"8-chloro-6-piperazin-1-ylbenzo[b][1,4]benzoxazepine",QWGDMFLQWFTERH-UHFFFAOYSA-N,C17H16ClN3O,Amoxapine
+574,14047-09-7,26423,26423.0,"bis(3,4-dichlorophenyl)diazene",SOBGIMQKWDUEPY-UHFFFAOYSA-N,C12H6Cl4N2,"3,3',4,4'-Tetrachloroazobenzene"
+576,1405-10-3,62403,62403.0,"(2R,3S,4R,5R,6R)-5-amino-2-(aminomethyl)-6-[(1R,2R,3S,4R,6S)-4,6-diamino-2-[(2S,3R,4S,5R)-4-[(3R,4R,5S,6S)-3-amino-6-(aminomethyl)-4,5-dihydroxyoxan-2-yl]oxy-3-hydroxy-5-(hydroxymethyl)oxolan-2-yl]oxy-3-hydroxycyclohexyl]oxyoxane-3,4-diol;sulfuric acid",OIXVKQDWLFHVGR-GQTDVWSESA-N,C23H48N6O17S,Neomycin sulfate (internal use)
+599,1405-10-3,71463900,71463900.0,"(2R,3R,4R,5R,6R)-5-amino-2-(aminomethyl)-6-[(1R,2S,3S,4R,6S)-4,6-diamino-2-[(2S,3R,4R,5R)-4-[(3R,4R,5R,6S)-3-amino-6-(aminomethyl)-4,5-dihydroxyoxan-2-yl]oxy-3-hydroxy-5-(hydroxymethyl)oxolan-2-yl]oxy-3-hydroxycyclohexyl]oxyoxane-3,4-diol;sulfuric acid",OIXVKQDWLFHVGR-VTSVPHRWSA-N,C23H48N6O17S,Neomycin sulfate (internal use)
+607,1405-10-3,44134844,44134844.0,"5-amino-2-(aminomethyl)-6-[4,6-diamino-2-[4-[3-amino-6-(aminomethyl)-4,5-dihydroxyoxan-2-yl]oxy-3-hydroxy-5-(hydroxymethyl)oxolan-2-yl]oxy-3-hydroxycyclohexyl]oxyoxane-3,4-diol;sulfuric acid",KWBUARAINLGYMG-UHFFFAOYSA-N,C23H52N6O25S3,Neomycin sulfate (internal use)
+616,1405-10-3,291576,291576.0,"5-amino-2-(aminomethyl)-6-[4,6-diamino-2-[4-[3-amino-6-(aminomethyl)-4,5-dihydroxyoxan-2-yl]oxy-3-hydroxy-5-(hydroxymethyl)oxolan-2-yl]oxy-3-hydroxycyclohexyl]oxyoxane-3,4-diol;sulfuric acid",OIXVKQDWLFHVGR-UHFFFAOYSA-N,C23H48N6O17S,Neomycin sulfate (internal use)
+630,1405-10-3,5702091,5702091.0,"(2R,3S,4R,5R)-5-amino-2-(aminomethyl)-6-[(1R,2R,3S,4R,6S)-4,6-diamino-2-[(3R,4S,5R)-4-[(2R,3R,4R,5S,6S)-3-amino-6-(aminomethyl)-4,5-dihydroxyoxan-2-yl]oxy-3-hydroxy-5-(hydroxymethyl)oxolan-2-yl]oxy-3-hydroxycyclohexyl]oxyoxane-3,4-diol;sulfuric acid",OIXVKQDWLFHVGR-QHGNSZIBSA-N,C23H48N6O17S,Neomycin sulfate (internal use)
+645,1405-10-3,24978553,24978553.0,"(2R,3S,4R,5R,6R)-5-amino-2-(aminomethyl)-6-[(1R,2R,3S,4R,6S)-4,6-diamino-2-[(2S,3R,4S,5R)-4-[(2R,3R,4R,5S,6S)-3-amino-6-(aminomethyl)-4,5-dihydroxyoxan-2-yl]oxy-3-hydroxy-5-(hydroxymethyl)oxolan-2-yl]oxy-3-hydroxycyclohexyl]oxyoxane-3,4-diol;sulfuric acid",KWBUARAINLGYMG-JGMIRXPNSA-N,C23H52N6O25S3,Neomycin sulfate (internal use)
+661,1405-10-3,53384921,53384921.0,"(3S,4S,6R)-5-amino-2-(aminomethyl)-6-[(1S,2S,4R)-4,6-diamino-2-[(2S,3S,5R)-4-[(3S,4S,5R)-3-amino-6-(aminomethyl)-4,5-dihydroxyoxan-2-yl]oxy-3-hydroxy-5-(hydroxymethyl)oxolan-2-yl]oxy-3-hydroxycyclohexyl]oxyoxane-3,4-diol;sulfuric acid",KWBUARAINLGYMG-VLSPHOFWSA-N,C23H52N6O25S3,Neomycin sulfate (internal use)
+673,1405-10-3,45356929,45356929.0,"(3S,5R,6R)-5-amino-2-(aminomethyl)-6-[(1R,3S)-4,6-diamino-2-[(3R,4S)-4-[(2R,3R,5S,6S)-3-amino-6-(aminomethyl)-4,5-dihydroxyoxan-2-yl]oxy-3-hydroxy-5-(hydroxymethyl)oxolan-2-yl]oxy-3-hydroxycyclohexyl]oxyoxane-3,4-diol;sulfuric acid",KWBUARAINLGYMG-FRMLTBNYSA-N,C23H52N6O25S3,Neomycin sulfate (internal use)
+691,1405-10-3,71750990,71750990.0,"(3S,4R,6R)-5-amino-2-(aminomethyl)-6-[(1R,2R,4R)-4,6-diamino-2-[(2S,3S,5R)-4-[(2R,4R,5S)-3-amino-6-(aminomethyl)-4,5-dihydroxyoxan-2-yl]oxy-3-hydroxy-5-(hydroxymethyl)oxolan-2-yl]oxy-3-hydroxycyclohexyl]oxyoxane-3,4-diol",PGBHMTALBVVCIT-KSNCYDENSA-N,C23H46N6O13,Neomycin sulfate (internal use)
+701,1405-10-3,71299257,71299257.0,"(2R,3S,4R,5R,6R)-5-amino-2-(aminomethyl)-6-[(1R,2R,3S,4R,6S)-4,6-diamino-2-[(3R,4S,5R)-4-[(2R,3R,4R,5S,6S)-3-amino-6-(aminomethyl)-4,5-dihydroxyoxan-2-yl]oxy-3-hydroxy-5-(hydroxymethyl)oxolan-2-yl]oxy-3-hydroxycyclohexyl]oxyoxane-3,4-diol;sulfuric acid",OIXVKQDWLFHVGR-ZGBYEKJCSA-N,C23H48N6O17S,Neomycin sulfate (internal use)
+715,1405-10-3,71308654,71308654.0,"(2R,3S,4R,5R,6R)-5-amino-2-(aminomethyl)-6-[(1R,2R,3S,4R,6S)-4,6-diamino-2-[(2S,3R,4S,5R)-4-[(2R,4R,5S,6S)-3-amino-6-(aminomethyl)-4,5-dihydroxyoxan-2-yl]oxy-3-hydroxy-5-(hydroxymethyl)oxolan-2-yl]oxy-3-hydroxycyclohexyl]oxyoxane-3,4-diol;sulfuric acid;hydrate",WHAGUNPVKDUVFV-QGTTWHFQSA-N,C23H54N6O26S3,Neomycin sulfate (internal use)
+722,1405-10-3,6419968,6419968.0,"5-amino-2-(aminomethyl)-6-[4,6-diamino-2-[(2S,4R,5R)-4-[3-amino-6-(aminomethyl)-4,5-dihydroxyoxan-2-yl]oxy-3-hydroxy-5-(hydroxymethyl)oxolan-2-yl]oxy-3-hydroxycyclohexyl]oxyoxane-3,4-diol;sulfuric acid",KWBUARAINLGYMG-BNAHOEIWSA-N,C23H52N6O25S3,Neomycin sulfate (internal use)
+731,1405-10-3,8378,8378.0,"(2R,3S,4R,5R,6R)-5-amino-2-(aminomethyl)-6-[(1R,2R,3S,4R,6S)-4,6-diamino-2-[(2S,3R,4S,5R)-4-[(2R,3R,4R,5S,6S)-3-amino-6-(aminomethyl)-4,5-dihydroxyoxan-2-yl]oxy-3-hydroxy-5-(hydroxymethyl)oxolan-2-yl]oxy-3-hydroxycyclohexyl]oxyoxane-3,4-diol",PGBHMTALBVVCIT-VCIWKGPPSA-N,C23H46N6O13,Neomycin sulfate (internal use)
+745,141-90-2,1269845,1269845.0,2-sulfanylidene-1H-pyrimidin-4-one,ZEMGGZBWXRYJHK-UHFFFAOYSA-N,C4H4N2OS,Thiouracil
+747,141112-29-0,84098,84098.0,"(5-cyclopropyl-1,2-oxazol-4-yl)-[2-methylsulfonyl-4-(trifluoromethyl)phenyl]methanone",OYIKARCXOQLFHF-UHFFFAOYSA-N,C15H12F3NO4S,Isoxaflutole
+748,142-04-1,8870,8870.0,aniline;hydrochloride,MMCPOSDMTGQNKG-UHFFFAOYSA-N,C6H8ClN,Aniline hydrochloride
+751,142-59-6,3032297,3032297.0,disodium;N-[2-(sulfidocarbothioylamino)ethyl]carbamodithioate,UQJQVUOTMVCFHX-UHFFFAOYSA-L,C4H6N2Na2S4,Nabam
+754,142-59-6,3000605,3000605.0,2-(dithiocarboxyamino)ethylcarbamodithioic acid,AWYFNIZYMPNGAI-UHFFFAOYSA-N,C4H8N2S4,Nabam
+761,142-59-6,54605536,54605536.0,sodium;2-(dithiocarboxyamino)ethylcarbamodithioic acid,ZEVCJZRMCOYJSP-UHFFFAOYSA-N,C4H8N2NaS4+,Nabam
+764,142-59-6,53393243,53393243.0,disodium;N-[2-(sulfidocarbothioylamino)ethyl]carbamodithioate,UQJQVUOTMVCFHX-UHFFFAOYSA-L,C4H6N2Na2S4,Nabam
+766,143-50-0,299,299.0,,LHHGDZSESBACKH-UHFFFAOYSA-N,C10Cl10O,Chlordecone (Kepone)
+775,143-67-9,5388983,5388983.0,,KDQAABAKXDWYSZ-PNYVAJAMSA-N,C46H60N4O13S,Vinblastine sulfate
+783,143-67-9,241902,241902.0,,KDQAABAKXDWYSZ-JKDPCDLQSA-N,C46H60N4O13S,Vinblastine sulfate
+796,143-67-9,9962911,9962911.0,,KDQAABAKXDWYSZ-FCIBFBFCSA-N,C46H60N4O13S,Vinblastine sulfate
+809,143-67-9,46783244,46783244.0,,KDQAABAKXDWYSZ-DBBOTOCRSA-N,C46H60N4O13S,Vinblastine sulfate
+817,143-67-9,21867765,21867765.0,,KDQAABAKXDWYSZ-UHFFFAOYSA-N,C46H60N4O13S,Vinblastine sulfate
+822,143-81-7,23690439,23690439.0,"sodium;5-butan-2-yl-5-ethyl-4,6-dioxo-1H-pyrimidin-2-olate",QORQZMBCPRBCAB-UHFFFAOYSA-M,C10H15N2NaO3,Butabarbital sodium
+825,143390-89-0,6112114,6112114.0,methyl (2E)-2-methoxyimino-2-[2-[(2-methylphenoxy)methyl]phenyl]acetate,ZOTBXTZVPHCKPN-HTXNQAPBSA-N,C18H19NO4,Kresoxim-methyl
+826,1456-28-6,15081,15081.0,"2,6-dimethyl-4-nitrosomorpholine",DPYMAXOKJUBANR-UHFFFAOYSA-N,C6H12N2O2,"2,6-Dimethyl-N-nitrosomorpholine (DMNM)"
+828,1464-53-5,11254,11254.0,2-(oxiran-2-yl)oxirane,ZFIVKAOQEXOYFY-UHFFFAOYSA-N,C4H6O2,Diepoxybutane
+834,147-94-4,6253,6253.0,"4-amino-1-[(2R,3S,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]pyrimidin-2-one",UHDGCWIWMRVCDJ-CCXZUQQUSA-N,C9H13N3O5,Cytarabine
+842,148-82-3,460612,460612.0,(2S)-2-amino-3-[4-[bis(2-chloroethyl)amino]phenyl]propanoic acid,SGDBTWWWUNNDEQ-LBPRGKRZSA-N,C13H18Cl2N2O2,Melphalan
+843,148477-71-8,177863,177863.0,"[3-(2,4-dichlorophenyl)-2-oxo-1-oxaspiro[4.5]dec-3-en-4-yl] 2,2-dimethylbutanoate",DTDSAWVUFPGDMX-UHFFFAOYSA-N,C21H24Cl2O4,Spirodiclofen
+847,149-57-5,8697,8697.0,2-ethylhexanoic acid,OBETXYAYXDNJHR-UHFFFAOYSA-N,C8H16O2,"2-Ethylhexanoic acid  Delisted December 13, 2013 [Click here for the basis for delisting]"
+850,14901-08-7,5459896,5459896.0,"(Z)-methyl-oxido-[[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxymethylimino]azanium",YHLRMABUJXBLCK-LBCXAKKBSA-N,C8H16N2O7,Cycasin
+855,14901-08-7,6321404,6321404.0,"(E)-methyl-oxido-[[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxymethylimino]azanium",YHLRMABUJXBLCK-IRCVIWNGSA-N,C8H16N2O7,Cycasin
+860,14901-08-7,9572792,9572792.0,"(Z)-methyl-oxido-[[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxymethylimino]azanium",YHLRMABUJXBLCK-KTKRTIGZSA-N,C8H16N2O7,Cycasin
+862,151-56-4,9033,9033.0,aziridine,NOWKCMXCCJGMRR-UHFFFAOYSA-N,C2H5N,Ethyleneimine
+864,151-67-7,3562,3562.0,"2-bromo-2-chloro-1,1,1-trifluoroethane",BCQZXOMGPXTTIC-UHFFFAOYSA-N,C2HBrClF3,Halothane
+866,153-78-6,1539,1539.0,9H-fluoren-2-amine,CFRFHWQYWJMEJN-UHFFFAOYSA-N,C13H11N,2-Aminofluorene
+868,154-42-7,2723601,2723601.0,"2-amino-3,7-dihydropurine-6-thione",WYWHKKSPHMUBEB-UHFFFAOYSA-N,C5H5N5S,Thioguanine
+871,154-93-8,2578,2578.0,"1,3-bis(2-chloroethyl)-1-nitrosourea",DLGOEMSEDOSKAD-UHFFFAOYSA-N,C5H9Cl2N3O2,Bischloroethyl nitrosourea (BCNU) (Carmustine)
+872,15475-56-6,23678981,23678981.0,"sodium;(4S)-4-[[4-[(2,4-diaminopteridin-6-yl)methyl-methylamino]benzoyl]amino]-5-hydroxy-5-oxopentanoate",BKBBTCORRZMASO-ZOWNYOTGSA-M,C20H21N8NaO5,Methotrexate sodium
+875,15541-45-4,84979,84979.0,bromate,SXDBWCPKPHAZSM-UHFFFAOYSA-M,BrO3-,Bromate
+876,156-10-5,9074,9074.0,4-nitroso-N-phenylaniline,OIJHFHYPXWSVPF-UHFFFAOYSA-N,C12H10N2O,p-Nitrosodiphenylamine
+877,1596-84-5,15331,15331.0,"4-(2,2-dimethylhydrazinyl)-4-oxobutanoic acid",NOQGZXFMHARMLW-UHFFFAOYSA-N,C6H12N2O3,Daminozide
+880,15972-60-8,2078,2078.0,"2-chloro-N-(2,6-diethylphenyl)-N-(methoxymethyl)acetamide",XCSGPAVHZFQHGE-UHFFFAOYSA-N,C14H20ClNO2,Alachlor
+884,16071-86-6,9595284,9595284.0,"copper;disodium;2-oxido-5-[[4-[4-[(2E)-2-[(5E)-5-[(2-oxido-5-sulfonatophenyl)hydrazinylidene]-2,6-dioxocyclohex-3-en-1-ylidene]hydrazinyl]phenyl]phenyl]diazenyl]benzoate",YSIIVKXVQXRKAN-FFLLBNMPSA-J,C31H18CuN6Na2O9S,Direct Brown 95 (technical grade)
+886,16071-86-6,9570322,9570322.0,"copper;disodium;2-oxido-5-[[4-[4-[(2Z)-2-[(5E)-5-[(2-oxido-5-sulfonatophenyl)hydrazinylidene]-2,6-dioxocyclohex-3-en-1-ylidene]hydrazinyl]phenyl]phenyl]diazenyl]benzoate",YSIIVKXVQXRKAN-LRAZUDBQSA-J,C31H18CuN6Na2O9S,Direct Brown 95 (technical grade)
+888,16071-86-6,27671,27671.0,"copper;disodium;2-oxido-5-[[4-[4-[2-[5-[(2-oxido-5-sulfonatophenyl)hydrazinylidene]-2,6-dioxocyclohex-3-en-1-ylidene]hydrazinyl]phenyl]phenyl]diazenyl]benzoate",YSIIVKXVQXRKAN-UHFFFAOYSA-J,C31H18CuN6Na2O9S,Direct Brown 95 (technical grade)
+891,1615-80-1,15374,15374.0,"1,2-diethylhydrazine",YCBOYOYVDOUXLH-UHFFFAOYSA-N,C4H12N2,"1,2-Diethylhydrazine"
+893,1620-21-9,62413,62413.0,1-[(4-chlorophenyl)-phenylmethyl]-4-methylpiperazine;hydrochloride,MSIJLVMSKDXAQN-UHFFFAOYSA-N,C18H22Cl2N2,Chlorcyclizine hydrochloride
+896,16543-55-8,12613538,12613538.0,3-[(2S)-1-nitrosopyrrolidin-2-yl]pyridine,XKABJYQDMJTNGQ-VIFPVBQESA-N,C9H11N3O,N-Nitrosonornicotine
+897,16543-55-8,27919,27919.0,3-(1-nitrosopyrrolidin-2-yl)pyridine,XKABJYQDMJTNGQ-UHFFFAOYSA-N,C9H11N3O,N-Nitrosonornicotine
+900,16568-02-8,9548611,9548611.0,N-[(E)-ethylideneamino]-N-methylformamide,IMAGWKUTFZRWSB-HWKANZROSA-N,C4H8N2O,Gyromitrin (Acetaldehyde methylformylhydrazone)
+901,1689-84-5,15531,15531.0,"3,5-dibromo-4-hydroxybenzonitrile",UPMXNNIRAGDFEH-UHFFFAOYSA-N,C7H3Br2NO,Bromoxynil
+904,1689-99-2,15533,15533.0,"(2,6-dibromo-4-cyanophenyl) octanoate",DQKWXTIYGWPGOO-UHFFFAOYSA-N,C15H17Br2NO2,Bromoxynil octanoate
+905,1694-09-3,5284479,5284479.0,"sodium;3-[[4-[(4-dimethylazaniumylidenecyclohexa-2,5-dien-1-ylidene)-[4-[ethyl-[(3-sulfonatophenyl)methyl]amino]phenyl]methyl]-N-ethylanilino]methyl]benzenesulfonate",AXMCIYLNKNGNOT-UHFFFAOYSA-M,C39H40N3NaO6S2,Benzyl violet 4B
+910,17086-28-1,54706441,54706441.0,"4-(dimethylamino)-1,5,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4a,5,5a,6-tetrahydro-4H-tetracene-2-carboxamide;hydrate",FZKWRPSUNUOXKJ-UHFFFAOYSA-N,C22H26N2O9,Doxycycline monohydrate (internal use)
+912,17230-88-5,28417,28417.0,,POZRVZJJTULAOH-LHZXLZLDSA-N,C22H27NO2,Danazol
+915,17230-88-5,2949,2949.0,,POZRVZJJTULAOH-UHFFFAOYSA-N,C22H27NO2,Danazol
+922,17230-88-5,16219285,16219285.0,,POZRVZJJTULAOH-ZIKCMSSPSA-N,C22H27NO2,Danazol
+925,17230-88-5,5702031,5702031.0,,POZRVZJJTULAOH-GSQPBCFPSA-N,C22H27NO2,Danazol
+928,1746-01-6,15625,15625.0,"2,3,7,8-tetrachlorodibenzo-p-dioxin",HGUFODBRKLSHSI-UHFFFAOYSA-N,C12H4Cl4O2,"2,3,7,8-Tetrachlorodibenzo-p-dioxin (TCDD)"
+929,177406-68-7,24848546,24848546.0,"propan-2-yl N-[(2R)-1-[[(1R)-1-(6-fluoro-1,3-benzothiazol-2-yl)ethyl]amino]-3-methyl-1-oxobutan-2-yl]carbamate",USRKFGIXLGKMKU-IAQYHMDHSA-N,C18H24FN3O3S,Benthiavalicarb-isopropyl
+931,17804-35-2,28780,28780.0,methyl N-[1-(butylcarbamoyl)benzimidazol-2-yl]carbamate,RIOXQFHNBCKOKP-UHFFFAOYSA-N,C14H18N4O3,Benomyl
+932,1836-75-5,15787,15787.0,"2,4-dichloro-1-(4-nitrophenoxy)benzene",XITQUSLLOSKDTB-UHFFFAOYSA-N,C12H7Cl2NO3,Nitrofen (technical grade)
+933,18662-53-8,29194,29194.0,trisodium;2-[bis(carboxylatomethyl)amino]acetate;hydrate,HERBOKBJKVUALN-UHFFFAOYSA-K,C6H8NNa3O7,"Nitrilotriacetic acid, trisodium salt monohydrate"
+936,18883-66-4,29327,29327.0,"1-methyl-1-nitroso-3-[(2S,3R,4R,5S,6R)-2,4,5-trihydroxy-6-(hydroxymethyl)oxan-3-yl]urea",ZSJLQEPLLKMAKR-GKHCUFPYSA-N,C8H15N3O7,Streptozotocin (streptozocin)
+943,18883-66-4,5300,5300.0,"1-methyl-1-nitroso-3-[2,4,5-trihydroxy-6-(hydroxymethyl)oxan-3-yl]urea",ZSJLQEPLLKMAKR-UHFFFAOYSA-N,C8H15N3O7,Streptozotocin (streptozocin)
+954,18883-66-4,7067772,7067772.0,"1-methyl-1-nitroso-3-[(2R,3R,4R,5S,6R)-2,4,5-trihydroxy-6-(hydroxymethyl)oxan-3-yl]urea",ZSJLQEPLLKMAKR-NYMZXIIRSA-N,C8H15N3O7,Streptozotocin (streptozocin)
+973,18883-66-4,45357367,45357367.0,"1-methyl-1-nitroso-3-[(2R,4R,5S,6R)-2,4,5-trihydroxy-6-(hydroxymethyl)oxan-3-yl]urea",ZSJLQEPLLKMAKR-UHEPRFFZSA-N,C8H15N3O7,Streptozotocin (streptozocin)
+977,18883-66-4,6420074,6420074.0,"1-methyl-1-nitroso-3-[(3S,4S,5S)-2,4,5-trihydroxy-6-(hydroxymethyl)oxan-3-yl]urea",ZSJLQEPLLKMAKR-BLYWCMIRSA-N,C8H15N3O7,Streptozotocin (streptozocin)
+982,189-55-9,9106,9106.0,,TUGYIJVAYAHHHM-UHFFFAOYSA-N,C24H14,"Dibenzo[a,i]pyrene"
+983,189-64-0,9108,9108.0,,RXUSYFJGDZFVND-UHFFFAOYSA-N,C24H14,"Dibenzo[a,h]pyrene"
+984,1897-45-6,15910,15910.0,"2,4,5,6-tetrachlorobenzene-1,3-dicarbonitrile",CRQQGFGUEAVUIL-UHFFFAOYSA-N,C8Cl4N2,Chlorothalonil
+985,19044-88-3,29393,29393.0,"4-(dipropylamino)-3,5-dinitrobenzenesulfonamide",UNAHYJYOSSSJHH-UHFFFAOYSA-N,C12H18N4O6S,Oryzalin
+986,191-30-0,9119,9119.0,,JNTHRSHGARDABO-UHFFFAOYSA-N,C24H14,"Dibenzo[a,l]pyrene"
+987,1918-16-7,4931,4931.0,2-chloro-N-phenyl-N-propan-2-ylacetamide,MFOUDYKPLGXPGO-UHFFFAOYSA-N,C11H14ClNO,Propachlor
+988,192-65-4,9126,9126.0,,KGHMWBNEMFNJFZ-UHFFFAOYSA-N,C24H14,"Dibenzo[a,e]pyrene"
+989,1929-82-4,16004,16004.0,2-chloro-6-(trichloromethyl)pyridine,DCUJJWWUNKIJPH-UHFFFAOYSA-N,C6H3Cl4N,Nitrapyrin
+991,193-39-5,9131,9131.0,,SXQBHARYMNFBPS-UHFFFAOYSA-N,C22H12,"Indeno [1,2,3-cd]pyrene"
+992,1937-37-7,5359662,5359662.0,"disodium;(6Z)-4-amino-3-[[4-[4-[(2,4-diaminophenyl)diazenyl]phenyl]phenyl]diazenyl]-5-oxo-6-(phenylhydrazinylidene)naphthalene-2,7-disulfonate",OLVNAWLXZDRGPL-QXCCSOORSA-L,C34H25N9Na2O7S2,Direct Black 38 (technical grade)
+1001,1937-37-7,44135447,44135447.0,"disodium;4-amino-3-[[4-[4-[(2,4-diaminophenyl)diazenyl]phenyl]phenyl]diazenyl]-5-oxo-6-(phenylhydrazinylidene)naphthalene-2,7-disulfonate",OLVNAWLXZDRGPL-UHFFFAOYSA-L,C34H25N9Na2O7S2,Direct Black 38 (technical grade)
+1005,1937-37-7,5702678,5702678.0,"disodium;(6E)-4-amino-3-[[4-[4-[(2,4-diaminophenyl)diazenyl]phenyl]phenyl]diazenyl]-5-oxo-6-(phenylhydrazinylidene)naphthalene-2,7-disulfonate",OLVNAWLXZDRGPL-RXQMZGKISA-L,C34H25N9Na2O7S2,Direct Black 38 (technical grade)
+1010,194-59-2,9134,9134.0,,STJXCDGCXVZHDU-UHFFFAOYSA-N,C20H13N,"7H-Dibenzo[c,g]carbazole"
+1011,19666-30-9,29732,29732.0,"5-tert-butyl-3-(2,4-dichloro-5-propan-2-yloxyphenyl)-1,3,4-oxadiazol-2-one",CHNUNORXWHYHNE-UHFFFAOYSA-N,C15H18Cl2N2O3,Oxadiazon
+1014,19774-82-4,441325,441325.0,"(2-butyl-1-benzofuran-3-yl)-[4-[2-(diethylamino)ethoxy]-3,5-diiodophenyl]methanone;hydrochloride",ITPDYQOUSLNIHG-UHFFFAOYSA-N,C25H30ClI2NO3,Amiodarone hydrochloride
+1018,20265-96-7,5284363,5284363.0,4-chloroaniline;hydrochloride,ISJBQSJDQZLCSF-UHFFFAOYSA-N,C6H7Cl2N,p-Chloroaniline hydrochloride
+1021,20325-40-0,62311,62311.0,4-(4-amino-3-methoxyphenyl)-2-methoxyaniline;dihydrochloride,UXTIAFYTYOEQHV-UHFFFAOYSA-N,C14H18Cl2N2O2,"3,3'-Dimethoxybenzidine dihydrochloride"
+1025,20354-26-1,4690,4690.0,"2-(3,4-dichlorophenyl)-4-methyl-1,2,4-oxadiazolidine-3,5-dione",LRUUNMYPIBZBQH-UHFFFAOYSA-N,C9H6Cl2N2O3,Methazole
+1027,205-82-3,9152,9152.0,,KHNYNFUTFKJLDD-UHFFFAOYSA-N,C20H12,Benzo[j]fluoranthene
+1028,205-99-2,9153,9153.0,,FTOVXSOBNPWTSH-UHFFFAOYSA-N,C20H12,Benzo[b]fluoranthene
+1030,2058-46-0,54680782,54680782.0,"(4S,4aR,5S,5aR,6S,12aR)-4-(dimethylamino)-1,5,6,10,11,12a-hexahydroxy-6-methyl-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide;hydrochloride",SVDOODSCHVSYEK-IFLJXUKPSA-N,C22H25ClN2O9,Oxytetracycline hydrochloride (internal use)
+1037,2058-46-0,54675779,54675779.0,"(4S,4aR,5S,5aR,6S,12aR)-4-(dimethylamino)-1,5,6,10,11,12a-hexahydroxy-6-methyl-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide",OWFJMIVZYSDULZ-PXOLEDIWSA-N,C22H24N2O9,Oxytetracycline hydrochloride (internal use)
+1051,2058-46-0,71300355,71300355.0,"[(1S,4aR,11S,11aR,12S,12aR)-3-carbamoyl-4,4a,6,7,11,12-hexahydroxy-11-methyl-2,5-dioxo-1,11a,12,12a-tetrahydrotetracen-1-yl]-dimethylazanium;chloride",SVDOODSCHVSYEK-IFLJXUKPSA-N,C22H25ClN2O9,Oxytetracycline hydrochloride (internal use)
+1053,2062-78-4,16362,16362.0,"3-[1-[4,4-bis(4-fluorophenyl)butyl]piperidin-4-yl]-1H-benzimidazol-2-one",YVUQSNJEYSNKRX-UHFFFAOYSA-N,C28H29F2N3O,Pimozide
+1055,2068-78-2,249332,249332.0,,AQTQHPDCURKLKT-JKDPCDLQSA-N,C46H58N4O14S,Vincristine sulfate
+1063,2068-78-2,5388992,5388992.0,,AQTQHPDCURKLKT-PNYVAJAMSA-N,C46H58N4O14S,Vincristine sulfate
+1071,2068-78-2,9832825,9832825.0,,AQTQHPDCURKLKT-FCIBFBFCSA-N,C46H58N4O14S,Vincristine sulfate
+1079,2068-78-2,21864436,21864436.0,,AQTQHPDCURKLKT-UHFFFAOYSA-N,C46H58N4O14S,Vincristine sulfate
+1087,2068-78-2,45356935,45356935.0,,AQTQHPDCURKLKT-VEGNXYBXSA-N,C46H58N4O14S,Vincristine sulfate
+1095,2068-78-2,71752951,71752951.0,,AQTQHPDCURKLKT-VPZGPLCMSA-N,C46H58N4O14S,Vincristine sulfate
+1096,207-08-9,9158,9158.0,benzo[k]fluoranthene,HAXBIWFMXWRORI-UHFFFAOYSA-N,C20H12,Benzo[k]fluoranthene
+1098,20830-81-3,30323,30323.0,"(7S,9S)-9-acetyl-7-[(2R,4S,5S,6S)-4-amino-5-hydroxy-6-methyloxan-2-yl]oxy-6,9,11-trihydroxy-4-methoxy-8,10-dihydro-7H-tetracene-5,12-dione",STQGQHZAVUOBTE-VGBVRHCVSA-N,C27H29NO10,Daunomycin
+1104,2092-56-0,23669617,23669617.0,sodium;5-chloro-4-methyl-2-[2-(2-oxonaphthalen-1-ylidene)hydrazinyl]benzenesulfonate,NZKITCCKLZNMRX-UHFFFAOYSA-M,C17H12ClN2NaO4S,D&C Red No. 8
+1107,2092-56-0,23685307,23685307.0,sodium;5-chloro-4-methyl-2-[(2E)-2-(2-oxonaphthalen-1-ylidene)hydrazinyl]benzenesulfonate,NZKITCCKLZNMRX-SJEOTZHBSA-M,C17H12ClN2NaO4S,D&C Red No. 8
+1108,2155-70-6,16682828,16682828.0,tributylstannyl 2-methylprop-2-enoate,LPUCKLOWOWADAC-UHFFFAOYSA-M,C16H32O2Sn,Tributyltin methacrylate
+1109,21725-46-2,30773,30773.0,"2-[[4-chloro-6-(ethylamino)-1,3,5-triazin-2-yl]amino]-2-methylpropanenitrile",MZZBPDKVEFVLFF-UHFFFAOYSA-N,C9H13ClN6,Cyanazine
+1111,21739-91-3,23665583,23665583.0,sodium;(E)-3-bromo-4-(4-methoxyphenyl)-4-oxobut-2-enoate,DVDCIQWIGOVWEX-MLBSPLJJSA-M,C11H8BrNaO4,Cytembena
+1113,21739-91-3,5358572,5358572.0,(E)-3-bromo-4-(4-methoxyphenyl)-4-oxobut-2-enoic acid,UPZFHUODAYGHDZ-RMKNXTFCSA-N,C11H9BrO4,Cytembena
+1116,218-01-9,9171,9171.0,chrysene,WDECIBYCCFPHNR-UHFFFAOYSA-N,C18H12,Chrysene
+1118,21829-25-4,4485,4485.0,"dimethyl 2,6-dimethyl-4-(2-nitrophenyl)-1,4-dihydropyridine-3,5-dicarboxylate",HYIMSNHJOBLJNT-UHFFFAOYSA-N,C17H18N2O6,Nifedipine
+1121,2212-67-1,16653,16653.0,S-ethyl azepane-1-carbothioate,DEDOPGXGGQYYMW-UHFFFAOYSA-N,C9H17NOS,Molinate
+1122,2238-07-5,16704,16704.0,2-(oxiran-2-ylmethoxymethyl)oxirane,GYZLOYUZLJXAJU-UHFFFAOYSA-N,C6H10O3,"Diglycidyl ether Delisted April 4, 2014 [Click here for the basis for delisting]"
+1125,22398-80-7,31170,31170.0,indiganylidynephosphane,GPXJNWSHGFTCBW-UHFFFAOYSA-N,InP,Indium phosphide
+1127,224-42-0,9177,9177.0,,ANUCHZVCBDOPOX-UHFFFAOYSA-N,C21H13N,"Dibenz[a,j]acridine"
+1128,22494-42-4,3059,3059.0,"5-(2,4-difluorophenyl)-2-hydroxybenzoic acid",HUPFGZXOMWLGNK-UHFFFAOYSA-N,C13H8F2O3,Diflunisal
+1130,22506-53-2,31186,31186.0,"3,9-dinitrofluoranthene",FGDKXSJXYFAHHH-UHFFFAOYSA-N,C16H8N2O4,"3,9-Dinitrofluoranthene"
+1131,226-36-8,9183,9183.0,,JNCSIWAONQTVCF-UHFFFAOYSA-N,C21H13N,"Dibenz[a,h]acridine"
+1132,23092-17-3,31640,31640.0,"7-chloro-5-phenyl-1-(2,2,2-trifluoroethyl)-3H-1,4-benzodiazepin-2-one",WYCLKVQLVUQKNZ-UHFFFAOYSA-N,C17H12ClF3N2O,Halazepam
+1134,23103-98-2,31645,31645.0,"[2-(dimethylamino)-5,6-dimethylpyrimidin-4-yl] N,N-dimethylcarbamate",YFGYUFNIOHWBOB-UHFFFAOYSA-N,C11H18N4O2,Pirimicarb
+1135,2312-35-8,4936,4936.0,[2-(4-tert-butylphenoxy)cyclohexyl] prop-2-ynyl sulfite,ZYHMJXZULPZUED-UHFFFAOYSA-N,C19H26O4S,Propargite
+1139,23246-96-0,5281744,5281744.0,,SVCNNZDUGWLODJ-RAYFHMIRSA-N,C18H23NO6,Riddelliine
+1142,23541-50-6,62770,62770.0,"(7S,9S)-9-acetyl-7-[(2R,4S,5S,6S)-4-amino-5-hydroxy-6-methyloxan-2-yl]oxy-6,9,11-trihydroxy-4-methoxy-8,10-dihydro-7H-tetracene-5,12-dione;hydrochloride",GUGHGUXZJWAIAS-QQYBVWGSSA-N,C27H30ClNO10,Daunorubicin hydrochloride 
+1155,23541-50-6,21864425,21864425.0,"9-acetyl-7-(4-amino-5-hydroxy-6-methyloxan-2-yl)oxy-6,9,11-trihydroxy-4-methoxy-8,10-dihydro-7H-tetracene-5,12-dione;hydrochloride",GUGHGUXZJWAIAS-UHFFFAOYSA-N,C27H30ClNO10,Daunorubicin hydrochloride 
+1163,23541-50-6,3085106,3085106.0,"(7S,9S)-9-acetyl-7-(4-amino-5-hydroxy-6-methyloxan-2-yl)oxy-6,9,11-trihydroxy-4-methoxy-8,10-dihydro-7H-tetracene-5,12-dione;hydrochloride",GUGHGUXZJWAIAS-CFCXLQPVSA-N,C27H30ClNO10,Daunorubicin hydrochloride 
+1171,23564-05-8,3032791,3032791.0,methyl N-[[2-(methoxycarbonylcarbamothioylamino)phenyl]carbamothioyl]carbamate,QGHREAKMXXNCOA-UHFFFAOYSA-N,C12H14N4O4S2,Thiophanate methyl
+1172,2385-85-5,16945,16945.0,,GVYLCNUFSHDAAW-UHFFFAOYSA-N,C10Cl12,Mirex
+1174,23950-58-5,32154,32154.0,"3,5-dichloro-N-(2-methylbut-3-yn-2-yl)benzamide",PHNUZKMIPFFYSO-UHFFFAOYSA-N,C12H11Cl2NO,Pronamide
+1175,2425-06-1,17038,17038.0,"2-(1,1,2,2-tetrachloroethylsulfanyl)-3a,4,7,7a-tetrahydroisoindole-1,3-dione",JHRWWRDRBPCWTF-UHFFFAOYSA-N,C10H9Cl4NO2S,Captafol
+1177,2426-08-6,17049,17049.0,2-(butoxymethyl)oxirane,YSUQLAYJZDEMOT-UHFFFAOYSA-N,C7H14O2,"n-Butyl glycidyl ether Delisted April 4, 2014 [Click here for the basis for delisting]"
+1179,2429-74-5,5479507,5479507.0,"tetrasodium;5-amino-3-[[4-[4-[2-(8-amino-1-oxo-3,6-disulfonatonaphthalen-2-ylidene)hydrazinyl]-3-methoxyphenyl]-2-methoxyphenyl]hydrazinylidene]-4-oxonaphthalene-2,7-disulfonate",JDCJCNVYTGPGAN-UHFFFAOYSA-J,C34H24N6Na4O16S4,C.I. Direct Blue 15
+1184,2429-74-5,5359722,5359722.0,"tetrasodium;(3E)-5-amino-3-[[4-[4-[(2E)-2-(8-amino-1-oxo-3,6-disulfonatonaphthalen-2-ylidene)hydrazinyl]-3-methoxyphenyl]-2-methoxyphenyl]hydrazinylidene]-4-oxonaphthalene-2,7-disulfonate",JDCJCNVYTGPGAN-IWEIECJKSA-J,C34H24N6Na4O16S4,C.I. Direct Blue 15
+1192,2429-74-5,6321380,6321380.0,"tetrasodium;(3Z)-5-amino-3-[[4-[4-[(2Z)-2-(8-amino-1-oxo-3,6-disulfonatonaphthalen-2-ylidene)hydrazinyl]-3-methoxyphenyl]-2-methoxyphenyl]hydrazinylidene]-4-oxonaphthalene-2,7-disulfonate",JDCJCNVYTGPGAN-ARWFNKCKSA-J,C34H24N6Na4O16S4,C.I. Direct Blue 15
+1199,2429-74-5,6506411,6506411.0,"tetrasodium;(3E)-5-amino-3-[[4-[4-[(2Z)-2-(8-amino-1-oxo-3,6-disulfonatonaphthalen-2-ylidene)hydrazinyl]-3-methoxyphenyl]-2-methoxyphenyl]hydrazinylidene]-4-oxonaphthalene-2,7-disulfonate",JDCJCNVYTGPGAN-PNAMFBHNSA-J,C34H24N6Na4O16S4,C.I. Direct Blue 15
+1203,24382-04-5,23712862,23712862.0,sodium;propanedial,VJHFGYJILVGPCS-UHFFFAOYSA-N,C3H3NaO2,"Malonaldehyde, sodium salt"
+1204,2439-01-2,17109,17109.0,"6-methyl-[1,3]dithiolo[4,5-b]quinoxalin-2-one",FBQQHUGEACOBDN-UHFFFAOYSA-N,C10H6N2OS2,Oxythioquinox (Chinomethionat)
+1208,24390-14-5,54686183,54686183.0,"(4S,4aR,5S,5aR,6R,12aR)-4-(dimethylamino)-1,5,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4a,5,5a,6-tetrahydro-4H-tetracene-2-carboxamide;ethanol;hydrate;dihydrochloride",UHHHTIKWXBRCLT-VDBOFHIQSA-N,C46H58Cl2N4O18,Doxycycline hyclate (internal use)
+1220,24390-14-5,54686898,54686898.0,"(4S,4aR,5S,5aR,6R,12aR)-4-(dimethylamino)-1,5,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4a,5,5a,6-tetrahydro-4H-tetracene-2-carboxamide;ethanol;hydrochloride",QKRDPELKHQJNII-QFWOMMJSSA-N,C24H31ClN2O9,Doxycycline hyclate (internal use)
+1236,24390-14-5,54732805,54732805.0,"(4S,4aR,5S,5aR,6R,12aS)-4-(dimethylamino)-3,5,10,11,12a-pentahydroxy-6-methyl-1,12-dioxo-4a,5,5a,6-tetrahydro-4H-tetracene-2-carboxamide;ethanol;hydrate;dihydrochloride",DAKJDBFJQOEVKT-VDBOFHIQSA-N,C46H58Cl2N4O18,Doxycycline hyclate (internal use)
+1240,24390-14-5,54685920,54685920.0,"(4S,4aR,5S,5aR,6R,12aR)-4-(dimethylamino)-1,5,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4a,5,5a,6-tetrahydro-4H-tetracene-2-carboxamide;hydrochloride",PTNZGHXUZDHMIQ-CVHRZJFOSA-N,C22H25ClN2O8,Doxycycline hyclate (internal use)
+1249,24390-14-5,54671203,54671203.0,"(4S,4aR,5S,5aR,6R,12aR)-4-(dimethylamino)-1,5,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4a,5,5a,6-tetrahydro-4H-tetracene-2-carboxamide",SGKRLCUYIXIAHR-AKNGSSGZSA-N,C22H24N2O8,Doxycycline hyclate (internal use)
+1260,2451-62-9,17142,17142.0,"1,3,5-tris(oxiran-2-ylmethyl)-1,3,5-triazinane-2,4,6-trione",OUPZKGBUJRBPGC-UHFFFAOYSA-N,C12H15N3O6,"1,3,5-Triglycidyl-s-triazinetrione  Delisted December 13, 2013 [Click here for the basis for delisting]"
+1261,2475-45-8,17190,17190.0,"1,4,5,8-tetraaminoanthracene-9,10-dione",JSFUMBWFPQSADC-UHFFFAOYSA-N,C14H12N4O2,Disperse Blue 1
+1262,25013-16-5,8456,8456.0,2-tert-butyl-4-methoxyphenol,MRBKEAMVRSLQPH-UHFFFAOYSA-N,C11H16O2,Butylated hydroxyanisole
+1267,25122-46-7,32798,32798.0,"[(8S,9R,10S,11S,13S,14S,16S,17R)-17-(2-chloroacetyl)-9-fluoro-11-hydroxy-10,13,16-trimethyl-3-oxo-6,7,8,11,12,14,15,16-octahydrocyclopenta[a]phenanthren-17-yl] propanoate",CBGUOGMQLZIXBE-XGQKBEPLSA-N,C25H32ClFO5,Clobetasol propionate
+1273,25316-40-9,443939,443939.0,"(7S,9S)-7-[(2R,4S,5S,6S)-4-amino-5-hydroxy-6-methyloxan-2-yl]oxy-6,9,11-trihydroxy-9-(2-hydroxyacetyl)-4-methoxy-8,10-dihydro-7H-tetracene-5,12-dione;hydrochloride",MWWSFMDVAYGXBV-RUELKSSGSA-N,C27H30ClNO11,Doxorubicin hydrochloride (Adriamycin)
+1277,25812-30-0,3463,3463.0,"5-(2,5-dimethylphenoxy)-2,2-dimethylpentanoic acid",HEMJJKBWTPKOJG-UHFFFAOYSA-N,C15H22O3,Gemfibrozil
+1278,2593-15-9,17432,17432.0,"5-ethoxy-3-(trichloromethyl)-1,2,4-thiadiazole",KQTVWCSONPJJPE-UHFFFAOYSA-N,C5H5Cl3N2OS,Terrazole
+1279,2602-46-2,6093231,6093231.0,"tetrasodium;(3E)-5-amino-3-[[4-[4-[(2Z)-2-(8-amino-1-oxo-3,6-disulfonatonaphthalen-2-ylidene)hydrazinyl]phenyl]phenyl]hydrazinylidene]-4-oxonaphthalene-2,7-disulfonate",HOPRIFATEWRIEO-XGZFOCIOSA-J,C32H20N6Na4O14S4,Direct Blue 6 (technical grade)
+1285,2602-46-2,54603739,54603739.0,"sodium;(3E)-5-amino-3-[[4-[4-[(2Z)-2-(8-amino-1-oxo-3,6-disulfonaphthalen-2-ylidene)hydrazinyl]phenyl]phenyl]hydrazinylidene]-4-oxonaphthalene-2,7-disulfonic acid",BWGUZJJHBRQJJH-WQHMZROLSA-N,C32H24N6NaO14S4+,Direct Blue 6 (technical grade)
+1287,26148-68-5,62805,62805.0,"9H-pyrido[2,3-b]indol-2-amine",FJTNLJLPLJDTRM-UHFFFAOYSA-N,C11H9N3,"A-alpha-C (2-Amino-9H-pyrido[2,3-b]indole)"
+1291,2646-17-5,5835026,5835026.0,(1Z)-1-[(2-methylphenyl)hydrazinylidene]naphthalen-2-one,YARMASSTSUTDQJ-ZPHPHTNESA-N,C17H14N2O,Oil Orange SS
+1292,2646-17-5,5356453,5356453.0,1-[(2-methylphenyl)hydrazinylidene]naphthalen-2-one,YARMASSTSUTDQJ-UHFFFAOYSA-N,C17H14N2O,Oil Orange SS
+1296,2646-17-5,5359790,5359790.0,(1E)-1-[(2-methylphenyl)hydrazinylidene]naphthalen-2-one,YARMASSTSUTDQJ-HTXNQAPBSA-N,C17H14N2O,Oil Orange SS
+1298,26644-46-2,33565,33565.0,"N-[2,2,2-trichloro-1-[4-(2,2,2-trichloro-1-formamidoethyl)piperazin-1-yl]ethyl]formamide",RROQIUMZODEXOR-UHFFFAOYSA-N,C10H14Cl6N4O2,Triforine
+1300,271-89-6,9223,9223.0,1-benzofuran,IANQTJSKSUMEQM-UHFFFAOYSA-N,C8H6O,Benzofuran
+1301,27208-37-3,33743,33743.0,,BZCXQYVNASLLQO-UHFFFAOYSA-N,C18H10,Cyclopenta[cd]pyrene
+1302,2784-94-3,17734,17734.0,2-[N-(2-hydroxyethyl)-4-(methylamino)-3-nitroanilino]ethanol,MWJSMPQOVHQYTE-UHFFFAOYSA-N,C11H17N3O4,HC Blue 1
+1305,2832-40-8,6815982,6815982.0,"N-[4-[2-(3-methyl-6-oxocyclohexa-2,4-dien-1-ylidene)hydrazinyl]phenyl]acetamide",ZGLBGXHBFHCOAF-UHFFFAOYSA-N,C15H15N3O2,C.I. Disperse Yellow 3
+1307,2832-40-8,5372015,5372015.0,"N-[4-[(2E)-2-(3-methyl-6-oxocyclohexa-2,4-dien-1-ylidene)hydrazinyl]phenyl]acetamide",ZGLBGXHBFHCOAF-NBVRZTHBSA-N,C15H15N3O2,C.I. Disperse Yellow 3
+1309,2832-40-8,5359815,5359815.0,"N-[4-[(2Z)-2-(3-methyl-6-oxocyclohexa-2,4-dien-1-ylidene)hydrazinyl]phenyl]acetamide",ZGLBGXHBFHCOAF-JXAWBTAJSA-N,C15H15N3O2,C.I. Disperse Yellow 3
+1312,28407-37-6,9570455,9570455.0,"tetrasodium;(3E)-5-amino-3-[[4-[4-[(2E)-2-(8-amino-1-oxo-3,6-disulfonatonaphthalen-2-ylidene)hydrazinyl]-3-hydroxyphenyl]-2-hydroxyphenyl]hydrazinylidene]-4-oxonaphthalene-2,7-disulfonate;copper",RIQIBKLXYRWFEJ-BRBBMYSQSA-J,C32H20Cu2N6Na4O16S4,C.I. Direct Blue 218
+1314,28434-86-8,34239,34239.0,4-(4-amino-3-chlorophenoxy)-2-chloroaniline,IVVWBIJMWBNKFV-UHFFFAOYSA-N,C12H10Cl2N2O,"3,3'-Dichloro-4,4'-diamino-diphenyl ether"
+1316,28911-01-5,5556,5556.0,"8-chloro-6-(2-chlorophenyl)-1-methyl-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepine",JOFWLTCLBGQGBO-UHFFFAOYSA-N,C17H12Cl2N4,Triazolam
+1317,28981-97-7,2118,2118.0,"8-chloro-1-methyl-6-phenyl-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepine",VREFGVBLTWBCJP-UHFFFAOYSA-N,C17H13ClN4,Alprazolam
+1318,29122-68-7,2249,2249.0,2-[4-[2-hydroxy-3-(propan-2-ylamino)propoxy]phenyl]acetamide,METKIMKYRPQLGS-UHFFFAOYSA-N,C14H22N2O3,Atenolol
+1322,2973-10-6,18096,18096.0,dipropan-2-yl sulfate,HWBLTYHIEYOAOL-UHFFFAOYSA-N,C6H14O4S,Diisopropyl sulfate
+1327,29767-20-2,452548,452548.0,"(5S,5aR,8aR,9R)-5-[[(2R,4aR,6R,7R,8R,8aS)-7,8-dihydroxy-2-thiophen-2-yl-4,4a,6,7,8,8a-hexahydropyrano[3,2-d][1,3]dioxin-6-yl]oxy]-9-(4-hydroxy-3,5-dimethoxyphenyl)-5a,6,8a,9-tetrahydro-5H-[2]benzofuro[6,5-f][1,3]benzodioxol-8-one",NRUKOCRGYNPUPR-QBPJDGROSA-N,C32H32O13S,Teniposide
+1333,29767-20-2,5396,5396.0,"5-[(7,8-dihydroxy-2-thiophen-2-yl-4,4a,6,7,8,8a-hexahydropyrano[3,2-d][1,3]dioxin-6-yl)oxy]-9-(4-hydroxy-3,5-dimethoxyphenyl)-5a,6,8a,9-tetrahydro-5H-[2]benzofuro[6,5-f][1,3]benzodioxol-8-one",NRUKOCRGYNPUPR-UHFFFAOYSA-N,C32H32O13S,Teniposide
+1344,29767-20-2,34698,34698.0,"(5S,5aR,8aR,9R)-5-[[(4aR,6R,7R,8R,8aS)-7,8-dihydroxy-2-thiophen-2-yl-4,4a,6,7,8,8a-hexahydropyrano[3,2-d][1,3]dioxin-6-yl]oxy]-9-(4-hydroxy-3,5-dimethoxyphenyl)-5a,6,8a,9-tetrahydro-5H-[2]benzofuro[6,5-f][1,3]benzodioxol-8-one",NRUKOCRGYNPUPR-PSZSYXFXSA-N,C32H32O13S,Teniposide
+1356,29767-20-2,275784,275784.0,"(5S,5aR,8aR,9R)-5-[(7,8-dihydroxy-2-thiophen-2-yl-4,4a,6,7,8,8a-hexahydropyrano[3,2-d][1,3]dioxin-6-yl)oxy]-9-(4-hydroxy-3,5-dimethoxyphenyl)-5a,6,8a,9-tetrahydro-5H-[2]benzofuro[6,5-f][1,3]benzodioxol-8-one",NRUKOCRGYNPUPR-CRZAWEBOSA-N,C32H32O13S,Teniposide
+1370,29767-20-2,23724511,23724511.0,"(5S,5aR,8aR,9R)-5-[[(4aR,7R,8R,8aS)-7,8-dihydroxy-2-thiophen-2-yl-4,4a,6,7,8,8a-hexahydropyrano[3,2-d][1,3]dioxin-6-yl]oxy]-9-(4-hydroxy-3,5-dimethoxyphenyl)-5a,6,8a,9-tetrahydro-5H-[2]benzofuro[6,5-f][1,3]benzodioxol-8-one",NRUKOCRGYNPUPR-ZVYBSHBNSA-N,C32H32O13S,Teniposide
+1381,29767-20-2,54610154,54610154.0,"(5S,5aR,8aR,9R)-5-[[(2R)-7,8-dihydroxy-2-thiophen-2-yl-4,4a,6,7,8,8a-hexahydropyrano[3,2-d][1,3]dioxin-6-yl]oxy]-9-(4-hydroxy-3,5-dimethoxyphenyl)-5a,6,8a,9-tetrahydro-5H-[2]benzofuro[6,5-f][1,3]benzodioxol-8-one",NRUKOCRGYNPUPR-ANTWWVKXSA-N,C32H32O13S,Teniposide
+1392,29767-20-2,71752354,71752354.0,"(8aR,9R)-5-[[(2R,4aR,6R,7R,8R,8aS)-7,8-dihydroxy-2-thiophen-2-yl-4,4a,6,7,8,8a-hexahydropyrano[3,2-d][1,3]dioxin-6-yl]oxy]-9-(4-hydroxy-3,5-dimethoxyphenyl)-5a,6,8a,9-tetrahydro-5H-[2]benzofuro[6,5-f][1,3]benzodioxol-8-one",NRUKOCRGYNPUPR-VIEVQKDASA-N,C32H32O13S,Teniposide
+1399,29767-20-2,6708778,6708778.0,"(8aR,9R)-5-[[(2R,4aR,6R,7R,8R)-7,8-dihydroxy-2-thiophen-2-yl-4,4a,6,7,8,8a-hexahydropyrano[3,2-d][1,3]dioxin-6-yl]oxy]-9-(4-hydroxy-3,5-dimethoxyphenyl)-5a,6,8a,9-tetrahydro-5H-[2]benzofuro[6,5-f][1,3]benzodioxol-8-one",NRUKOCRGYNPUPR-OQMCATNJSA-N,C32H32O13S,Teniposide
+1408,29767-20-2,5284623,5284623.0,"(8aR,9R)-5-[[(4aR,6R,7R,8R,8aS)-7,8-dihydroxy-2-thiophen-2-yl-4,4a,6,7,8,8a-hexahydropyrano[3,2-d][1,3]dioxin-6-yl]oxy]-9-(4-hydroxy-3,5-dimethoxyphenyl)-5a,6,8a,9-tetrahydro-5H-[2]benzofuro[6,5-f][1,3]benzodioxol-8-one",NRUKOCRGYNPUPR-NFIYYIGVSA-N,C32H32O13S,Teniposide
+1413,298-46-4,2554,2554.0,benzo[b][1]benzazepine-11-carboxamide,FFGPTBGBLSHEPO-UHFFFAOYSA-N,C15H12N2O,Carbamazepine
+1414,298-81-7,4114,4114.0,"9-methoxyfuro[3,2-g]chromen-7-one",QXKHYNVANLEOEG-UHFFFAOYSA-N,C12H8O4,8-Methoxypsoralen with ultraviolet A therapy
+1418,299-75-2,9882105,9882105.0,"[(2S,3S)-2,3-dihydroxy-4-methylsulfonyloxybutyl] methanesulfonate",YCPOZVAOBBQLRI-WDSKDSINSA-N,C6H14O8S2,Treosulfan
+1419,299-75-2,9296,9296.0,"(2,3-dihydroxy-4-methylsulfonyloxybutyl) methanesulfonate",YCPOZVAOBBQLRI-UHFFFAOYSA-N,C6H14O8S2,Treosulfan
+1422,301-04-2,9317,9317.0,lead(2+);diacetate,GUWSLQUAAYEZAF-UHFFFAOYSA-L,C4H6O4Pb,Lead acetate
+1425,301-12-2,4618,4618.0,1-dimethoxyphosphorylsulfanyl-2-ethylsulfinylethane,PMCVMORKVPSKHZ-UHFFFAOYSA-N,C6H15O4PS2,Oxydemeton methyl
+1426,302-01-2,9321,9321.0,hydrazine,OAKJQQAXSVQMHS-UHFFFAOYSA-N,H4N2,Hydrazine
+1428,302-17-0,2707,2707.0,"2,2,2-trichloroethane-1,1-diol",RNFNDJAIBTYOQL-UHFFFAOYSA-N,C2H3Cl3O2,Chloral hydrate
+1430,302-70-5,9334,9334.0,2-chloro-N-(2-chloroethyl)-N-methylethanamine oxide;hydrochloride,SYNHCENRCUAUNM-UHFFFAOYSA-N,C5H12Cl3NO,Nitrogen mustard N-oxide hydrochloride
+1435,302-79-4,444795,444795.0,"(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenoic acid",SHGAZHPCJJPHSC-YCNIQYBTSA-N,C20H28O2,All-trans retinoic acid
+1438,303-34-4,5281735,5281735.0,"[(7S,8R)-7-[(Z)-2-methylbut-2-enoyl]oxy-5,6,7,8-tetrahydro-3H-pyrrolizin-1-yl]methyl (2R)-2,3-dihydroxy-2-[(1S)-1-methoxyethyl]-3-methylbutanoate",QHOZSLCIKHUPSU-LPLKQDONSA-N,C21H33NO7,Lasiocarpine
+1446,303-34-4,6325507,6325507.0,"[(7S,8R)-7-[(Z)-2-methylbut-2-enoyl]oxy-5,6,7,8-tetrahydro-3H-pyrrolizin-1-yl]methyl (2R)-2,3-dihydroxy-2-[(1R)-1-methoxyethyl]-3-methylbutanoate",QHOZSLCIKHUPSU-GTZNJGJUSA-N,C21H33NO7,Lasiocarpine
+1450,303-34-4,6321388,6321388.0,"[(7S,8R)-7-[(Z)-2-methylbut-2-enoyl]oxy-5,6,7,8-tetrahydro-3H-pyrrolizin-1-yl]methyl (2S)-2,3-dihydroxy-2-[(1S)-1-methoxyethyl]-3-methylbutanoate",QHOZSLCIKHUPSU-PNFBIMPKSA-N,C21H33NO7,Lasiocarpine
+1454,303-34-4,5355259,5355259.0,"[(7S,8R)-7-[(Z)-2-methylbut-2-enoyl]oxy-5,6,7,8-tetrahydro-3H-pyrrolizin-1-yl]methyl 2,3-dihydroxy-2-(1-methoxyethyl)-3-methylbutanoate",QHOZSLCIKHUPSU-UHLCJWRDSA-N,C21H33NO7,Lasiocarpine
+1457,303-34-4,613201,613201.0,"[7-(2-methylbut-2-enoyloxy)-5,6,7,8-tetrahydro-3H-pyrrolizin-1-yl]methyl 2,3-dihydroxy-2-(1-methoxyethyl)-3-methylbutanoate",QHOZSLCIKHUPSU-UHFFFAOYSA-N,C21H33NO7,Lasiocarpine
+1465,303-47-9,442530,442530.0,"(2S)-2-[[(3R)-5-chloro-8-hydroxy-3-methyl-1-oxo-3,4-dihydroisochromene-7-carbonyl]amino]-3-phenylpropanoic acid",RWQKHEORZBHNRI-BMIGLBTASA-N,C20H18ClNO6,Ochratoxin A
+1468,303-47-9,4580,4580.0,"2-[(5-chloro-8-hydroxy-3-methyl-1-oxo-3,4-dihydroisochromene-7-carbonyl)amino]-3-phenylpropanoic acid",RWQKHEORZBHNRI-UHFFFAOYSA-N,C20H18ClNO6,Ochratoxin A
+1479,303-47-9,10001246,10001246.0,"(2R)-2-[[(3R)-5-chloro-8-hydroxy-3-methyl-1-oxo-3,4-dihydroisochromene-7-carbonyl]amino]-3-phenylpropanoic acid",RWQKHEORZBHNRI-MEBBXXQBSA-N,C20H18ClNO6,Ochratoxin A
+1481,303-47-9,9344,9344.0,"2-[[(3R)-5-chloro-8-hydroxy-3-methyl-1-oxo-3,4-dihydroisochromene-7-carbonyl]amino]-3-phenylpropanoic acid",RWQKHEORZBHNRI-INHVJJQHSA-N,C20H18ClNO6,Ochratoxin A
+1486,305-03-3,2708,2708.0,4-[4-[bis(2-chloroethyl)amino]phenyl]butanoic acid,JCKYGMPEJWAADB-UHFFFAOYSA-N,C14H19Cl2NO2,Chlorambucil
+1490,30516-87-1,35370,35370.0,"1-[(2R,4S,5S)-4-azido-5-(hydroxymethyl)oxolan-2-yl]-5-methylpyrimidine-2,4-dione",HBOMLICNUCNMMY-XLPZGREQSA-N,C10H13N5O4,Zidovudine (AZT)
+1498,30516-87-1,5726,5726.0,"1-[4-azido-5-(hydroxymethyl)oxolan-2-yl]-5-methylpyrimidine-2,4-dione",HBOMLICNUCNMMY-UHFFFAOYSA-N,C10H13N5O4,Zidovudine (AZT)
+1510,30516-87-1,451515,451515.0,"1-[(2R,4R,5S)-4-azido-5-(hydroxymethyl)oxolan-2-yl]-5-methylpyrimidine-2,4-dione",HBOMLICNUCNMMY-BWZBUEFSSA-N,C10H13N5O4,Zidovudine (AZT)
+1524,30516-87-1,51346748,51346748.0,"1-[(2R)-4-azido-5-(hydroxymethyl)oxolan-2-yl]-5-methylpyrimidine-2,4-dione",HBOMLICNUCNMMY-KAVNDROISA-N,C10H13N5O4,Zidovudine (AZT)
+1530,30516-87-1,10220987,10220987.0,"1-[(2S,4S,5S)-4-azido-5-(hydroxymethyl)oxolan-2-yl]-5-methylpyrimidine-2,4-dione",HBOMLICNUCNMMY-RNJXMRFFSA-N,C10H13N5O4,Zidovudine (AZT)
+1538,30516-87-1,455007,455007.0,"1-[(2R,5S)-4-azido-5-(hydroxymethyl)oxolan-2-yl]-5-methylpyrimidine-2,4-dione",HBOMLICNUCNMMY-SPDVFEMOSA-N,C10H13N5O4,Zidovudine (AZT)
+1543,3068-88-0,18303,18303.0,4-methyloxetan-2-one,GSCLMSFRWBPUSK-UHFFFAOYSA-N,C4H6O2,beta-Butyrolactone
+1546,309-00-2,2087,2087.0,,QBYJBZPUGVGKQQ-UHFFFAOYSA-N,C12H8Cl6,Aldrin
+1554,309-00-2,12310947,12310947.0,,QBYJBZPUGVGKQQ-SJJAEHHWSA-N,C12H8Cl6,Aldrin
+1560,309-00-2,24860538,24860538.0,,QBYJBZPUGVGKQQ-SUFXPJIHSA-N,C12H8Cl6,Aldrin
+1563,309-00-2,222548,222548.0,,QBYJBZPUGVGKQQ-SEIHLVFNSA-N,C12H8Cl6,Aldrin
+1567,309-00-2,61103,61103.0,,QBYJBZPUGVGKQQ-VFBQXPTHSA-N,C12H8Cl6,Aldrin
+1571,309-43-3,14148199,14148199.0,"sodium;5-pentan-2-yl-5-prop-2-enylpyrimidin-3-ide-2,4,6-trione",AXXJTNXVUHVOJW-UHFFFAOYSA-M,C12H17N2NaO3,Secobarbital sodium 
+1576,309-43-3,23677179,23677179.0,"sodium;4,6-dioxo-5-pentan-2-yl-5-prop-2-enyl-1H-pyrimidin-2-olate",AXXJTNXVUHVOJW-UHFFFAOYSA-M,C12H17N2NaO3,Secobarbital sodium 
+1578,309-43-3,16086654,16086654.0,"sodium;5-pentan-2-yl-5-prop-2-enyl-1,3-diazinane-2,4,6-trione",AXXJTNXVUHVOJW-UHFFFAOYSA-N,C12H18N2NaO3+,Secobarbital sodium 
+1580,31431-39-7,4030,4030.0,methyl N-(6-benzoyl-1H-benzimidazol-2-yl)carbamate,OPXLLQIJSORQAM-UHFFFAOYSA-N,C16H13N3O3,Mebendazole
+1582,315-22-0,9415,9415.0,,QVCMHGGNRFRMAD-XFGHUUIASA-N,C16H23NO6,Monocrotaline
+1593,315-22-0,231893,231893.0,,QVCMHGGNRFRMAD-RKWGGURWSA-N,C16H23NO6,Monocrotaline
+1597,315-22-0,4246,4246.0,,QVCMHGGNRFRMAD-UHFFFAOYSA-N,C16H23NO6,Monocrotaline
+1607,315-22-0,120834,120834.0,,QVCMHGGNRFRMAD-OLIGNJLKSA-N,C16H23NO6,Monocrotaline
+1614,315-37-7,9416,9416.0,"[(8R,9S,10R,13S,14S,17S)-10,13-dimethyl-3-oxo-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-17-yl] heptanoate",VOCBWIIFXDYGNZ-IXKNJLPQSA-N,C26H40O3,Testosterone enanthate
+1617,320-67-2,9444,9444.0,"4-amino-1-[(2R,3R,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]-1,3,5-triazin-2-one",NMUSYJAQQFHJEW-KVTDHHQDSA-N,C8H12N4O5,Azacitidine
+1624,3252-43-5,18617,18617.0,"2,2-dibromoacetonitrile",NDSBDLSWTGLNQA-UHFFFAOYSA-N,C2HBr2N,Dibromoacetonitrile
+1625,32809-16-8,36242,36242.0,"3-(3,5-dichlorophenyl)-1,5-dimethyl-3-azabicyclo[3.1.0]hexane-2,4-dione",QXJKBPAVAHBARF-UHFFFAOYSA-N,C13H11Cl2NO2,Procymidone
+1627,3296-90-0,18692,18692.0,"2,2-bis(bromomethyl)propane-1,3-diol",CHUGKEQJSLOLHL-UHFFFAOYSA-N,C5H10Br2O2,"2,2-Bis(bromomethyl)-1,3-propanediol"
+1632,330-54-1,3120,3120.0,"3-(3,4-dichlorophenyl)-1,1-dimethylurea",XMTQQYYKAHVGBJ-UHFFFAOYSA-N,C9H10Cl2N2O,Diuron
+1633,330-55-2,9502,9502.0,"3-(3,4-dichlorophenyl)-1-methoxy-1-methylurea",XKJMBINCVNINCA-UHFFFAOYSA-N,C9H10Cl2N2O2,Linuron
+1635,33069-62-4,36314,36314.0,,RCINICONZNJXQF-MZXODVADSA-N,C47H51NO14,Paclitaxel
+1641,33089-61-1,36324,36324.0,"N'-(2,4-dimethylphenyl)-N-[(2,4-dimethylphenyl)iminomethyl]-N-methylmethanimidamide",QXAITBQSYVNQDR-UHFFFAOYSA-N,C19H23N3,Amitraz
+1643,331-39-5,689043,689043.0,"(E)-3-(3,4-dihydroxyphenyl)prop-2-enoic acid",QAIPRVGONGVQAS-DUXPYHPUSA-N,C9H8O4,Caffeic acid
+1646,33286-22-5,62920,62920.0,"[(2S,3S)-5-[2-(dimethylamino)ethyl]-2-(4-methoxyphenyl)-4-oxo-2,3-dihydro-1,5-benzothiazepin-3-yl] acetate;hydrochloride",HDRXZJPWHTXQRI-BHDTVMLSSA-N,C22H27ClN2O4S,Diltiazem hydrochloride 
+1649,33286-22-5,39186,39186.0,"[(2S,3S)-5-[2-(dimethylamino)ethyl]-2-(4-methoxyphenyl)-4-oxo-2,3-dihydro-1,5-benzothiazepin-3-yl] acetate",HSUGRBWQSSZJOP-RTWAWAEBSA-N,C22H26N2O4S,Diltiazem hydrochloride 
+1656,33286-22-5,6957965,6957965.0,"2-[(2S,3S)-3-acetyloxy-2-(4-methoxyphenyl)-4-oxo-2,3-dihydro-1,5-benzothiazepin-5-yl]ethyl-dimethylazanium",HSUGRBWQSSZJOP-RTWAWAEBSA-O,C22H27N2O4S+,Diltiazem hydrochloride 
+1657,3333-67-3,18746,18746.0,nickel(2+);carbonate,ZULUUIKRFGGGTL-UHFFFAOYSA-L,CNiO3,Nickel carbonate
+1659,33419-42-0,36462,36462.0,"(5S,5aR,8aR,9R)-5-[[(2R,4aR,6R,7R,8R,8aS)-7,8-dihydroxy-2-methyl-4,4a,6,7,8,8a-hexahydropyrano[3,2-d][1,3]dioxin-6-yl]oxy]-9-(4-hydroxy-3,5-dimethoxyphenyl)-5a,6,8a,9-tetrahydro-5H-[2]benzofuro[6,5-f][1,3]benzodioxol-8-one",VJJPUSNTGOMMGY-MRVIYFEKSA-N,C29H32O13,Etoposide
+1671,33419-42-0,3310,3310.0,"5-[(7,8-dihydroxy-2-methyl-4,4a,6,7,8,8a-hexahydropyrano[3,2-d][1,3]dioxin-6-yl)oxy]-9-(4-hydroxy-3,5-dimethoxyphenyl)-5a,6,8a,9-tetrahydro-5H-[2]benzofuro[6,5-f][1,3]benzodioxol-8-one",VJJPUSNTGOMMGY-UHFFFAOYSA-N,C29H32O13,Etoposide
+1694,33419-42-0,45356822,45356822.0,"(8aS,9S)-5-[[(2S,6S,7S,8S,8aR)-7,8-dihydroxy-2-methyl-4,4a,6,7,8,8a-hexahydropyrano[3,2-d][1,3]dioxin-6-yl]oxy]-9-(4-hydroxy-3,5-dimethoxyphenyl)-5a,6,8a,9-tetrahydro-5H-[2]benzofuro[6,5-f][1,3]benzodioxol-8-one",VJJPUSNTGOMMGY-ZURUWIRVSA-N,C29H32O13,Etoposide
+1709,33419-42-0,59360017,59360017.0,"(5S,5aR,8aR,9R)-5-[[(2R,6R,7R,8R,8aS)-7,8-dihydroxy-2-methyl-4,4a,6,7,8,8a-hexahydropyrano[3,2-d][1,3]dioxin-6-yl]oxy]-9-(4-hydroxy-3,5-dimethoxyphenyl)-5a,6,8a,9-tetrahydro-5H-[2]benzofuro[6,5-f][1,3]benzodioxol-8-one",VJJPUSNTGOMMGY-LBYSYZCZSA-N,C29H32O13,Etoposide
+1714,33419-42-0,6419930,6419930.0,"(5S,8aR,9R)-5-[[(2R,4aR,6R,7R,8R,8aS)-7,8-dihydroxy-2-methyl-4,4a,6,7,8,8a-hexahydropyrano[3,2-d][1,3]dioxin-6-yl]oxy]-9-(4-hydroxy-3,5-dimethoxyphenyl)-5a,6,8a,9-tetrahydro-5H-[2]benzofuro[6,5-f][1,3]benzodioxol-8-one",VJJPUSNTGOMMGY-MRAJQDPKSA-N,C29H32O13,Etoposide
+1728,33419-42-0,6610299,6610299.0,"(8aR,9R)-5-[(7,8-dihydroxy-2-methyl-4,4a,6,7,8,8a-hexahydropyrano[3,2-d][1,3]dioxin-6-yl)oxy]-9-(4-hydroxy-3,5-dimethoxyphenyl)-5a,6,8a,9-tetrahydro-5H-[2]benzofuro[6,5-f][1,3]benzodioxol-8-one",VJJPUSNTGOMMGY-BQZFVAJISA-N,C29H32O13,Etoposide
+1742,33419-42-0,6708815,6708815.0,"(8aR,9R)-5-[[(4aR,7R,8R,8aS)-7,8-dihydroxy-2-methyl-4,4a,6,7,8,8a-hexahydropyrano[3,2-d][1,3]dioxin-6-yl]oxy]-9-(4-hydroxy-3,5-dimethoxyphenyl)-5a,6,8a,9-tetrahydro-5H-[2]benzofuro[6,5-f][1,3]benzodioxol-8-one",VJJPUSNTGOMMGY-GEGAHKOSSA-N,C29H32O13,Etoposide
+1757,33419-42-0,11758093,11758093.0,"5-[[(4aR,6R,7R,8R,8aS)-7,8-dihydroxy-2-methyl-4,4a,6,7,8,8a-hexahydropyrano[3,2-d][1,3]dioxin-6-yl]oxy]-9-(4-hydroxy-3,5-dimethoxyphenyl)-5a,6,8a,9-tetrahydro-5H-[2]benzofuro[6,5-f][1,3]benzodioxol-8-one",VJJPUSNTGOMMGY-PTNNUCCUSA-N,C29H32O13,Etoposide
+1769,33419-42-0,9916469,9916469.0,"(5S,5aR,8aR,9R)-5-[[(4aR,6R,7R,8R,8aS)-7,8-dihydroxy-2-methyl-4,4a,6,7,8,8a-hexahydropyrano[3,2-d][1,3]dioxin-6-yl]oxy]-9-(4-hydroxy-3,5-dimethoxyphenyl)-5a,6,8a,9-tetrahydro-5H-[2]benzofuro[6,5-f][1,3]benzodioxol-8-one",VJJPUSNTGOMMGY-XOKDPUQFSA-N,C29H32O13,Etoposide
+1784,33419-42-0,17571827,17571827.0,"(5S,5aR,8aR,9R)-5-[[(2R,4aR,7R,8R,8aS)-7,8-dihydroxy-2-methyl-4,4a,6,7,8,8a-hexahydropyrano[3,2-d][1,3]dioxin-6-yl]oxy]-9-(4-hydroxy-3,5-dimethoxyphenyl)-5a,6,8a,9-tetrahydro-5H-[2]benzofuro[6,5-f][1,3]benzodioxol-8-one",VJJPUSNTGOMMGY-PJVTZUROSA-N,C29H32O13,Etoposide
+1791,33419-42-0,5284558,5284558.0,"(8aR,9R)-5-[[(2R,4aR,6R,7R,8R,8aS)-7,8-dihydroxy-2-methyl-4,4a,6,7,8,8a-hexahydropyrano[3,2-d][1,3]dioxin-6-yl]oxy]-9-(4-hydroxy-3,5-dimethoxyphenyl)-5a,6,8a,9-tetrahydro-5H-[2]benzofuro[6,5-f][1,3]benzodioxol-8-one",VJJPUSNTGOMMGY-NBJJDLTASA-N,C29H32O13,Etoposide
+1803,33419-42-0,439525,439525.0,"(5S,5aR,8aR,9R)-5-[(7,8-dihydroxy-2-methyl-4,4a,6,7,8,8a-hexahydropyrano[3,2-d][1,3]dioxin-6-yl)oxy]-9-(4-hydroxy-3,5-dimethoxyphenyl)-5a,6,8a,9-tetrahydro-5H-[2]benzofuro[6,5-f][1,3]benzodioxol-8-one",VJJPUSNTGOMMGY-SEMSPOPGSA-N,C29H32O13,Etoposide
+1815,3385-03-3,82153,82153.0,,XSFJVAJPIHIPKU-XWCQMRHXSA-N,C24H31FO6,Flunisolide
+1819,34031-32-8,24199313,24199313.0,"gold(1+);3,4,5-triacetyloxy-6-(acetyloxymethyl)oxane-2-thiolate;triethylphosphane",AUJRCFUBUPVWSZ-UHFFFAOYSA-M,C20H34AuO9PS,Auranofin
+1820,34031-32-8,6333901,6333901.0,"gold(1+);3,4,5-triacetyloxy-6-(acetyloxymethyl)oxane-2-thiolate;triethylphosphanium",AUJRCFUBUPVWSZ-UHFFFAOYSA-N,C20H35AuO9PS+,Auranofin
+1823,34256-82-1,1988,1988.0,2-chloro-N-(ethoxymethyl)-N-(2-ethyl-6-methylphenyl)acetamide,VTNQPKFIQCLBDU-UHFFFAOYSA-N,C14H20ClNO2,Acetochlor
+1826,34465-46-8,42669,42669.0,"1,2,3,4,6,8-hexachlorodibenzo-p-dioxin",IMALTUQZEIFHJW-UHFFFAOYSA-N,C12H2Cl6O2,Hexachlorodibenzodioxin
+1829,3468-63-1,9570132,9570132.0,"(1Z)-1-[(2,4-dinitrophenyl)hydrazinylidene]naphthalen-2-one",JABZBOSSCDRKEA-VLGSPTGOSA-N,C16H10N4O5,D&C Orange No. 17
+1832,3546-10-9,266461,266461.0,"[(3S,8S,9S,10R,13R,14S,17R)-10,13-dimethyl-17-[(2R)-6-methylheptan-2-yl]-2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-3-yl] 2-[4-[bis(2-chloroethyl)amino]phenyl]acetate",SPJCRMJCFSJKDE-ZWBUGVOYSA-N,C39H59Cl2NO2,Phenesterin
+1833,3546-10-9,19072,19072.0,"[10,13-dimethyl-17-(6-methylheptan-2-yl)-2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-3-yl] 2-[4-[bis(2-chloroethyl)amino]phenyl]acetate",SPJCRMJCFSJKDE-UHFFFAOYSA-N,C39H59Cl2NO2,Phenesterin
+1836,35554-44-0,37175,37175.0,"1-[2-(2,4-dichlorophenyl)-2-prop-2-enoxyethyl]imidazole",PZBPKYOVPCNPJY-UHFFFAOYSA-N,C14H14Cl2N2O,Imazalil
+1839,3564-09-8,20055006,20055006.0,"disodium;3-oxo-4-[(2,4,5-trimethylphenyl)hydrazinylidene]naphthalene-2,7-disulfonate",IZJTYWDKWZYJNW-UHFFFAOYSA-L,C19H16N2Na2O7S2,Ponceau 3R
+1843,3564-09-8,5359885,5359885.0,"disodium;(4Z)-3-oxo-4-[(2,4,5-trimethylphenyl)hydrazinylidene]naphthalene-2,7-disulfonate",IZJTYWDKWZYJNW-LUUCHEBKSA-L,C19H16N2Na2O7S2,Ponceau 3R
+1850,3564-09-8,6321397,6321397.0,"disodium;(4E)-3-oxo-4-[(2,4,5-trimethylphenyl)hydrazinylidene]naphthalene-2,7-disulfonate",IZJTYWDKWZYJNW-GQKUHHGYSA-L,C19H16N2Na2O7S2,Ponceau 3R
+1855,3570-75-0,3607071,3607071.0,"N-[[4-(5-nitrofuran-2-yl)-1,3-thiazol-2-yl]amino]formamide",DUWYZHLZDVCZIO-UHFFFAOYSA-N,C8H6N4O4S,2-(2-Formylhydrazino)-4-(5-nitro-2-furyl)thiazole
+1856,364-98-7,3019,3019.0,"7-chloro-3-methyl-4H-1$l^{6},2,4-benzothiadiazine 1,1-dioxide",GDLBFKVLRPITMI-UHFFFAOYSA-N,C8H7ClN2O2S,Diazoxide
+1858,366-70-1,9703,9703.0,4-[(2-methylhydrazinyl)methyl]-N-propan-2-ylbenzamide;hydrochloride,DERJYEZSLHIUKF-UHFFFAOYSA-N,C12H20ClN3O,Procarbazine hydrochloride
+1859,36734-19-7,37517,37517.0,"3-(3,5-dichlorophenyl)-2,4-dioxo-N-propan-2-ylimidazolidine-1-carboxamide",ONUFESLQCSAYKA-UHFFFAOYSA-N,C13H13Cl2N3O3,Iprodione
+1861,36735-22-5,4999,4999.0,"7-chloro-5-(2-fluorophenyl)-1-(2,2,2-trifluoroethyl)-3H-1,4-benzodiazepine-2-thione",IKMPWMZBZSAONZ-UHFFFAOYSA-N,C17H11ClF4N2S,Quazepam
+1863,36791-04-5,37542,37542.0,"1-[(2R,3R,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]-1,2,4-triazole-3-carboxamide",IWUCXVSUMQZMFG-AFCXAGJDSA-N,C8H12N4O5,Ribavirin
+1869,36791-04-5,5064,5064.0,"1-[3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]-1,2,4-triazole-3-carboxamide",IWUCXVSUMQZMFG-UHFFFAOYSA-N,C8H12N4O5,Ribavirin
+1882,36791-04-5,53384927,53384927.0,"1-[(2R,3S,5R)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]-1,2,4-triazole-3-carboxamide",IWUCXVSUMQZMFG-ORYDJHDTSA-N,C8H12N4O5,Ribavirin
+1887,36791-04-5,6713992,6713992.0,"1-[(2R,4R,5R)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]-1,2,4-triazole-3-carboxamide",IWUCXVSUMQZMFG-PLQOEAATSA-N,C8H12N4O5,Ribavirin
+1895,36791-04-5,11447914,11447914.0,"1-[(2R,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]-1,2,4-triazole-3-carboxamide",IWUCXVSUMQZMFG-UKAPAXSZSA-N,C8H12N4O5,Ribavirin
+1898,3688-53-7,5280707,5280707.0,(Z)-2-(furan-2-yl)-3-(5-nitrofuran-2-yl)prop-2-enamide,LYAHJFZLDZDIOH-VURMDHGXSA-N,C11H8N2O5,AF-2;[2-(2-furyl)-3-(5-nitro-2-furyl)]acrylamide
+1899,3697-24-3,19427,19427.0,5-methylchrysene,GOHBXWHNJHENRX-UHFFFAOYSA-N,C19H14,5-Methylchrysene
+1900,373-02-4,9756,9756.0,nickel(2+);diacetate,AIYYMMQIMJOTBM-UHFFFAOYSA-L,C4H6NiO4,Nickel acetate
+1903,3761-53-3,5351637,5351637.0,"(4Z)-4-[(2,4-dimethylphenyl)hydrazinylidene]-3-oxonaphthalene-2,7-disulfonic acid",SOAAGHDAWFEEPP-JZJYNLBNSA-N,C18H16N2O7S2,Ponceau MX
+1919,3761-53-3,44134901,44134901.0,"disodium;4-[(2,4-dimethylphenyl)hydrazinylidene]-3-oxonaphthalene-2,7-disulfonate",YLPYFTONSCZUMH-UHFFFAOYSA-L,C18H14N2Na2O7S2,Ponceau MX
+1930,3761-53-3,53297427,53297427.0,"sodium;(4E)-4-[(2,4-dimethylphenyl)hydrazinylidene]-3-oxonaphthalene-2,7-disulfonate;sodium",BJZNCIUDHRBVNQ-NNIZZXHBSA-L,C18H14N2Na2O7S2-,Ponceau MX
+1941,3761-53-3,54603763,54603763.0,"sodium;(4Z)-4-[(2,4-dimethylphenyl)hydrazinylidene]-3-oxonaphthalene-2,7-disulfonic acid",ZCRCAVPNMCQFCJ-BZHDPTRRSA-N,C18H16N2NaO7S2+,Ponceau MX
+1948,3761-53-3,6812207,6812207.0,"4-[(2,4-dimethylphenyl)hydrazinylidene]-3-oxonaphthalene-2,7-disulfonate",SOAAGHDAWFEEPP-UHFFFAOYSA-L,C18H14N2O7S2-2,Ponceau MX
+1957,3761-53-3,6508678,6508678.0,"disodium;(4E)-4-[(2,4-dimethylphenyl)hydrazinylidene]-3-oxonaphthalene-2,7-disulfonate",YLPYFTONSCZUMH-NNIZZXHBSA-L,C18H14N2Na2O7S2,Ponceau MX
+1965,3761-53-3,6326645,6326645.0,"4-[(2,4-dimethylphenyl)hydrazinylidene]-3-oxonaphthalene-2,7-disulfonic acid",SOAAGHDAWFEEPP-UHFFFAOYSA-N,C18H16N2O7S2,Ponceau MX
+1976,3761-53-3,6364570,6364570.0,"disodium;(4Z)-4-[(2,4-dimethylphenyl)hydrazinylidene]-3-oxonaphthalene-2,7-disulfonate",YLPYFTONSCZUMH-RMBYUSIPSA-L,C18H14N2Na2O7S2,Ponceau MX
+1983,3771-19-5,19592,19592.0,"2-methyl-2-[4-(1,2,3,4-tetrahydronaphthalen-1-yl)phenoxy]propanoic acid",XJGBDJOMWKAZJS-UHFFFAOYSA-N,C20H22O3,Nafenopin
+1984,3778-73-2,3690,3690.0,"N,3-bis(2-chloroethyl)-2-oxo-1,3,2$l^{5}-oxazaphosphinan-2-amine",HOMGKSMUEGBAAB-UHFFFAOYSA-N,C7H15Cl2N2O2P,Ifosfamide
+1987,379-79-3,9787,9787.0,,CJMJLDQKTOJACI-BGQAIRJTSA-N,C70H76N10O16,Ergotamine tartrate 
+1995,379-79-3,8223,8223.0,,XCGSFFUVFURLIX-VFGNJEKYSA-N,C33H35N5O5,Ergotamine tartrate 
+2010,379-79-3,16051995,16051995.0,,NMTWKEWYQXZGCI-DDLCCZDQSA-N,C37H41N5O11,Ergotamine tartrate 
+2016,379-79-3,6537504,6537504.0,,CJMJLDQKTOJACI-BGQAIRJTSA-M,C70H75N10O16-,Ergotamine tartrate 
+2026,379-79-3,11722266,11722266.0,,CJMJLDQKTOJACI-QNUPEQBSSA-N,C70H76N10O16,Ergotamine tartrate 
+2031,3810-74-0,19648,19648.0,"2-[(1R,2R,3S,4R,5R,6S)-3-(diaminomethylideneamino)-4-[(2R,3R,4R,5S)-3-[(2S,3S,4S,5R,6S)-4,5-dihydroxy-6-(hydroxymethyl)-3-(methylamino)oxan-2-yl]oxy-4-formyl-4-hydroxy-5-methyloxolan-2-yl]oxy-2,5,6-trihydroxycyclohexyl]guanidine;sulfuric acid",QTENRWWVYAAPBI-YCRXJPFRSA-N,C42H84N14O36S3,Streptomycin sulfate
+2045,3810-74-0,44134949,44134949.0,"2-[3-(diaminomethylideneamino)-4-[3-[4,5-dihydroxy-6-(hydroxymethyl)-3-(methylamino)oxan-2-yl]oxy-4-formyl-4-hydroxy-5-methyloxolan-2-yl]oxy-2,5,6-trihydroxycyclohexyl]guanidine;sulfuric acid",QTENRWWVYAAPBI-UHFFFAOYSA-N,C42H84N14O36S3,Streptomycin sulfate
+2052,3810-74-0,19649,19649.0,"2-[(1R,2R,3S,4R,5R,6S)-3-(diaminomethylideneamino)-4-[(2R,3R,4R,5S)-3-[(2S,3S,4S,5R,6S)-4,5-dihydroxy-6-(hydroxymethyl)-3-(methylamino)oxan-2-yl]oxy-4-formyl-4-hydroxy-5-methyloxolan-2-yl]oxy-2,5,6-trihydroxycyclohexyl]guanidine",UCSJYZPVAKXKNQ-HZYVHMACSA-N,C21H39N7O12,Streptomycin sulfate
+2064,3810-74-0,6419957,6419957.0,"2-[(1S,2S,3R,4S,5S,6R)-3-(diaminomethylideneamino)-4-[(2R,3R,4R,5S)-3-[(2S,3S,4S,5R,6S)-4,5-dihydroxy-6-(hydroxymethyl)-3-(methylamino)oxan-2-yl]oxy-4-formyl-4-hydroxy-5-methyloxolan-2-yl]oxy-2,5,6-trihydroxycyclohexyl]guanidine;sulfuric acid",QTENRWWVYAAPBI-YZTFXSNBSA-N,C42H84N14O36S3,Streptomycin sulfate
+2076,3810-74-0,44593372,44593372.0,"2-[(1R,2R,3S,4R,5R,6S)-3-(diaminomethylideneamino)-4-[(2S,3S,4S,5R)-3-[(2R,3R,4R,5S,6R)-4,5-dihydroxy-6-(hydroxymethyl)-3-(methylamino)oxan-2-yl]oxy-4-formyl-4-hydroxy-5-methyloxolan-2-yl]oxy-2,5,6-trihydroxycyclohexyl]guanidine;sulfuric acid",CFCMMYICHMLDCC-ZSUPRIELSA-N,C21H41N7O16S,Streptomycin sulfate
+2088,3810-74-0,53384391,53384391.0,"2-[(1R,2R,3R,4R,5R,6R)-3-(diaminomethylideneamino)-4-[(2R,3R,5S)-3-[(2S,3S,4R,5R,6S)-4,5-dihydroxy-6-(hydroxymethyl)-3-(methylamino)oxan-2-yl]oxy-4-formyl-4-hydroxy-5-methyloxolan-2-yl]oxy-2,5,6-trihydroxycyclohexyl]guanidine;sulfuric acid",QTENRWWVYAAPBI-JSPHTOMZSA-N,C42H84N14O36S3,Streptomycin sulfate
+2099,3810-74-0,53384894,53384894.0,"2-[(1S,2S,3R,4S,5S,6R)-3-(diaminomethylideneamino)-4-[(2R,4R,5S)-3-[(3S,4S,5R,6S)-4,5-dihydroxy-6-(hydroxymethyl)-3-(methylamino)oxan-2-yl]oxy-4-formyl-4-hydroxy-5-methyloxolan-2-yl]oxy-2,5,6-trihydroxycyclohexyl]guanidine",UCSJYZPVAKXKNQ-DOYSFLDNSA-N,C21H39N7O12,Streptomycin sulfate
+2107,3810-74-0,44629934,44629934.0,"2-[(1R,2R,3R,4R,5R,6R)-3-(diaminomethylideneamino)-4-[(2R)-3-[(2S,3S,4R,5R,6S)-4,5-dihydroxy-6-(hydroxymethyl)-3-(methylamino)oxan-2-yl]oxy-4-formyl-4-hydroxy-5-methyloxolan-2-yl]oxy-2,5,6-trihydroxycyclohexyl]guanidine",UCSJYZPVAKXKNQ-YIFRGMIZSA-N,C21H39N7O12,Streptomycin sulfate
+2113,3810-74-0,5702119,5702119.0,"2-[(1R,2R,3S,4R,5R,6S)-3-(diaminomethylideneamino)-4-[(2R,4R,5S)-3-[(2S,3S,4S,5R,6S)-4,5-dihydroxy-6-(hydroxymethyl)-3-(methylamino)oxan-2-yl]oxy-4-formyl-4-hydroxy-5-methyloxolan-2-yl]oxy-2,5,6-trihydroxycyclohexyl]guanidine;sulfuric acid",CFCMMYICHMLDCC-RVPLDQIASA-N,C21H41N7O16S,Streptomycin sulfate
+2123,38194-50-2,1548887,1548887.0,2-[(3Z)-6-fluoro-2-methyl-3-[(4-methylsulfinylphenyl)methylidene]inden-1-yl]acetic acid,MLKXDPUZXIRXEP-MFOYZWKCSA-N,C20H17FO3S,Sulindac
+2126,38194-50-2,5352,5352.0,2-[6-fluoro-2-methyl-3-[(4-methylsulfinylphenyl)methylidene]inden-1-yl]acetic acid,MLKXDPUZXIRXEP-UHFFFAOYSA-N,C20H17FO3S,Sulindac
+2132,38194-50-2,1548885,1548885.0,2-[(3E)-6-fluoro-2-methyl-3-[(4-methylsulfinylphenyl)methylidene]inden-1-yl]acetic acid,MLKXDPUZXIRXEP-RQZCQDPDSA-N,C20H17FO3S,Sulindac
+2136,38260-01-4,71433,71433.0,"N'-[2-(2-aminoethylamino)ethyl]ethane-1,2-diamine;dihydrochloride",WYHIICXRPHEJKI-UHFFFAOYSA-N,C6H20Cl2N4,Trientine hydrochloride
+2140,389-08-2,4421,4421.0,"1-ethyl-7-methyl-4-oxo-1,8-naphthyridine-3-carboxylic acid",MHWLWQUZZRMNGJ-UHFFFAOYSA-N,C12H12N2O3,Nalidixic acid
+2144,39156-41-7,38221,38221.0,"4-methoxybenzene-1,3-diamine;sulfuric acid",FDJQHYWUHGBBTO-UHFFFAOYSA-N,C7H12N2O5S,"2,4-Diaminoanisole sulfate"
+2146,3963-95-9,54685047,54685047.0,"(4S,4aR,5S,5aR,12aR)-4-(dimethylamino)-1,5,10,11,12a-pentahydroxy-6-methylidene-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide;hydrochloride",VXPSARQTYDZXAO-CCHMMTNSSA-N,C22H23ClN2O8,Methacycline hydrochloride
+2150,39831-55-5,38351,38351.0,"(2S)-4-amino-N-[(1R,2S,3S,4R,5S)-5-amino-2-[(2S,3R,4S,5S,6R)-4-amino-3,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-4-[(2R,3R,4S,5S,6R)-6-(aminomethyl)-3,4,5-trihydroxyoxan-2-yl]oxy-3-hydroxycyclohexyl]-2-hydroxybutanamide;sulfuric acid",FXKSEJFHKVNEFI-GCZBSULCSA-N,C22H47N5O21S2,Amikacin sulfate
+2165,39831-55-5,45357036,45357036.0,"4-amino-N-[(1R,2R,3S,5S)-5-amino-2-[(2S,3R,4S,5S,6R)-4-amino-3,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-4-[(2R,3R,4S,5R,6R)-6-(aminomethyl)-3,4,5-trihydroxyoxan-2-yl]oxy-3-hydroxycyclohexyl]-2-hydroxybutanamide;sulfuric acid",FXKSEJFHKVNEFI-MZSVMMOASA-N,C22H47N5O21S2,Amikacin sulfate
+2175,39831-55-5,19082597,19082597.0,"4-amino-N-[5-amino-2-[4-amino-3,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-4-[6-(aminomethyl)-3,4,5-trihydroxyoxan-2-yl]oxy-3-hydroxycyclohexyl]-2-hydroxybutanamide;sulfuric acid",FXKSEJFHKVNEFI-UHFFFAOYSA-N,C22H47N5O21S2,Amikacin sulfate
+2192,39831-55-5,73652147,73652147.0,"(2S)-4-amino-N-[(1R,2R,3S,4S,5S)-5-amino-2-[(2S,3R,4S,5S,6S)-4-amino-3,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-4-[(2R,3R,4S,5S,6S)-6-(aminomethyl)-3,4,5-trihydroxyoxan-2-yl]oxy-3-hydroxycyclohexyl]-2-hydroxybutanamide;sulfuric acid",FXKSEJFHKVNEFI-LTARTOCNSA-N,C22H47N5O21S2,Amikacin sulfate
+2201,39831-55-5,66545310,66545310.0,"(2S)-4-amino-N-[(1R,2S,3S,4R,5S)-5-amino-2-[(2S,3R,4S,5S,6R)-4-amino-3,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-4-[(3R,4S,5S,6R)-6-(aminomethyl)-3,4,5-trihydroxyoxan-2-yl]oxy-3-hydroxycyclohexyl]-2-hydroxybutanamide;sulfuric acid",FXKSEJFHKVNEFI-QQUUIRGBSA-N,C22H47N5O21S2,Amikacin sulfate
+2204,41340-25-4,3308,3308.0,"2-(1,8-diethyl-4,9-dihydro-3H-pyrano[3,4-b]indol-1-yl)acetic acid",NNYBQONXHNTVIJ-UHFFFAOYSA-N,C17H21NO3,Etodolac
+2208,41575-94-4,38904,38904.0,"azane;cyclobutane-1,1-dicarboxylic acid;platinum",DVQHYTBCTGYNNN-UHFFFAOYSA-N,C6H14N2O4Pt,Carboplatin
+2221,41575-94-4,10339178,10339178.0,"azane;cyclobutane-1,1-dicarboxylate;platinum(2+)",OLESAACUTLOWQZ-UHFFFAOYSA-L,C6H12N2O4Pt,Carboplatin
+2230,41575-94-4,498142,498142.0,"azanide;cyclobutane-1,1-dicarboxylic acid;platinum",AGFVQCSHMSTFBV-UHFFFAOYSA-N,C6H12N2O4Pt-2,Carboplatin
+2237,41575-94-4,2567,2567.0,"cyclobutane-1,1-dicarboxylic acid;platinum",IUJRHPSJWLCXAY-UHFFFAOYSA-N,C6H8O4Pt,Carboplatin
+2256,41575-94-4,73554252,73554252.0,"azanide;cyclobutane-1,1-dicarboxylate;platinum(4+)",YAYRGNWWLMLWJE-UHFFFAOYSA-L,C6H10N2O4Pt,Carboplatin
+2265,41575-94-4,56840877,56840877.0,"azane;cyclobutane-1,1-dicarboxylate;platinum(4+)",BHKICZDKIIDMNR-UHFFFAOYSA-L,C6H12N2O4Pt+2,Carboplatin
+2273,41575-94-4,46738086,46738086.0,"cyclobutane-1,1-dicarboxylic acid;diiminoplatinum",YASGLBBOTJJCOD-UHFFFAOYSA-N,C6H10N2O4Pt,Carboplatin
+2284,41575-94-4,54587891,54587891.0,"cyclobutane-1,1-dicarboxylic acid;diiminoplatinum",YASGLBBOTJJCOD-UHFFFAOYSA-N,C6H10N2O4Pt,Carboplatin
+2292,41575-94-4,11947644,11947644.0,"cyclobutane-1,1-dicarboxylic acid;platinum",IUJRHPSJWLCXAY-UHFFFAOYSA-N,C6H8O4Pt,Carboplatin
+2299,41575-94-4,426756,426756.0,"azanide;cyclobutane-1,1-dicarboxylic acid;platinum(2+)",VSRXQHXAPYXROS-UHFFFAOYSA-N,C6H12N2O4Pt,Carboplatin
+2307,42397-64-8,39184,39184.0,"1,6-dinitropyrene",GUXACCKTQWVTLG-UHFFFAOYSA-N,C16H8N2O4,"1,6-Dinitropyrene"
+2308,42397-65-9,39185,39185.0,"1,8-dinitropyrene",BLYXNIHKOMELAP-UHFFFAOYSA-N,C16H8N2O4,"1,8-Dinitropyrene"
+2310,4291-63-8,20279,20279.0,"(2R,3S,5R)-5-(6-amino-2-chloropurin-9-yl)-2-(hydroxymethyl)oxolan-3-ol",PTOAARAWEBMLNO-KVQBGUIXSA-N,C10H12ClN5O3,Cladribine
+2312,43121-43-3,39385,39385.0,"1-(4-chlorophenoxy)-3,3-dimethyl-1-(1,2,4-triazol-1-yl)butan-2-one",WURBVZBTWMNKQT-UHFFFAOYSA-N,C14H16ClN3O2,Triadimefon
+2318,434-07-1,5281034,5281034.0,"(2Z,5S,8R,9S,10S,13S,14S,17S)-17-hydroxy-2-(hydroxymethylidene)-10,13,17-trimethyl-1,4,5,6,7,8,9,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-3-one",ICMWWNHDUZJFDW-DHODBPELSA-N,C21H32O3,Oxymetholone 
+2325,434-07-1,3032303,3032303.0,"(2E,5S,8R,9S,10S,13S,14S,17S)-17-hydroxy-2-(hydroxymethylidene)-10,13,17-trimethyl-1,4,5,6,7,8,9,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-3-one",ICMWWNHDUZJFDW-CCTJMHFWSA-N,C21H32O3,Oxymetholone 
+2331,434-07-1,9902,9902.0,"(5S,8R,9S,10S,13S,14S,17S)-17-hydroxy-2-(hydroxymethylidene)-10,13,17-trimethyl-1,4,5,6,7,8,9,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-3-one",ICMWWNHDUZJFDW-IYRCEVNGSA-N,C21H32O3,Oxymetholone 
+2344,434-07-1,44629796,44629796.0,"(10S,13S,17S)-17-hydroxy-2-(hydroxymethylidene)-10,13,17-trimethyl-1,4,5,6,7,8,9,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-3-one",ICMWWNHDUZJFDW-OLPJAUBDSA-N,C21H32O3,Oxymetholone 
+2351,434-07-1,16219794,16219794.0,"(2Z,5S,8R,10S,13S,14S,17S)-17-hydroxy-2-(hydroxymethylidene)-10,13,17-trimethyl-1,4,5,6,7,8,9,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-3-one",ICMWWNHDUZJFDW-ZDBQEZQZSA-N,C21H32O3,Oxymetholone 
+2354,434-07-1,4638,4638.0,"17-hydroxy-2-(hydroxymethylidene)-10,13,17-trimethyl-1,4,5,6,7,8,9,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-3-one",ICMWWNHDUZJFDW-UHFFFAOYSA-N,C21H32O3,Oxymetholone 
+2364,4342-03-4,5353562,5353562.0,(5E)-5-(dimethylaminohydrazinylidene)imidazole-4-carboxamide,OMJKFYKNWZZKTK-UXBLZVDNSA-N,C6H10N6O,Dacarbazine
+2366,4342-03-4,5351166,5351166.0,(5Z)-5-(dimethylaminohydrazinylidene)imidazole-4-carboxamide,OMJKFYKNWZZKTK-POHAHGRESA-N,C6H10N6O,Dacarbazine
+2368,4342-03-4,5281007,5281007.0,5-(dimethylaminohydrazinylidene)imidazole-4-carboxamide,OMJKFYKNWZZKTK-UHFFFAOYSA-N,C6H10N6O,Dacarbazine
+2371,435-97-2,54680692,54680692.0,4-hydroxy-3-(1-phenylpropyl)chromen-2-one,DQDAYGNAKTZFIW-UHFFFAOYSA-N,C18H16O3,Phenprocoumon
+2373,438-41-5,9916,9916.0,"7-chloro-4-hydroxy-N-methyl-5-phenyl-3H-1,4-benzodiazepin-2-imine;hydrochloride",PRNVHVUEIITLRV-UHFFFAOYSA-N,C16H15Cl2N3O,Chlordiazepoxide hydrochloride
+2376,438-41-5,2712,2712.0,"7-chloro-4-hydroxy-N-methyl-5-phenyl-3H-1,4-benzodiazepin-2-imine",BUCORZSTKDOEKQ-UHFFFAOYSA-N,C16H14ClN3O,Chlordiazepoxide hydrochloride
+2380,439-14-5,3016,3016.0,"7-chloro-1-methyl-5-phenyl-3H-1,4-benzodiazepin-2-one",AAOVKJBEBIDNHE-UHFFFAOYSA-N,C16H13ClN2O,Diazepam
+2381,443-48-1,4173,4173.0,2-(2-methyl-5-nitroimidazol-1-yl)ethanol,VAOCPAMSLUNLGC-UHFFFAOYSA-N,C6H9N3O3,Metronidazole
+2382,446-86-6,2265,2265.0,6-(3-methyl-5-nitroimidazol-4-yl)sulfanyl-7H-purine,LMEKQMALGUDUQG-UHFFFAOYSA-N,C9H7N7O2S,Azathioprine
+2384,4549-40-0,20678,20678.0,N-ethenyl-N-methylnitrous amide,AWZVYNHQGTZJIH-UHFFFAOYSA-N,C3H6N2O,N-Nitrosomethylvinylamine
+2387,474-25-9,10133,10133.0,"(4R)-4-[(3R,5S,7R,8R,9S,10S,13R,14S,17R)-3,7-dihydroxy-10,13-dimethyl-2,3,4,5,6,7,8,9,11,12,14,15,16,17-tetradecahydro-1H-cyclopenta[a]phenanthren-17-yl]pentanoic acid",RUDATBOHQWOJDD-BSWAIDMHSA-N,C24H40O4,Chenodiol
+2399,474-25-9,9548590,9548590.0,"(4R)-4-[(3R,5S,7R,8R,9S,10S,13R,14S,17R)-3,7-dihydroxy-10,13-dimethyl-2,3,4,5,6,7,8,9,11,12,14,15,16,17-tetradecahydro-1H-cyclopenta[a]phenanthren-17-yl]pentanoate",RUDATBOHQWOJDD-BSWAIDMHSA-M,C24H39O4-,Chenodiol
+2403,4759-48-2,5282379,5282379.0,"(2Z,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenoic acid",SHGAZHPCJJPHSC-XFYACQKRSA-N,C20H28O2,Isotretinoin 
+2407,4759-48-2,5538,5538.0,"3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenoic acid",SHGAZHPCJJPHSC-UHFFFAOYSA-N,C20H28O2,Isotretinoin 
+2416,4759-48-2,12358678,12358678.0,"(2E,4E,6E,8Z)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenoic acid",SHGAZHPCJJPHSC-WBBXYVSWSA-N,C20H28O2,Isotretinoin 
+2419,4759-48-2,6419708,6419708.0,"(2Z,4E,6Z,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenoic acid",SHGAZHPCJJPHSC-CDMOMSTLSA-N,C20H28O2,Isotretinoin 
+2422,484-20-8,2355,2355.0,"4-methoxyfuro[3,2-g]chromen-7-one",BGEBZHIAGXMEMV-UHFFFAOYSA-N,C12H8O4,5-Methoxypsoralen with ultraviolet A therapy
+2423,492-80-8,10298,10298.0,"4-[4-(dimethylamino)benzenecarboximidoyl]-N,N-dimethylaniline",JPIYZTWMUGTEHX-UHFFFAOYSA-N,C17H21N3,Auramine
+2424,494-03-1,10307,10307.0,"N,N-bis(2-chloroethyl)naphthalen-2-amine",XCDXSSFOJZZGQC-UHFFFAOYSA-N,C14H15Cl2N,"N,N-Bis(2-chloroethyl)-2-naphthylamine  (Chlornapazine)"
+2426,49842-07-1,62005,62005.0,"(2S,3R,4S,5S,6R)-4-amino-2-[(1S,2S,3R,4S,6R)-4,6-diamino-3-[(2R,3R,5S,6R)-3-amino-6-(aminomethyl)-5-hydroxyoxan-2-yl]oxy-2-hydroxycyclohexyl]oxy-6-(hydroxymethyl)oxane-3,5-diol;sulfuric acid",ZEUUPKVZFKBXPW-TWDWGCDDSA-N,C18H39N5O13S,Tobramycin sulfate
+2427,50-00-0,712,712.0,formaldehyde,WSFSSNUMVMOOMR-UHFFFAOYSA-N,CH2O,Formaldehyde (gas)
+2428,50-06-6,4763,4763.0,"5-ethyl-5-phenyl-1,3-diazinane-2,4,6-trione",DDBREPKUVSBGFI-UHFFFAOYSA-N,C12H12N2O3,Phenobarbital
+2430,50-07-7,5746,5746.0,,NWIBSHFKIJFRCO-WUDYKRTCSA-N,C15H18N4O5,Mitomycin C
+2433,50-18-0,2907,2907.0,"N,N-bis(2-chloroethyl)-2-oxo-1,3,2$l^{5}-oxazaphosphinan-2-amine",CMSMOCZEIVJLDB-UHFFFAOYSA-N,C7H15Cl2N2O2P,Cyclophosphamide (anhydrous)
+2436,50-28-2,5757,5757.0,"(8R,9S,13S,14S,17S)-13-methyl-6,7,8,9,11,12,14,15,16,17-decahydrocyclopenta[a]phenanthrene-3,17-diol",VOXZDWNPVJITMN-ZBRFXRBCSA-N,C18H24O2,Estradiol 17B
+2441,50-29-3,3036,3036.0,"1-chloro-4-[2,2,2-trichloro-1-(4-chlorophenyl)ethyl]benzene",YVGGHNCTFXOJCH-UHFFFAOYSA-N,C14H9Cl5,"p,p'-DDT"
+2442,50-32-8,2336,2336.0,benzo[a]pyrene,FMMWHPNWAFZXNH-UHFFFAOYSA-N,C20H12,Benzo[a]pyrene
+2443,50-35-1,5426,5426.0,"2-(2,6-dioxopiperidin-3-yl)isoindole-1,3-dione",UEJJHQNACJXSKW-UHFFFAOYSA-N,C13H10N2O4,Thalidomide
+2449,50-36-2,446220,446220.0,"methyl (1S,3S,4R,5R)-3-benzoyloxy-8-methyl-8-azabicyclo[3.2.1]octane-4-carboxylate",ZPUCINDJVBIVPJ-LJISPDSOSA-N,C17H21NO4,Cocaine
+2451,50-36-2,5760,5760.0,"methyl (3S,4R)-3-benzoyloxy-8-methyl-8-azabicyclo[3.2.1]octane-4-carboxylate",ZPUCINDJVBIVPJ-PFSRBDOWSA-N,C17H21NO4,Cocaine
+2454,50-36-2,2826,2826.0,methyl 3-benzoyloxy-8-methyl-8-azabicyclo[3.2.1]octane-4-carboxylate,ZPUCINDJVBIVPJ-UHFFFAOYSA-N,C17H21NO4,Cocaine
+2460,50-36-2,122142,122142.0,"methyl (1S,4R,5R)-3-benzoyloxy-8-methyl-8-azabicyclo[3.2.1]octane-4-carboxylate",ZPUCINDJVBIVPJ-MCBWDKPDSA-N,C17H21NO4,Cocaine
+2464,50-41-9,3033832,3033832.0,"2-[4-[(Z)-2-chloro-1,2-diphenylethenyl]phenoxy]-N,N-diethylethanamine;2-hydroxypropane-1,2,3-tricarboxylic acid",PYTMYKVIJXPNBD-OQKDUQJOSA-N,C32H36ClNO8,Clomiphene citrate
+2471,50-41-9,6420009,6420009.0,"2-[4-[(E)-2-chloro-1,2-diphenylethenyl]phenoxy]-N,N-diethylethanamine;2-hydroxypropane-1,2,3-tricarboxylic acid",PYTMYKVIJXPNBD-BTKVJIOYSA-N,C32H36ClNO8,Clomiphene citrate
+2475,50-41-9,60974,60974.0,"2-[4-(2-chloro-1,2-diphenylethenyl)phenoxy]-N,N-diethylethanamine;2-hydroxypropane-1,2,3-tricarboxylic acid",PYTMYKVIJXPNBD-UHFFFAOYSA-N,C32H36ClNO8,Clomiphene citrate
+2481,50-55-5,5770,5770.0,"methyl (1R,15S,17R,18R,19S,20S)-6,18-dimethoxy-17-(3,4,5-trimethoxybenzoyl)oxy-1,3,11,12,14,15,16,17,18,19,20,21-dodecahydroyohimban-19-carboxylate",QEVHRUUCFGRFIF-MDEJGZGSSA-N,C33H40N2O9,Reserpine
+2486,50-76-0,2019,2019.0,"2-amino-4,6-dimethyl-3-oxo-1-N,9-N-bis[7,11,14-trimethyl-2,5,9,12,15-pentaoxo-3,10-di(propan-2-yl)-8-oxa-1,4,11,14-tetrazabicyclo[14.3.0]nonadecan-6-yl]phenoxazine-1,9-dicarboxamide",RJURFGZVJUQBHK-UHFFFAOYSA-N,C62H86N12O16,"Actinomycin D [Basis for listing changed effective February 22, 2013]"
+2496,50-76-0,457193,457193.0,"2-amino-4,6-dimethyl-3-oxo-1-N,9-N-bis[(3R,6S,7R,10S,16S)-7,11,14-trimethyl-2,5,9,12,15-pentaoxo-3,10-di(propan-2-yl)-8-oxa-1,4,11,14-tetrazabicyclo[14.3.0]nonadecan-6-yl]phenoxazine-1,9-dicarboxamide",RJURFGZVJUQBHK-IIXSONLDSA-N,C62H86N12O16,"Actinomycin D [Basis for listing changed effective February 22, 2013]"
+2514,50-76-0,44415057,44415057.0,"2-amino-4,6-dimethyl-3-oxo-1-N,9-N-bis[(3R,6S,7S,10S,16S)-7,11,14-trimethyl-2,5,9,12,15-pentaoxo-3,10-di(propan-2-yl)-8-oxa-1,4,11,14-tetrazabicyclo[14.3.0]nonadecan-6-yl]phenoxazine-1,9-dicarboxamide",RJURFGZVJUQBHK-GIUPLMLQSA-N,C62H86N12O16,"Actinomycin D [Basis for listing changed effective February 22, 2013]"
+2518,50-78-2,2244,2244.0,2-acetyloxybenzoic acid,BSYNRYMUTXBXSQ-UHFFFAOYSA-N,C9H8O4,"Aspirin (NOTE:  It is especially  important not to use aspirin during the last three months of pregnancy,  unless specifically directed to do so by a physician because it may cause  problems in the unborn child or  complications during delivery.)"
+2520,50471-44-8,39676,39676.0,"3-(3,5-dichlorophenyl)-5-ethenyl-5-methyl-1,3-oxazolidine-2,4-dione",FSCWZHGZWWDELK-UHFFFAOYSA-N,C12H9Cl2NO3,Vinclozolin
+2522,505-60-2,10461,10461.0,1-chloro-2-(2-chloroethylsulfanyl)ethane,QKSKPIVNLNLAAV-UHFFFAOYSA-N,C4H8Cl2S,Mustard Gas
+2523,509-14-8,10509,10509.0,tetranitromethane,NYTOUQBROMCLBJ-UHFFFAOYSA-N,CN4O8,Tetranitromethane
+2524,51-21-8,3385,3385.0,"5-fluoro-1H-pyrimidine-2,4-dione",GHASVSINZRGABV-UHFFFAOYSA-N,C4H3FN2O2,Fluorouracil
+2525,51-52-5,657298,657298.0,6-propyl-2-sulfanylidene-1H-pyrimidin-4-one,KNAHARQHSZJURB-UHFFFAOYSA-N,C7H10N2OS,Propylthiouracil
+2527,51-75-2,4033,4033.0,2-chloro-N-(2-chloroethyl)-N-methylethanamine,HAWPXGHAZFHHAD-UHFFFAOYSA-N,C5H11Cl2N,Nitrogen mustard (Mechlorethamine)
+2529,51-79-6,5641,5641.0,ethyl carbamate,JOYRKODLDBILNP-UHFFFAOYSA-N,C3H7NO2,Urethane (Ethyl carbamate)
+2531,51-98-9,5832,5832.0,"[(8R,9S,10R,13S,14S,17R)-17-ethynyl-13-methyl-3-oxo-1,2,6,7,8,9,10,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-17-yl] acetate",IMONTRJLAWHYGT-ZCPXKWAGSA-N,C22H28O3,Norethisterone acetate (Norethindrone acetate)
+2534,510-15-6,10522,10522.0,"ethyl 2,2-bis(4-chlorophenyl)-2-hydroxyacetate",RAPBNVDSDCTNRC-UHFFFAOYSA-N,C16H14Cl2O3,"Ethyl-4,4'-dichlorobenzilate"
+2538,5104-49-4,3394,3394.0,2-(3-fluoro-4-phenylphenyl)propanoic acid,SYTBZMRGLBWNTM-UHFFFAOYSA-N,C15H13FO2,Flurbiprofen
+2541,512-56-1,10541,10541.0,trimethyl phosphate,WVLBCYQITXONBZ-UHFFFAOYSA-N,C3H9O4P,Trimethyl phosphate
+2542,51264-14-3,2179,2179.0,N-[4-(acridin-9-ylamino)-3-methoxyphenyl]methanesulfonamide,XCPGHVQEEXUHNC-UHFFFAOYSA-N,C21H19N3O3S,Amsacrine
+2545,513-37-1,10555,10555.0,1-chloro-2-methylprop-1-ene,KWISWUFGPUHDRY-UHFFFAOYSA-N,C4H7Cl,Dimethylvinylchloride
+2546,51338-27-3,39985,39985.0,"methyl 2-[4-(2,4-dichlorophenoxy)phenoxy]propanoate",BACHBFVBHLGWSL-UHFFFAOYSA-N,C16H14Cl2O4,Diclofop-methyl
+2548,5160-02-1,9570201,9570201.0,barium(2+);5-chloro-4-methyl-2-[(2Z)-2-(2-oxonaphthalen-1-ylidene)hydrazinyl]benzenesulfonate,JNIGYQOBELCEIZ-MAKDUZDQSA-L,C34H24BaCl2N4O8S2,D&C Red No. 9
+2551,52-01-7,5833,5833.0,"S-[(7R,8R,9S,10R,13S,14S,17R)-10,13-dimethyl-3,5'-dioxospiro[2,6,7,8,9,11,12,14,15,16-decahydro-1H-cyclopenta[a]phenanthrene-17,2'-oxolane]-7-yl] ethanethioate",LXMSZDCAJNLERA-ZHYRCANASA-N,C24H32O4S,Spironolactone
+2556,52-24-4,5453,5453.0,tris(aziridin-1-yl)-sulfanylidene-$l^{5}-phosphane,FOCVUCIESVLUNU-UHFFFAOYSA-N,C6H12N3PS,Tris(1-aziridinyl)phosphine sulfide (Thiotepa)
+2557,52-28-8,5359227,5359227.0,"(4R,4aR,7S,7aR,12bS)-9-methoxy-3-methyl-2,4,4a,7,7a,13-hexahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinoline-7-ol;phosphoric acid",WUXLCJZUUHIXFY-FFHNEAJVSA-N,C18H24NO7P,Codeine phosphate
+2562,52-67-5,5852,5852.0,(2S)-2-amino-3-methyl-3-sulfanylbutanoic acid,VVNCNSJFMMFHPL-VKHMYHEASA-N,C5H11NO2S,Penicillamine
+2566,52-76-6,5857,5857.0,"(8R,9S,10R,13S,14S,17R)-17-ethynyl-13-methyl-2,3,6,7,8,9,10,11,12,14,15,16-dodecahydro-1H-cyclopenta[a]phenanthren-17-ol",YNVGQYHLRCDXFQ-XGXHKTLJSA-N,C20H28O,Lynestrenol
+2571,52-76-6,3787925,3787925.0,"17-ethynyl-13-methyl-2,3,6,7,8,9,10,11,12,14,15,16-dodecahydro-1H-cyclopenta[a]phenanthren-17-ol",YNVGQYHLRCDXFQ-UHFFFAOYSA-N,C20H28O,Lynestrenol
+2576,52-76-6,5284486,5284486.0,"(8R,9S,10R,13S,14S,17S)-17-ethynyl-13-methyl-2,3,6,7,8,9,10,11,12,14,15,16-dodecahydro-1H-cyclopenta[a]phenanthren-17-ol",YNVGQYHLRCDXFQ-JBKQDOAHSA-N,C20H28O,Lynestrenol
+2578,52-86-8,3559,3559.0,4-[4-(4-chlorophenyl)-4-hydroxypiperidin-1-yl]-1-(4-fluorophenyl)butan-1-one,LNEPOXFFQSENCJ-UHFFFAOYSA-N,C21H23ClFNO2,Haloperidol
+2581,5216-25-1,21277,21277.0,1-chloro-4-(trichloromethyl)benzene,LVZPKYYPPLUECL-UHFFFAOYSA-N,C7H4Cl4,"p-a,a,a-Tetrachlorotoluene"
+2582,528-29-0,10707,10707.0,"1,2-dinitrobenzene",IZUKQUVSCNEFMJ-UHFFFAOYSA-N,C6H4N2O4,o-Dinitrobenzene
+2585,53-16-7,5870,5870.0,"(8R,9S,13S,14S)-3-hydroxy-13-methyl-7,8,9,11,12,14,15,16-octahydro-6H-cyclopenta[a]phenanthren-17-one",DNXHEGUUPJUMQT-CBZIJGRNSA-N,C18H22O2,Estrone
+2588,53-70-3,5889,5889.0,"naphtho[1,2-b]phenanthrene",LHRCREOYAASXPZ-UHFFFAOYSA-N,C22H14,"Dibenz[a,h]anthracene"
+2589,53-96-3,5897,5897.0,N-(9H-fluoren-2-yl)acetamide,CZIHNRWJTSTCEX-UHFFFAOYSA-N,C15H13NO,2-Acetylaminofluorene
+2591,531-76-0,4053,4053.0,2-amino-3-[4-[bis(2-chloroethyl)amino]phenyl]propanoic acid,SGDBTWWWUNNDEQ-UHFFFAOYSA-N,C13H18Cl2N2O2,Merphalan
+2592,531-82-8,10753,10753.0,"N-[4-(5-nitrofuran-2-yl)-1,3-thiazol-2-yl]acetamide",GYRMPDLIHUXUIG-UHFFFAOYSA-N,C9H7N3O4S,N-[4-(5-Nitro-2-furyl)-2-thiazolyl]acetamide
+2593,53404-19-6,18772494,18772494.0,"lithium;5-bromo-3-butan-2-yl-6-methylpyrimidin-1-ide-2,4-dione",VIMSQXDDXJYTLW-UHFFFAOYSA-M,C9H12BrLiN2O2,Bromacil lithium salt
+2596,536-33-4,2761171,2761171.0,2-ethylpyridine-4-carbothioamide,AEOCXXJPGCBFJA-UHFFFAOYSA-N,C8H10N2S,Ethionamide 
+2598,53910-25-1,439693,439693.0,"(8R)-3-[(2R,4S,5R)-4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]-7,8-dihydro-4H-imidazo[4,5-d][1,3]diazepin-8-ol",FPVKHBSQESCIEP-JQCXWYLXSA-N,C11H16N4O4,Pentostatin
+2607,53910-25-1,22810415,22810415.0,"(8R)-3-[(2S,4S,5R)-4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]-7,8-dihydro-4H-imidazo[4,5-d][1,3]diazepin-8-ol",FPVKHBSQESCIEP-KDXUFGMBSA-N,C11H16N4O4,Pentostatin
+2611,53910-25-1,40926,40926.0,"(8R)-3-[4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]-7,8-dihydro-4H-imidazo[4,5-d][1,3]diazepin-8-ol",FPVKHBSQESCIEP-LDIRUYLGSA-N,C11H16N4O4,Pentostatin
+2622,53910-25-1,24838940,24838940.0,"(8R)-3-[(4R,5S)-4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]-7,8-dihydro-4H-imidazo[4,5-d][1,3]diazepin-8-ol",FPVKHBSQESCIEP-JSXQXQAOSA-N,C11H16N4O4,Pentostatin
+2630,53910-25-1,44283251,44283251.0,"(8R)-3-[(2R,4R,5R)-4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]-7,8-dihydro-4H-imidazo[4,5-d][1,3]diazepin-8-ol",FPVKHBSQESCIEP-FNCVBFRFSA-N,C11H16N4O4,Pentostatin
+2638,53910-25-1,71296121,71296121.0,"(8R)-3-[(2S,4S,5S)-4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]-7,8-dihydro-4H-imidazo[4,5-d][1,3]diazepin-8-ol",FPVKHBSQESCIEP-KZVJFYERSA-N,C11H16N4O4,Pentostatin
+2640,54-11-5,89594,89594.0,3-[(2S)-1-methylpyrrolidin-2-yl]pyridine,SNICXCGAKADSCV-JTQLQIEISA-N,C10H14N2,Nicotine
+2644,54-11-5,942,942.0,3-(1-methylpyrrolidin-2-yl)pyridine,SNICXCGAKADSCV-UHFFFAOYSA-N,C10H14N2,Nicotine
+2651,54-11-5,157672,157672.0,3-[(2R)-1-methylpyrrolidin-2-yl]pyridine,SNICXCGAKADSCV-SNVBAGLBSA-N,C10H14N2,Nicotine
+2656,54-62-6,169371,169371.0,"(2S)-2-[[4-[(2,4-diaminopteridin-6-yl)methylamino]benzoyl]amino]pentanedioic acid",TVZGACDUOSZQKY-LBPRGKRZSA-N,C19H20N8O5,Aminopterin
+2658,54-62-6,2154,2154.0,"2-[[4-[(2,4-diaminopteridin-6-yl)methylamino]benzoyl]amino]pentanedioic acid",TVZGACDUOSZQKY-UHFFFAOYSA-N,C19H20N8O5,Aminopterin
+2662,54-91-1,4842,4842.0,3-bromo-1-[4-(3-bromopropanoyl)piperazin-1-yl]propan-1-one,NJBFOOCLYDNZJN-UHFFFAOYSA-N,C10H16Br2N2O2,Pipobroman
+2663,540-73-8,1322,1322.0,"1,2-dimethylhydrazine",DIIIISSCIXVANO-UHFFFAOYSA-N,C2H8N2,"1,2-Dimethylhydrazine"
+2664,5411-22-3,62573,62573.0,N-benzyl-N-methyl-1-phenylpropan-2-amine;hydrochloride,ANFSNXAXVLRZCG-UHFFFAOYSA-N,C17H22ClN,Benzphetamine hydrochloride
+2666,542-56-3,10958,10958.0,2-methylpropyl nitrite,APNSGVMLAYLYCT-UHFFFAOYSA-N,C4H9NO2,Isobutyl nitrite
+2668,542-75-6,24726,24726.0,"(E)-1,3-dichloroprop-1-ene",UOORRWUZONOOLO-OWOJBTEDSA-N,C3H4Cl2,"1,3-Dichloropropene"
+2674,542-75-6,24883,24883.0,"1,3-dichloroprop-1-ene",UOORRWUZONOOLO-UHFFFAOYSA-N,C3H4Cl2,"1,3-Dichloropropene"
+2680,542-75-6,5280970,5280970.0,"(Z)-1,3-dichloroprop-1-ene",UOORRWUZONOOLO-UPHRSURJSA-N,C3H4Cl2,"1,3-Dichloropropene"
+2682,542-88-1,10967,10967.0,chloro(chloromethoxy)methane,HRQGCQVOJVTVLU-UHFFFAOYSA-N,C2H4Cl2O,Bis(chloromethyl)ether
+2685,54350-48-0,5282375,5282375.0,"ethyl (2E,4E,6E,8E)-9-(4-methoxy-2,3,6-trimethylphenyl)-3,7-dimethylnona-2,4,6,8-tetraenoate",HQMNCQVAMBCHCO-DJRRULDNSA-N,C23H30O3,Etretinate
+2686,546-88-3,1990,1990.0,N-hydroxyacetamide,RRUDCFGSUDOHDG-UHFFFAOYSA-N,C2H5NO2,Acetohydroxamic acid
+2688,54965-24-1,2733525,2733525.0,"2-[4-[(Z)-1,2-diphenylbut-1-enyl]phenoxy]-N,N-dimethylethanamine;2-hydroxypropane-1,2,3-tricarboxylic acid",FQZYTYWMLGAPFJ-OQKDUQJOSA-N,C32H37NO8,Tamoxifen citrate
+2693,55-18-5,5921,5921.0,"N,N-diethylnitrous amide",WBNQDOYYEUMPFS-UHFFFAOYSA-N,C4H10N2O,N-Nitrosodiethylamine
+2696,55-86-7,5935,5935.0,2-chloro-N-(2-chloroethyl)-N-methylethanamine;hydrochloride,QZIQJVCYUQZDIR-UHFFFAOYSA-N,C5H12Cl3N,Nitrogen mustard hydrochloride (Mechlorethamine hydrochloride)
+2698,55-98-1,2478,2478.0,4-methylsulfonyloxybutyl methanesulfonate,COVZYZSDYWQREU-UHFFFAOYSA-N,C6H14O6S2,"1,4-Butanediol dimethanesulfonate (Busulfan)"
+2701,5522-43-0,21694,21694.0,1-nitropyrene,ALRLPDGCPYIVHP-UHFFFAOYSA-N,C16H9NO2,1-Nitropyrene
+2706,5534-09-8,21700,21700.0,"[2-[(8S,9R,10S,11S,13S,14S,16S,17R)-9-chloro-11-hydroxy-10,13,16-trimethyl-3-oxo-17-propanoyloxy-6,7,8,11,12,14,15,16-octahydrocyclopenta[a]phenanthren-17-yl]-2-oxoethyl] propanoate",KUVIULQEHSCUHY-XYWKZLDCSA-N,C28H37ClO7,Beclomethasone dipropionate
+2709,554-13-2,11125,11125.0,dilithium;carbonate,XGZVUEUWXADBQD-UHFFFAOYSA-L,CLi2O3,Lithium carbonate
+2714,555-84-0,9568055,9568055.0,1-[(E)-(5-nitrofuran-2-yl)methylideneamino]imidazolidin-2-one,VSVAVMVWTLLTCH-BJMVGYQFSA-N,C8H8N4O4,1-[(5-Nitrofurfurylidene)-amino]-2-imidazolidinone
+2715,556-52-5,11164,11164.0,oxiran-2-ylmethanol,CTKINSOISVBQLD-UHFFFAOYSA-N,C3H6O2,Glycidol
+2718,5589-96-8,542762,542762.0,2-bromo-2-chloroacetic acid,GEHJBWKLJVFKPS-UHFFFAOYSA-N,C2H2BrClO2,Bromochloroacetic acid
+2719,56-04-2,667493,667493.0,6-methyl-2-sulfanylidene-1H-pyrimidin-4-one,HWGBHCRJGXAGEU-UHFFFAOYSA-N,C5H6N2OS,Methylthiouracil
+2720,56-23-5,5943,5943.0,tetrachloromethane,VZGDMQKNWNREIO-UHFFFAOYSA-N,CCl4,Carbon tetrachloride
+2721,56-49-5,1674,1674.0,"3-methyl-1,2-dihydrobenzo[j]aceanthrylene",PPQNQXQZIWHJRB-UHFFFAOYSA-N,C21H16,3-Methylcholanthrene
+2725,56-53-1,448537,448537.0,4-[(E)-4-(4-hydroxyphenyl)hex-3-en-3-yl]phenol,RGLYKWWBQGJZGM-ISLYRVAYSA-N,C18H20O2,Diethylstilbestrol (DES) 
+2726,56-55-3,5954,5954.0,benzo[a]anthracene,DXBHBZVCASKNBY-UHFFFAOYSA-N,C18H12,Benz[a]anthracene
+2728,56-75-7,5959,5959.0,"2,2-dichloro-N-[(1R,2R)-1,3-dihydroxy-1-(4-nitrophenyl)propan-2-yl]acetamide",WIIZWVCIJKGZOK-RKDXNWHRSA-N,C11H12Cl2N2O5,"Chloramphenicol Delisted January 4, 2013 [Click here for the basis for delisting]"
+2733,563-47-3,11241,11241.0,3-chloro-2-methylprop-1-ene,OHXAOPZTJOUYKM-UHFFFAOYSA-N,C4H7Cl,3-Chloro-2-methylpropene
+2734,563-80-4,11251,11251.0,3-methylbutan-2-one,SYBYTAAJFKOIEJ-UHFFFAOYSA-N,C5H10O,"Methyl isopropyl ketone Delisted April 4, 2014 [Click for the basis for delisting]"
+2736,56391-57-2,62115,62115.0,"(2R,3R,4R,5R)-2-[(1S,2S,3R,4S,6R)-4-amino-3-[[(2S,3R)-3-amino-6-(aminomethyl)-3,4-dihydro-2H-pyran-2-yl]oxy]-6-(ethylamino)-2-hydroxycyclohexyl]oxy-5-methyl-4-(methylamino)oxane-3,5-diol;sulfuric acid",AGFWIZQEWFGATK-UNZHCMSXSA-N,C42H92N10O34S5,Netilmicin sulfate
+2743,56391-57-2,23581789,23581789.0,"(2R,3R,4R,5R)-2-[(1S,2S,3R,4S,6R)-4-amino-3-[[(2S,3R)-3-amino-6-(aminomethyl)-3,4-dihydro-2H-pyran-2-yl]oxy]-6-(ethylamino)-2-hydroxycyclohexyl]oxy-5-methyl-4-(methylamino)oxane-3,5-diol;sulfuric acid",PQHZSWZPVGHDEZ-UIQTUGNFSA-N,C21H43N5O11S,Netilmicin sulfate
+2747,56391-57-2,441306,441306.0,"(2R,3R,4R,5R)-2-[(1S,2S,3R,4S,6R)-4-amino-3-[[(2S,3R)-3-amino-6-(aminomethyl)-3,4-dihydro-2H-pyran-2-yl]oxy]-6-(ethylamino)-2-hydroxycyclohexyl]oxy-5-methyl-4-(methylamino)oxane-3,5-diol",CIDUJQMULVCIBT-MQDUPKMGSA-N,C21H41N5O7,Netilmicin sulfate
+2750,564-25-0,54671203,54671203.0,"(4S,4aR,5S,5aR,6R,12aR)-4-(dimethylamino)-1,5,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4a,5,5a,6-tetrahydro-4H-tetracene-2-carboxamide",SGKRLCUYIXIAHR-AKNGSSGZSA-N,C22H24N2O8,Doxycycline (internal use)
+2755,569-57-3,11289,11289.0,"1-[1-chloro-2,2-bis(4-methoxyphenyl)ethenyl]-4-methoxybenzene",BFPSDSIWYFKGBC-UHFFFAOYSA-N,C23H21ClO3,Chlorotrianisene
+2756,569-61-9,11292,11292.0,"4-[(4-aminophenyl)-(4-iminocyclohexa-2,5-dien-1-ylidene)methyl]aniline;hydrochloride",JUQPZRLQQYSMEQ-UHFFFAOYSA-N,C19H18ClN3,C.I. Basic Red 9 monohydrochloride
+2760,57-14-7,5976,5976.0,"1,1-dimethylhydrazine",RHUYHJGZWVXEHW-UHFFFAOYSA-N,C2H8N2,"1,1-Dimethylhydrazine (UDMH)"
+2764,57-33-0,23676152,23676152.0,"sodium;5-ethyl-4,6-dioxo-5-pentan-2-yl-1H-pyrimidin-2-olate",QGMRQYFBGABWDR-UHFFFAOYSA-M,C11H17N2NaO3,Pentobarbital sodium
+2766,57-33-0,11514319,11514319.0,"sodium;5-ethyl-5-pentan-2-yl-1,3-diazinane-2,4,6-trione",QGMRQYFBGABWDR-UHFFFAOYSA-N,C11H18N2NaO3+,Pentobarbital sodium
+2772,57-33-0,14075609,14075609.0,"sodium;5-ethyl-5-pentan-2-ylpyrimidin-3-ide-2,4,6-trione",QGMRQYFBGABWDR-UHFFFAOYSA-M,C11H17N2NaO3,Pentobarbital sodium
+2778,57-33-0,16219847,16219847.0,"5-ethyl-5-pentan-2-yl-1,3-diazinane-2,4,6-trione;sodium",UAMVYWFSQGYHFV-UHFFFAOYSA-N,C11H18N2NaO3,Pentobarbital sodium
+2781,57-41-0,1775,1775.0,"5,5-diphenylimidazolidine-2,4-dione",CXOFVDLJLONNDW-UHFFFAOYSA-N,C15H12N2O2,Diphenylhydantoin (Phenytoin)
+2782,57-53-4,4064,4064.0,[2-(carbamoyloxymethyl)-2-methylpentyl] carbamate,NPPQSCRMBWNHMW-UHFFFAOYSA-N,C9H18N2O4,Meprobamate
+2785,57-57-8,2365,2365.0,oxetan-2-one,VEZXCJBBBCKRPI-UHFFFAOYSA-N,C3H4O2,beta-Propiolactone
+2788,57-63-6,5991,5991.0,"(8R,9S,13S,14S,17R)-17-ethynyl-13-methyl-7,8,9,11,12,14,15,16-octahydro-6H-cyclopenta[a]phenanthrene-3,17-diol",BFPYWIDHMRZLRN-SLHNCBLASA-N,C20H24O2,Ethinylestradiol
+2793,57-63-6,3285,3285.0,"17-ethynyl-13-methyl-7,8,9,11,12,14,15,16-octahydro-6H-cyclopenta[a]phenanthrene-3,17-diol",BFPYWIDHMRZLRN-UHFFFAOYSA-N,C20H24O2,Ethinylestradiol
+2802,57-63-6,145760,145760.0,"(8R,9S,13S,14S,17S)-17-ethynyl-13-methyl-7,8,9,11,12,14,15,16-octahydro-6H-cyclopenta[a]phenanthrene-3,17-diol",BFPYWIDHMRZLRN-SWBPCFCJSA-N,C20H24O2,Ethinylestradiol
+2807,57-63-6,24707,24707.0,"(13S,17R)-17-ethynyl-13-methyl-7,8,9,11,12,14,15,16-octahydro-6H-cyclopenta[a]phenanthrene-3,17-diol",BFPYWIDHMRZLRN-OQPPHWFISA-N,C20H24O2,Ethinylestradiol
+2811,57-74-9,5993,5993.0,,BIWJNBZANLAXMG-UHFFFAOYSA-N,C10H6Cl8,Chlordane
+2818,57-74-9,24860539,24860539.0,,BIWJNBZANLAXMG-POTNBKISSA-N,C10H6Cl8,Chlordane
+2825,57-74-9,12303031,12303031.0,,BIWJNBZANLAXMG-DPSYREKSSA-N,C10H6Cl8,Chlordane
+2829,57-83-0,5994,5994.0,"(8S,9S,10R,13S,14S,17S)-17-acetyl-10,13-dimethyl-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-3-one",RJKFOVLPORLFTN-LEKSSAKUSA-N,C21H30O2,Progesterone
+2833,57-97-6,6001,6001.0,"7,12-dimethylbenzo[a]anthracene",ARSRBNBHOADGJU-UHFFFAOYSA-N,C20H16,"7,12-Dimethylbenz(a)anthracene"
+2835,57018-52-7,92629,92629.0,1-[(2-methylpropan-2-yl)oxy]propan-2-ol,GQCZPFJGIXHZMB-UHFFFAOYSA-N,C7H16O2,Propylene glycol mono-t-butyl ether
+2840,57109-90-7,23706210,23706210.0,"dipotassium;7-chloro-2-oxo-5-phenyl-1,3-dihydro-1,4-benzodiazepine-3-carboxylate;hydroxide",QCHSEDTUUKDTIG-UHFFFAOYSA-L,C16H11ClK2N2O4,Clorazepate dipotassium
+2841,57109-90-7,167305,167305.0,"dipotassium;7-chloro-2-oxo-5-phenyl-1,3-dihydro-1,4-benzodiazepine-3-carboxylate;hydroxide",QCHSEDTUUKDTIG-UHFFFAOYSA-L,C16H11ClK2N2O4,Clorazepate dipotassium
+2845,57835-92-4,62134,62134.0,4-nitropyrene,UISKIUIWPSPSAV-UHFFFAOYSA-N,C16H9NO2,4-Nitropyrene
+2849,57852-57-0,636362,636362.0,"(7S,9S)-9-acetyl-7-[(2R,4S,5S,6S)-4-amino-5-hydroxy-6-methyloxan-2-yl]oxy-6,9,11-trihydroxy-8,10-dihydro-7H-tetracene-5,12-dione;hydrochloride",JVHPTYWUBOQMBP-RVFAQHLVSA-N,C26H28ClNO9,Idarubicin hydrochloride
+2858,57852-57-0,21864423,21864423.0,"9-acetyl-7-(4-amino-5-hydroxy-6-methyloxan-2-yl)oxy-6,9,11-trihydroxy-8,10-dihydro-7H-tetracene-5,12-dione;hydrochloride",JVHPTYWUBOQMBP-UHFFFAOYSA-N,C26H28ClNO9,Idarubicin hydrochloride
+2869,57852-57-0,71749443,71749443.0,"(7S,9S)-9-acetyl-7-[(2R,4R,5S)-4-amino-5-hydroxy-6-methyloxan-2-yl]oxy-6,9,11-trihydroxy-8,10-dihydro-7H-tetracene-5,12-dione;hydrochloride",JVHPTYWUBOQMBP-FRGYGULOSA-N,C26H28ClNO9,Idarubicin hydrochloride
+2871,57852-57-0,42593,42593.0,"(7S,9S)-9-acetyl-7-(4-amino-5-hydroxy-6-methyloxan-2-yl)oxy-6,9,11-trihydroxy-8,10-dihydro-7H-tetracene-5,12-dione;hydrochloride",JVHPTYWUBOQMBP-NSESVTCLSA-N,C26H28ClNO9,Idarubicin hydrochloride
+2878,58-14-0,4993,4993.0,"5-(4-chlorophenyl)-6-ethylpyrimidine-2,4-diamine",WKSAUQYGYAYLPV-UHFFFAOYSA-N,C12H13ClN4,Pyrimethamine
+2880,58-18-4,6010,6010.0,"(8R,9S,10R,13S,14S,17S)-17-hydroxy-10,13,17-trimethyl-2,6,7,8,9,11,12,14,15,16-decahydro-1H-cyclopenta[a]phenanthren-3-one",GCKMFJBGXUYNAG-HLXURNFRSA-N,C20H30O2,Methyltestosterone
+2890,58-18-4,45357597,45357597.0,"(9S,14S,17S)-17-hydroxy-10,13,17-trimethyl-2,6,7,8,9,11,12,14,15,16-decahydro-1H-cyclopenta[a]phenanthren-3-one",GCKMFJBGXUYNAG-OYHAKKKBSA-N,C20H30O2,Methyltestosterone
+2891,58-18-4,4160,4160.0,"17-hydroxy-10,13,17-trimethyl-2,6,7,8,9,11,12,14,15,16-decahydro-1H-cyclopenta[a]phenanthren-3-one",GCKMFJBGXUYNAG-UHFFFAOYSA-N,C20H30O2,Methyltestosterone
+2900,58-18-4,2825578,2825578.0,"(17S)-17-hydroxy-10,13,17-trimethyl-2,6,7,8,9,11,12,14,15,16-decahydro-1H-cyclopenta[a]phenanthren-3-one",GCKMFJBGXUYNAG-BROHZWGRSA-N,C20H30O2,Methyltestosterone
+2907,58-18-4,20056806,20056806.0,"(8R,9S,10R,13S,14S)-17-hydroxy-10,13,17-trimethyl-2,6,7,8,9,11,12,14,15,16-decahydro-1H-cyclopenta[a]phenanthren-3-one",GCKMFJBGXUYNAG-QYLPRCTNSA-N,C20H30O2,Methyltestosterone
+2910,58-20-8,441404,441404.0,"[(8R,9S,10R,13S,14S,17S)-10,13-dimethyl-3-oxo-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-17-yl] 3-cyclopentylpropanoate",HPFVBGJFAYZEBE-ZLQWOROUSA-N,C27H40O3,Testosterone cypionate
+2916,58-20-8,6012,6012.0,"(10,13-dimethyl-3-oxo-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-17-yl) 3-cyclopentylpropanoate",HPFVBGJFAYZEBE-UHFFFAOYSA-N,C27H40O3,Testosterone cypionate
+2927,58-20-8,45358067,45358067.0,"[(10R,13S,17S)-10,13-dimethyl-3-oxo-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-17-yl] 3-cyclopentylpropanoate",HPFVBGJFAYZEBE-MXKDRNNCSA-N,C27H40O3,Testosterone cypionate
+2933,58-20-8,45356786,45356786.0,"[(9S,14S,17S)-10,13-dimethyl-3-oxo-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-17-yl] 3-cyclopentylpropanoate",HPFVBGJFAYZEBE-XMSSZACFSA-N,C27H40O3,Testosterone cypionate
+2942,58-20-8,57351146,57351146.0,"[(8R,9S,10R,13S,14S)-10,13-dimethyl-3-oxo-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-17-yl] 3-cyclopentylpropanoate",HPFVBGJFAYZEBE-XNBTXCQYSA-N,C27H40O3,Testosterone cypionate
+2950,58-20-8,71752315,71752315.0,"[(8R,9S,10R,13S,14S,17S)-16,16,17-trideuterio-10,13-dimethyl-3-oxo-1,2,6,7,8,9,11,12,14,15-decahydrocyclopenta[a]phenanthren-17-yl] 3-cyclopentylpropanoate",HPFVBGJFAYZEBE-YXZXQLRDSA-N,C27H40O3,Testosterone cypionate
+2952,58-22-0,6013,6013.0,"(8R,9S,10R,13S,14S,17S)-17-hydroxy-10,13-dimethyl-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-3-one",MUMGGOZAMZWBJJ-DYKIIFRCSA-N,C19H28O2,Testosterone and its esters
+2956,58-25-3,2712,2712.0,"7-chloro-4-hydroxy-N-methyl-5-phenyl-3H-1,4-benzodiazepin-2-imine",BUCORZSTKDOEKQ-UHFFFAOYSA-N,C16H14ClN3O,Chlordiazepoxide
+2962,59-05-2,126941,126941.0,"(2S)-2-[[4-[(2,4-diaminopteridin-6-yl)methyl-methylamino]benzoyl]amino]pentanedioic acid",FBOZXECLQNJBKD-ZDUSSCGKSA-N,C20H22N8O5,Methotrexate
+2965,59-66-5,1986,1986.0,"N-(5-sulfamoyl-1,3,4-thiadiazol-2-yl)acetamide",BZKPWHYZMXOIDC-UHFFFAOYSA-N,C4H6N4O3S2,Acetazolamide   
+2970,59-87-0,5447130,5447130.0,[(E)-(5-nitrofuran-2-yl)methylideneamino]urea,IAIWVQXQOWNYOU-FPYGCLRLSA-N,C6H6N4O4,Nitrofurazone
+2972,59-89-2,6046,6046.0,4-nitrosomorpholine,ZKXDGKXYMTYWTB-UHFFFAOYSA-N,C4H8N2O2,N-Nitrosomorpholine
+2975,59-92-7,6047,6047.0,"(2S)-2-amino-3-(3,4-dihydroxyphenyl)propanoic acid",WTDRDQBEARUVNC-LURJTMIESA-N,C9H11NO4,Levodopa
+2978,59-96-1,4768,4768.0,N-benzyl-N-(2-chloroethyl)-1-phenoxypropan-2-amine,QZVCTJOXCFMACW-UHFFFAOYSA-N,C18H22ClNO,Phenoxybenzamine
+2981,590-96-5,11554,11554.0,hydroxymethylimino-methyl-oxidoazanium,BJNBRIBHKLJMAG-UHFFFAOYSA-N,C2H6N2O2,Methylazoxymethanol
+2985,590-96-5,5460323,5460323.0,(E)-hydroxymethylimino-methyl-oxidoazanium,BJNBRIBHKLJMAG-ONEGZZNKSA-N,C2H6N2O2,Methylazoxymethanol
+2989,590-96-5,6433205,6433205.0,(Z)-hydroxymethylimino-methyl-oxidoazanium,BJNBRIBHKLJMAG-ARJAWSKDSA-N,C2H6N2O2,Methylazoxymethanol
+2990,5902-51-2,22188,22188.0,"3-tert-butyl-5-chloro-6-methyl-1H-pyrimidine-2,4-dione",NBQCNZYJJMBDKY-UHFFFAOYSA-N,C9H13ClN2O2,Terbacil
+2991,591-78-6,11583,11583.0,hexan-2-one,QQZOPKMRPOGIEB-UHFFFAOYSA-N,C6H12O,Methyl n-butyl ketone
+2994,59122-46-2,5282381,5282381.0,"methyl 7-[(1R,2R,3R)-3-hydroxy-2-[(E)-4-hydroxy-4-methyloct-1-enyl]-5-oxocyclopentyl]heptanoate",OJLOPKGSLYJEMD-URPKTTJQSA-N,C22H38O5,Misoprostol
+2999,592-62-1,5964719,5964719.0,(E)-acetyloxymethylimino-methyl-oxidoazanium,BELPJCDYWUCHKF-AATRIKPKSA-N,C4H8N2O3,Methylazoxymethanol acetate
+3003,592-62-1,5363199,5363199.0,(Z)-acetyloxymethylimino-methyl-oxidoazanium,BELPJCDYWUCHKF-WAYWQWQTSA-N,C4H8N2O3,Methylazoxymethanol acetate
+3007,592-62-1,11606,11606.0,acetyloxymethylimino-methyl-oxidoazanium,BELPJCDYWUCHKF-UHFFFAOYSA-N,C4H8N2O3,Methylazoxymethanol acetate
+3012,593-60-2,11641,11641.0,bromoethene,INLLPKCGLOXCIV-UHFFFAOYSA-N,C2H3Br,Vinyl bromide
+3013,59467-96-8,43032,43032.0,"8-chloro-6-(2-fluorophenyl)-1-methyl-4H-imidazo[1,5-a][1,4]benzodiazepine;hydrochloride",PLYSCVSCYOQVRP-UHFFFAOYSA-N,C18H14Cl2FN3,Midazolam hydrochloride
+3015,595-33-5,11683,11683.0,"[(8R,9S,10R,13S,14S,17R)-17-acetyl-6,10,13-trimethyl-3-oxo-2,8,9,11,12,14,15,16-octahydro-1H-cyclopenta[a]phenanthren-17-yl] acetate",RQZAXGRLVPAYTJ-GQFGMJRRSA-N,C24H32O4,Megestrol acetate
+3019,59669-26-0,62155,62155.0,methyl N-[methyl-[methyl-(1-methylsulfanylethylideneamino)oxycarbonylamino]sulfanylcarbamoyl]oxyethanimidothioate,XDOTVMNBCQVZKG-UHFFFAOYSA-N,C10H18N4O4S3,Thiodicarb
+3024,59669-26-0,9601227,9601227.0,methyl (1E)-N-[methyl-[methyl-[(E)-1-methylsulfanylethylideneamino]oxycarbonylamino]sulfanylcarbamoyl]oxyethanimidothioate,XDOTVMNBCQVZKG-MKICQXMISA-N,C10H18N4O4S3,Thiodicarb
+3026,59669-26-0,6386307,6386307.0,methyl (1Z)-N-[methyl-[methyl-[(Z)-1-methylsulfanylethylideneamino]oxycarbonylamino]sulfanylcarbamoyl]oxyethanimidothioate,XDOTVMNBCQVZKG-OXAWKVHCSA-N,C10H18N4O4S3,Thiodicarb
+3028,598-55-0,11722,11722.0,methyl carbamate,GTCAXTIRRLKXRU-UHFFFAOYSA-N,C2H5NO2,Methyl carbamate
+3031,598-78-7,11734,11734.0,2-chloropropanoic acid,GAWAYYRQGQZKCR-UHFFFAOYSA-N,C3H5ClO2,"2-Chloropropionic acid [Basis for listing changed effective December 20, 2013]"
+3034,599-79-1,5359476,5359476.0,"(3Z)-6-oxo-3-[[4-(pyridin-2-ylsulfamoyl)phenyl]hydrazinylidene]cyclohexa-1,4-diene-1-carboxylic acid",OQANPHBRHBJGNZ-BKUYFWCQSA-N,C18H14N4O5S,Sulfasalazine (salicylazosulfapyridine)
+3040,599-79-1,5384001,5384001.0,"6-oxo-3-[[4-(pyridin-2-ylsulfamoyl)phenyl]hydrazinylidene]cyclohexa-1,4-diene-1-carboxylic acid",OQANPHBRHBJGNZ-UHFFFAOYSA-N,C18H14N4O5S,Sulfasalazine (salicylazosulfapyridine)
+3043,599-79-1,5353980,5353980.0,"(3E)-6-oxo-3-[[4-(pyridin-2-ylsulfamoyl)phenyl]hydrazinylidene]cyclohexa-1,4-diene-1-carboxylic acid",OQANPHBRHBJGNZ-FYJGNVAPSA-N,C18H14N4O5S,Sulfasalazine (salicylazosulfapyridine)
+3048,60-09-3,6051,6051.0,4-phenyldiazenylaniline,QPQKUYVSJWQSDY-UHFFFAOYSA-N,C12H11N3,p-Aminoazobenzene
+3049,60-11-7,6053,6053.0,"N,N-dimethyl-4-phenyldiazenylaniline",JCYPECIVGRXBMO-UHFFFAOYSA-N,C14H15N3,4-Dimethylaminoazobenzene
+3050,60-35-5,178,178.0,acetamide,DLFVBJFMPXGRIB-UHFFFAOYSA-N,C2H5NO,Acetamide
+3051,60-54-8,54675776,54675776.0,"(4S,4aS,5aS,6S,12aR)-4-(dimethylamino)-1,6,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide",NWXMGUDVXFXRIG-WESIUVDSSA-N,C22H24N2O8,Tetracycline (internal use)
+3058,60-54-8,54685734,54685734.0,"4-(dimethylamino)-1,6,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide",NWXMGUDVXFXRIG-UHFFFAOYSA-N,C22H24N2O8,Tetracycline (internal use)
+3062,60-54-8,54677640,54677640.0,"(4S,6S,12aR)-4-(dimethylamino)-1,6,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide",NWXMGUDVXFXRIG-DXMYQVORSA-N,C22H24N2O8,Tetracycline (internal use)
+3070,60-54-8,54748343,54748343.0,"(4S,4aS,5aS,6S)-4-(dimethylamino)-1,6,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide",NWXMGUDVXFXRIG-NPHLSHMBSA-N,C22H24N2O8,Tetracycline (internal use)
+3074,60-54-8,54699147,54699147.0,"(4S,4aS,5aS,12aR)-4-(dimethylamino)-1,6,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide",NWXMGUDVXFXRIG-NAOJVREFSA-N,C22H24N2O8,Tetracycline (internal use)
+3076,60-56-0,1349907,1349907.0,3-methyl-1H-imidazole-2-thione,PMRYVIKBURPHAH-UHFFFAOYSA-N,C4H6N2S,Methimazole
+3079,60-57-1,969491,969491.0,,DFBKLUNHFCTMDC-PICURKEMSA-N,C12H8Cl6O,Dieldrin
+3083,60-57-1,3048,3048.0,,DFBKLUNHFCTMDC-UHFFFAOYSA-N,C12H8Cl6O,Dieldrin
+3094,60-57-1,71316037,71316037.0,,DFBKLUNHFCTMDC-ARMUGHSSSA-N,C12H8Cl6O,Dieldrin
+3098,60-57-1,6478437,6478437.0,,DFBKLUNHFCTMDC-DBVJWRAGSA-N,C12H8Cl6O,Dieldrin
+3105,60-57-1,12358489,12358489.0,,DFBKLUNHFCTMDC-HHKPKUIASA-N,C12H8Cl6O,Dieldrin
+3108,60-57-1,222547,222547.0,,DFBKLUNHFCTMDC-YITDPULNSA-N,C12H8Cl6O,Dieldrin
+3113,60153-49-3,62163,62163.0,N-(2-cyanoethyl)-N-methylnitrous amide,HZDLDFBKYBGNHG-UHFFFAOYSA-N,C4H7N3O,3-(N-Nitrosomethylamino) propionitrile
+3115,602-87-9,11769,11769.0,"5-nitro-1,2-dihydroacenaphthylene",CUARLQDWYSRQDF-UHFFFAOYSA-N,C12H9NO2,5-Nitroacenaphthene
+3116,60391-92-6,43256,43256.0,2-[carbamoyl(nitroso)amino]acetic acid,JWFMCQPAQYKFDP-UHFFFAOYSA-N,C3H5N3O4,N-Carboxymethyl-N-nitrosourea
+3117,604-75-1,4616,4616.0,"7-chloro-3-hydroxy-5-phenyl-1,3-dihydro-1,4-benzodiazepin-2-one",ADIMAYPTOBDMTL-UHFFFAOYSA-N,C15H11ClN2O2,Oxazepam 
+3119,6055-19-2,22420,22420.0,"N,N-bis(2-chloroethyl)-2-oxo-1,3,2$l^{5}-oxazaphosphinan-2-amine;hydrate",PWOQRKCAHTVFLB-UHFFFAOYSA-N,C7H17Cl2N2O3P,Cyclophosphamide (hydrated)
+3121,60568-05-0,43359,43359.0,"N-cyclohexyl-N-methoxy-2,5-dimethylfuran-3-carboxamide",QTDRLOKFLJJHTG-UHFFFAOYSA-N,C14H21NO3,Furmecyclox
+3122,606-20-2,11813,11813.0,"2-methyl-1,3-dinitrobenzene",XTRDKALNCIHHNI-UHFFFAOYSA-N,C7H6N2O4,"2,6-Dinitrotoluene"
+3123,607-57-8,11831,11831.0,2-nitro-9H-fluorene,XFOHWECQTFIEIX-UHFFFAOYSA-N,C13H9NO2,2-Nitrofluorene
+3124,61-57-4,6093,6093.0,"1-(5-nitro-1,3-thiazol-2-yl)imidazolidin-2-one",RDXLYGJSWZYTFJ-UHFFFAOYSA-N,C6H6N4O3S,Niridazole
+3127,61-82-5,1639,1639.0,"1H-1,2,4-triazol-5-amine",KLSJWNVTNUYHDU-UHFFFAOYSA-N,C2H4N4,Amitrole
+3129,6109-97-3,62130,62130.0,9-ethylcarbazol-3-amine;hydrochloride,UUYSTZWIFZYHRM-UHFFFAOYSA-N,C14H15ClN2,3-Amino-9-ethylcarbazole hydrochloride
+3133,6112-76-1,2724350,2724350.0,"3,7-dihydropurine-6-thione;hydrate",WFFQYWAAEWLHJC-UHFFFAOYSA-N,C5H6N4OS,Mercaptopurine
+3138,612-82-8,108938,108938.0,4-(4-amino-3-methylphenyl)-2-methylaniline;dihydrochloride,LUKPNZHXJRJBAN-UHFFFAOYSA-N,C14H18Cl2N2,"3,3'-Dimethylbenzidine dihydrochloride"
+3142,612-83-9,11933,11933.0,4-(4-amino-3-chlorophenyl)-2-chloroaniline;dihydrochloride,BXAONUZFBUNTQR-UHFFFAOYSA-N,C12H12Cl4N2,"3,3'-Dichlorobenzidine dihydrochloride"
+3145,613-35-4,11942,11942.0,N-[4-(4-acetamidophenyl)phenyl]acetamide,CZVHCFKUXGRABC-UHFFFAOYSA-N,C16H16N2O2,"N,N'-Diacetylbenzidine"
+3148,615-05-4,11976,11976.0,"4-methoxybenzene-1,3-diamine",BAHPQISAXRFLCL-UHFFFAOYSA-N,C7H10N2O,"2,4-Diaminoanisole"
+3150,615-53-2,12001,12001.0,ethyl N-methyl-N-nitrosocarbamate,CAUBWLYZCDDYEF-UHFFFAOYSA-N,C4H8N2O3,N-Nitroso-N-methylurethane
+3151,6164-98-3,22544,22544.0,"N'-(4-chloro-2-methylphenyl)-N,N-dimethylmethanimidamide",STUSTWKEFDQFFZ-UHFFFAOYSA-N,C10H13ClN2,Chlordimeform
+3153,6190-39-2,71171,71171.0,,ADYPXRFPBQGGAH-UMYZUSPBSA-N,C34H41N5O8S,Dihydroergotamine mesylate 
+3160,6190-39-2,517557,517557.0,,ADYPXRFPBQGGAH-UHFFFAOYSA-N,C34H41N5O8S,Dihydroergotamine mesylate 
+3167,6190-39-2,6420006,6420006.0,,ADYPXRFPBQGGAH-WVVAGBSPSA-N,C34H41N5O8S,Dihydroergotamine mesylate 
+3170,62-44-2,4754,4754.0,N-(4-ethoxyphenyl)acetamide,CPJSUEIXXCENMM-UHFFFAOYSA-N,C10H13NO2,Phenacetin
+3171,62-50-0,6113,6113.0,ethyl methanesulfonate,PLUBXMRUUVWRLT-UHFFFAOYSA-N,C3H8O3S,Ethyl methanesulfonate
+3173,62-53-3,6115,6115.0,aniline,PAYRUJLWNCNPSJ-UHFFFAOYSA-N,C6H7N,Aniline
+3174,62-55-5,2723949,2723949.0,ethanethioamide,YUKQRDCYNOVPGJ-UHFFFAOYSA-N,C2H5NS,Thioacetamide
+3175,62-56-6,2723790,2723790.0,thiourea,UMGDCJDMYOKAJW-UHFFFAOYSA-N,CH4N2S,Thiourea
+3176,62-73-7,3039,3039.0,"2,2-dichloroethenyl dimethyl phosphate",OEBRKCOSUFCWJD-UHFFFAOYSA-N,C4H7Cl2O4P,DDVP (Dichlorvos)
+3177,62-74-8,16212360,16212360.0,sodium;2-fluoroacetate,JGFYQVQAXANWJU-UHFFFAOYSA-M,C2H2FNaO2,Sodium fluoroacetate
+3180,62-75-9,6124,6124.0,"N,N-dimethylnitrous amide",UMFJAHHVKNCGLG-UHFFFAOYSA-N,C2H6N2O,N-Nitrosodimethylamine
+3181,621-64-7,12130,12130.0,"N,N-dipropylnitrous amide",YLKFDHTUAUWZPQ-UHFFFAOYSA-N,C6H14N2O,N-Nitrosodi-n-propylamine
+3183,624-83-9,12228,12228.0,methylimino(oxo)methane,HAMGRBXTJNITHG-UHFFFAOYSA-N,C2H3NO,Methyl isocyanate (MIC)
+3184,62450-06-0,5284474,5284474.0,"1,4-dimethyl-5H-pyrido[4,3-b]indol-3-amine",LVTKHGUGBGNBPL-UHFFFAOYSA-N,C13H13N3,Trp-P-1 (Tryptophan-P-1)
+3186,62450-07-1,5284476,5284476.0,"1-methyl-5H-pyrido[4,3-b]indol-3-amine",LKKMLIBUAXYLOY-UHFFFAOYSA-N,C12H11N3,Trp-P-2 (Tryptophan-P-2)
+3187,62476-59-9,44072,44072.0,sodium;5-[2-chloro-4-(trifluoromethyl)phenoxy]-2-nitrobenzoate,RVULBHWZFCBODE-UHFFFAOYSA-M,C14H6ClF3NNaO5,Acifluorfen sodium
+3188,63-05-8,6128,6128.0,"(8R,9S,10R,13S,14S)-10,13-dimethyl-2,6,7,8,9,11,12,14,15,16-decahydro-1H-cyclopenta[a]phenanthrene-3,17-dione",AEMFNILZOJDQLW-QAGGRKNESA-N,C19H26O2,Androstenedione
+3191,63-25-2,6129,6129.0,naphthalen-1-yl N-methylcarbamate,CVXBEEMKQHEXEN-UHFFFAOYSA-N,C12H11NO2,Carbaryl
+3195,63-92-3,5284441,5284441.0,N-benzyl-N-(2-chloroethyl)-1-phenoxypropan-2-amine;hydrochloride,VBCPVIWPDJVHAN-UHFFFAOYSA-N,C18H23Cl2NO,Phenoxybenzamine hydrochloride
+3198,63-98-9,4753,4753.0,N-carbamoyl-2-phenylacetamide,XPFRXWCVYUEORT-UHFFFAOYSA-N,C9H10N2O2,Phenacemide
+3199,630-08-0,281,281.0,carbon monoxide,UGFAIRIUMAVXCW-UHFFFAOYSA-N,CO,Carbon monoxide
+3200,630-20-6,12418,12418.0,"1,1,1,2-tetrachloroethane",QVLAWKAXOMEXPM-UHFFFAOYSA-N,C2H2Cl4,"1,1,1,2-Tetrachloroethane"
+3202,630-93-3,657302,657302.0,"sodium;5,5-diphenylimidazolidin-3-ide-2,4-dione",FJPYVLNWWICYDW-UHFFFAOYSA-M,C15H11N2NaO2,"Diphenylhydantoin (Phenytoin), sodium salt"
+3208,631-64-1,12433,12433.0,"2,2-dibromoacetic acid",SIEILFNCEFEENQ-UHFFFAOYSA-N,C2H2Br2O2,Dibromoacetic acid
+3209,6358-53-8,9570225,9570225.0,"(1Z)-1-[(2,5-dimethoxyphenyl)hydrazinylidene]naphthalen-2-one",ULLJIFAIUSUJBP-ZZEZOPTASA-N,C18H16N2O3,Citrus Red No. 2
+3213,636-21-5,12484,12484.0,2-methylaniline;hydrochloride,OGVXWEOZQMAAIM-UHFFFAOYSA-N,C7H10ClN,o-Toluidine hydrochloride
+3214,637-07-0,2796,2796.0,ethyl 2-(4-chlorophenoxy)-2-methylpropanoate,KNHUKKLJHYUCFP-UHFFFAOYSA-N,C12H15ClO3,Clofibrate
+3215,637-92-3,12512,12512.0,2-ethoxy-2-methylpropane,NUMQCACRALPSHD-UHFFFAOYSA-N,C6H14O,"Ethyl-tert-butyl ether  Delisted December 13, 2013 [Clik here for the basis for delisting]"
+3216,638-21-1,12519,12519.0,phenylphosphane,RPGWZZNNEUHDAQ-UHFFFAOYSA-N,C6H7P,Phenylphosphine
+3217,64-67-5,6163,6163.0,diethyl sulfate,DENRZWYUOJLTMF-UHFFFAOYSA-N,C4H10O4S,Diethyl sulfate
+3219,64-73-3,54686764,54686764.0,"(4S,4aS,5aS,6S,12aR)-7-chloro-4-(dimethylamino)-1,6,10,11,12a-pentahydroxy-3,12-dioxo-4a,5,5a,6-tetrahydro-4H-tetracene-2-carboxamide;hydrochloride",OAPVUSSHCBRCOL-KBHRXELFSA-N,C21H22Cl2N2O8,Demeclocycline hydrochloride (internal use)
+3226,64-75-5,54704426,54704426.0,"(4S,4aS,5aS,6S,12aR)-4-(dimethylamino)-1,6,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide;hydrochloride",YCIHPQHVWDULOY-FMZCEJRJSA-N,C22H25ClN2O8,Tetracycline hydrochloride (internal use)
+3230,64-75-5,54683010,54683010.0,"(4S,4aS,6S,12aR)-4-(dimethylamino)-1,6,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide;hydrochloride",YCIHPQHVWDULOY-BZJZLAOJSA-N,C22H25ClN2O8,Tetracycline hydrochloride (internal use)
+3239,64-75-5,54686181,54686181.0,"4-(dimethylamino)-1,6,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide;hydrochloride",YCIHPQHVWDULOY-UHFFFAOYSA-N,C22H25ClN2O8,Tetracycline hydrochloride (internal use)
+3248,64-75-5,54751177,54751177.0,"(4S,6S,12aR)-4-(dimethylamino)-1,6,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide;hydrochloride",YCIHPQHVWDULOY-BGDATOMISA-N,C22H25ClN2O8,Tetracycline hydrochloride (internal use)
+3251,64-86-8,6167,6167.0,"N-[(7S)-1,2,3,10-tetramethoxy-9-oxo-6,7-dihydro-5H-benzo[a]heptalen-7-yl]acetamide",IAKHMKGGTNLKSZ-INIZCTEOSA-N,C22H25NO6,Colchicine
+3253,645-05-6,2123,2123.0,"2-N,2-N,4-N,4-N,6-N,6-N-hexamethyl-1,3,5-triazine-2,4,6-triamine",UUVWYPNAQBNQJQ-UHFFFAOYSA-N,C9H18N6,Altretamine
+3254,6459-94-5,5360191,5360191.0,"disodium;(8Z)-8-[[2-methyl-4-[3-methyl-4-[[4-(4-methylphenyl)sulfonyloxyphenyl]diazenyl]phenyl]phenyl]hydrazinylidene]-7-oxonaphthalene-1,3-disulfonate",PVLKQJLDEXCKNY-BSSRIQHJSA-L,C37H28N4Na2O10S3,C.I. Acid Red 114
+3258,6459-94-5,5479172,5479172.0,"disodium;8-[[2-methyl-4-[3-methyl-4-[[4-(4-methylphenyl)sulfonyloxyphenyl]diazenyl]phenyl]phenyl]hydrazinylidene]-7-oxonaphthalene-1,3-disulfonate",PVLKQJLDEXCKNY-UHFFFAOYSA-L,C37H28N4Na2O10S3,C.I. Acid Red 114
+3260,64902-72-3,47491,47491.0,"1-(2-chlorophenyl)sulfonyl-3-(4-methoxy-6-methyl-1,3,5-triazin-2-yl)urea",VJYIFXVZLXQVHO-UHFFFAOYSA-N,C12H12ClN5O4S,"Chlorsulfuron [Click here for the basis for removal of male reproductive endpoint, effective June 10, 2010] "
+3263,6533-00-2,13109,13109.0,"(8R,9S,10R,13S,14S,17R)-13-ethyl-17-ethynyl-17-hydroxy-1,2,6,7,8,9,10,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-3-one",WWYNJERNGUHSAO-XUDSTZEESA-N,C21H28O2,Norgestrel
+3267,6533-00-2,4542,4542.0,"13-ethyl-17-ethynyl-17-hydroxy-1,2,6,7,8,9,10,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-3-one",WWYNJERNGUHSAO-UHFFFAOYSA-N,C21H28O2,Norgestrel
+3275,6533-00-2,46782588,46782588.0,"(8R,10R,13S,17R)-13-ethyl-17-ethynyl-17-hydroxy-1,2,6,7,8,9,10,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-3-one",WWYNJERNGUHSAO-TXCAMPLASA-N,C21H28O2,Norgestrel
+3281,6533-00-2,60148395,60148395.0,"(10R,17R)-13-ethyl-17-ethynyl-17-hydroxy-1,2,6,7,8,9,10,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-3-one",WWYNJERNGUHSAO-MQVXZNLGSA-N,C21H28O2,Norgestrel
+3283,65807-02-5,5311128,5311128.0,(2S)-N-[(2S)-1-[[(2S)-1-[[(2S)-1-[[(2S)-1-[[(2R)-1-[[(2S)-1-[[(2S)-1-[(2S)-2-[(carbamoylamino)carbamoyl]pyrrolidin-1-yl]-5-(diaminomethylideneamino)-1-oxopentan-2-yl]amino]-4-methyl-1-oxopentan-2-yl]amino]-3-[(2-methylpropan-2-yl)oxy]-1-oxopropan-2-yl]amino]-3-(4-hydroxyphenyl)-1-oxopropan-2-yl]amino]-3-hydroxy-1-oxopropan-2-yl]amino]-3-(1H-indol-3-yl)-1-oxopropan-2-yl]amino]-3-(1H-imidazol-5-yl)-1-oxopropan-2-yl]-5-oxopyrrolidine-2-carboxamide,BLCLNMBMMGCOAS-URPVMXJPSA-N,C59H84N18O14,Goserelin acetate
+3285,66-27-3,4156,4156.0,methyl methanesulfonate,MBABOKRGFJTBAE-UHFFFAOYSA-N,C2H6O3S,Methyl methanesulfonate
+3287,66-75-1,6194,6194.0,"5-[bis(2-chloroethyl)amino]-1H-pyrimidine-2,4-dione",IDPUKCWIGUEADI-UHFFFAOYSA-N,C8H11Cl2N3O2,Uracil mustard
+3290,66-76-2,54676038,54676038.0,4-hydroxy-3-[(4-hydroxy-2-oxochromen-3-yl)methyl]chromen-2-one,DOBMPNYZJYQDGZ-UHFFFAOYSA-N,C19H12O6,Dicumarol
+3292,66-81-9,6197,6197.0,"4-[(2R)-2-[(1S,3S,5S)-3,5-dimethyl-2-oxocyclohexyl]-2-hydroxyethyl]piperidine-2,6-dione",YPHMISFOHDHNIV-FSZOTQKASA-N,C15H23NO4,Cycloheximide
+3294,66085-59-4,4497,4497.0,"3-O-(2-methoxyethyl) 5-O-propan-2-yl 2,6-dimethyl-4-(3-nitrophenyl)-1,4-dihydropyridine-3,5-dicarboxylate",UIAGMCDKSXEBJQ-UHFFFAOYSA-N,C21H26N2O7,Nimodipine
+3298,66441-23-4,47938,47938.0,"ethyl 2-[4-[(6-chloro-1,3-benzoxazol-2-yl)oxy]phenoxy]propanoate",PQKBPHSEKWERTG-UHFFFAOYSA-N,C18H16ClNO5,Fenoxaprop ethyl
+3300,665-66-7,64150,64150.0,adamantan-1-amine;hydrochloride,WOLHOYHSEKDWQH-UHFFFAOYSA-N,C10H18ClN,Amantadine hydrochloride
+3305,66852-54-8,6918178,6918178.0,"[(6S,8S,9R,10S,11S,13S,14S,16S,17R)-17-(2-chloroacetyl)-6,9-difluoro-11-hydroxy-10,13,16-trimethyl-3-oxo-6,7,8,11,12,14,15,16-octahydrocyclopenta[a]phenanthren-17-yl] propanoate",BDSYKGHYMJNPAB-LICBFIPMSA-N,C25H31ClF2O5,Halobetasol propionate
+3309,67-20-9,6604200,6604200.0,"1-[(E)-(5-nitrofuran-2-yl)methylideneamino]imidazolidine-2,4-dione",NXFQHRVNIOXGAQ-YCRREMRBSA-N,C8H6N4O5,Nitrofurantoin
+3311,67-45-8,5323714,5323714.0,"3-[(E)-(5-nitrofuran-2-yl)methylideneamino]-1,3-oxazolidin-2-one",PLHJDBGFXBMTGZ-WEVVVXLNSA-N,C8H7N3O5,Furazolidone
+3312,67-56-1,887,887.0,methanol,OKKJLVBELUTLKV-UHFFFAOYSA-N,CH4O,Methanol
+3313,67-66-3,6212,6212.0,chloroform,HEDRZPFGACZZDS-UHFFFAOYSA-N,CHCl3,Chloroform
+3314,67-72-1,6214,6214.0,"1,1,1,2,2,2-hexachloroethane",VHHHONWQHHHLTI-UHFFFAOYSA-N,C2Cl6,Hexachloroethane
+3316,671-16-9,4915,4915.0,4-[(2-methylhydrazinyl)methyl]-N-propan-2-ylbenzamide,CPTBDICYNRMXFX-UHFFFAOYSA-N,C12H19N3O,Procarbazine
+3318,67485-29-4,5281875,5281875.0,"N-[[(1E,4E)-1,5-bis[4-(trifluoromethyl)phenyl]penta-1,4-dien-3-ylidene]amino]-5,5-dimethyl-4,6-dihydro-1H-pyrimidin-2-amine",IQVNEKKDSLOHHK-FNCQTZNRSA-N,C25H24F6N4,Hydramethylnon
+3319,67730-10-3,49970,49970.0,,BUXVIXBGMQXWGT-UHFFFAOYSA-N,C10H8N4,"Glu-P-2 (2-Aminodipyrido[1,2-a:3',2'-d]imidazole)"
+3321,67730-11-4,49971,49971.0,,AYLURHVFAYRSHT-UHFFFAOYSA-N,C11H10N4,"Glu-P-1 (2-Amino-6-methyldipyrido[1,2- a:3',2'-d]imidazole)"
+3324,68-22-4,6230,6230.0,"(8R,9S,10R,13S,14S,17R)-17-ethynyl-17-hydroxy-13-methyl-1,2,6,7,8,9,10,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-3-one",VIKNJXKGJWUCNN-XGXHKTLJSA-N,C20H26O2,Norethisterone (Norethindrone) 
+3331,68-23-5,6231,6231.0,"(8R,9S,13S,14S,17R)-17-ethynyl-17-hydroxy-13-methyl-1,2,4,6,7,8,9,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-3-one",ICTXHFFSOAJUMG-SLHNCBLASA-N,C20H26O2,Norethynodrel
+3335,68-76-8,6235,6235.0,"2,3,5-tris(aziridin-1-yl)cyclohexa-2,5-diene-1,4-dione",PXSOHRWMIRDKMP-UHFFFAOYSA-N,C12H13N3O2,"Tris(aziridinyl)-p-benzoquinone (Triaziquone) Delisted December 8, 2006 [Click here for the basis for delisting]"
+3336,680-31-9,12679,12679.0,N-[bis(dimethylamino)phosphoryl]-N-methylmethanamine,GNOIPBMMFNIUFM-UHFFFAOYSA-N,C6H18N3OP,Hexamethylphosphoramide
+3337,68006-83-7,62244,62244.0,"3-methyl-9H-pyrido[2,3-b]indol-2-amine",IVLCGFRPPGNALI-UHFFFAOYSA-N,C12H11N3,"Me-A-alpha-C (2-Amino-3-methyl-9H-pyrido[2,3-b]indole)"
+3339,684-16-2,12695,12695.0,"1,1,1,3,3,3-hexafluoropropan-2-one",VBZWSGALLODQNC-UHFFFAOYSA-N,C3F6O,Hexafluoroacetone
+3340,684-93-5,12699,12699.0,1-methyl-1-nitrosourea,ZRKWMRDKSOPRRS-UHFFFAOYSA-N,C2H5N3O2,N-Nitroso-N-methylurea
+3342,693-98-1,12749,12749.0,2-methyl-1H-imidazole,LXBGSDVWAMZHDD-UHFFFAOYSA-N,C4H6N2,2-Methylimidazole
+3343,69409-94-5,50516,50516.0,[cyano-(3-phenoxyphenyl)methyl] 2-[2-chloro-4-(trifluoromethyl)anilino]-3-methylbutanoate,INISTDXBRIBGOC-UHFFFAOYSA-N,C26H22ClF3N2O3,Fluvalinate
+3349,69409-94-5,13022581,13022581.0,[(R)-cyano-(3-phenoxyphenyl)methyl] (2S)-2-[2-chloro-4-(trifluoromethyl)anilino]-3-methylbutanoate,INISTDXBRIBGOC-ZEQRLZLVSA-N,C26H22ClF3N2O3,Fluvalinate
+3351,69806-50-4,50897,50897.0,butyl 2-[4-[5-(trifluoromethyl)pyridin-2-yl]oxyphenoxy]propanoate,VAIZTNZGPYBOGF-UHFFFAOYSA-N,C19H20F3NO4,Fluazifop butyl
+3355,70-25-7,9562060,9562060.0,1-methyl-2-nitro-1-nitrosoguanidine,VZUNGTLZRAYYDE-UHFFFAOYSA-N,C2H5N5O3,N-Methyl-N'-nitro-N-nitrosoguanidine
+3357,70476-82-3,51082,51082.0,"1,4-dihydroxy-5,8-bis[2-(2-hydroxyethylamino)ethylamino]anthracene-9,10-dione;dihydrochloride",ZAHQPTJLOCWVPG-UHFFFAOYSA-N,C22H30Cl2N4O6,Mitoxantrone hydrochloride
+3359,71-43-2,241,241.0,benzene,UHOVQNZJYSORNB-UHFFFAOYSA-N,C6H6,Benzene
+3362,71-58-9,6279,6279.0,"[(6S,8R,9S,10R,13S,14S,17R)-17-acetyl-6,10,13-trimethyl-3-oxo-2,6,7,8,9,11,12,14,15,16-decahydro-1H-cyclopenta[a]phenanthren-17-yl] acetate",PSGAAPLEWMOORI-PEINSRQWSA-N,C24H34O4,Medroxyprogesterone acetate
+3368,712-68-5,61205,61205.0,"5-(5-nitrofuran-2-yl)-1,3,4-thiadiazol-2-amine",SXZZHGJWUBJKHH-UHFFFAOYSA-N,C6H4N4O3S,"2-Amino-5-(5-nitro-2-furyl)-1,3,4-thiadiazole"
+3369,71526-07-3,3482402,3482402.0,"2,2-dichloro-1-(1-oxa-4-azaspiro[4.5]decan-4-yl)ethanone",QWWHRELOCZEQNZ-UHFFFAOYSA-N,C10H15Cl2NO2,"MON 4660 (dichloroacetyl-1-oxa-4-azaspiro(4,5)-decane"
+3370,72-20-8,3048,3048.0,,DFBKLUNHFCTMDC-UHFFFAOYSA-N,C12H8Cl6O,Endrin 
+3378,72-20-8,12358480,12358480.0,,DFBKLUNHFCTMDC-GKRDHZSOSA-N,C12H8Cl6O,Endrin 
+3386,72-20-8,46174049,46174049.0,,DFBKLUNHFCTMDC-QINJUESRSA-N,C12H8Cl6O,Endrin 
+3393,72-20-8,71312306,71312306.0,,DFBKLUNHFCTMDC-SPJPLABQSA-N,C12H8Cl6O,Endrin 
+3397,72-20-8,12358497,12358497.0,,DFBKLUNHFCTMDC-AUGFTSMQSA-N,C12H8Cl6O,Endrin 
+3401,72-33-3,6291,6291.0,"(8R,9S,13S,14S,17R)-17-ethynyl-3-methoxy-13-methyl-7,8,9,11,12,14,15,16-octahydro-6H-cyclopenta[a]phenanthren-17-ol",IMSSROKUHAOUJS-MJCUULBUSA-N,C21H26O2,Mestranol
+3405,72-54-8,6294,6294.0,"1-chloro-4-[2,2-dichloro-1-(4-chlorophenyl)ethyl]benzene",AHJKRLASYNVKDZ-UHFFFAOYSA-N,C14H10Cl4,DDD (Dichlorodiphenyl-dichloroethane)
+3406,72-55-9,3035,3035.0,"1-chloro-4-[2,2-dichloro-1-(4-chlorophenyl)ethenyl]benzene",UCNVFOCBFJOQAL-UHFFFAOYSA-N,C14H8Cl4,"1,1-Dichloro-2,2-bis(p-chloropheny)ethylene (DDE)"
+3412,72-57-1,9562061,9562061.0,"tetrasodium;(3Z)-5-amino-3-[[4-[4-[(2Z)-2-(8-amino-1-oxo-3,6-disulfonatonaphthalen-2-ylidene)hydrazinyl]-3-methylphenyl]-2-methylphenyl]hydrazinylidene]-4-oxonaphthalene-2,7-disulfonate",WMYVHJWZUUEZNE-ARWFNKCKSA-J,C34H24N6Na4O14S4,Trypan blue (commercial grade)
+3415,72-57-1,5904246,5904246.0,"(3Z)-5-amino-3-[[4-[4-[(2Z)-2-(8-amino-1-oxo-3,6-disulfonaphthalen-2-ylidene)hydrazinyl]-3-methylphenyl]-2-methylphenyl]hydrazinylidene]-4-oxonaphthalene-2,7-disulfonic acid",RUAZVLYSJWBVRB-UTKMUYHOSA-N,C34H28N6O14S4,Trypan blue (commercial grade)
+3420,72490-01-8,51605,51605.0,ethyl N-[2-(4-phenoxyphenoxy)ethyl]carbamate,HJUFTIJOISQSKQ-UHFFFAOYSA-N,C17H19NO4,Fenoxycarb
+3422,7280-37-7,5284555,5284555.0,"[(8R,9S,13S,14S)-13-methyl-17-oxo-7,8,9,11,12,14,15,16-octahydro-6H-cyclopenta[a]phenanthren-3-yl] hydrogen sulfate;piperazine",HZEQBCVBILBTEP-ZFINNJDLSA-N,C22H32N2O5S,Estropipate 
+3424,74-83-9,6323,6323.0,bromomethane,GZUXJHMPEANEGY-UHFFFAOYSA-N,CH3Br,"Methyl bromide, as a structural fumigant"
+3425,74-87-3,6327,6327.0,chloromethane,NEHMKBQYUWJMIP-UHFFFAOYSA-N,CH3Cl,Methyl chloride
+3426,74-88-4,6328,6328.0,iodomethane,INQOMBQAUSQDDS-UHFFFAOYSA-N,CH3I,Methyl iodide
+3428,74-96-4,6332,6332.0,bromoethane,RDHPKYGYEGBMSE-UHFFFAOYSA-N,C2H5Br,Bromoethane
+3431,7440-02-0,935,935.0,nickel,PXHVJJICTQNCMI-UHFFFAOYSA-N,Ni,Nickel (Metallic)
+3433,7440-48-4,104730,104730.0,cobalt,GUTLYIVDDKVIGB-UHFFFAOYSA-N,Co,Cobalt metal powder
+3435,7446-09-5,1119,1119.0,sulfur dioxide,RAHZWNYVWXNFOC-UHFFFAOYSA-N,O2S,Sulfur dioxidee
+3436,7446-34-6,24011,24011.0,,VIDTVPHHDGRGAF-UHFFFAOYSA-N,SSe,Selenium sulfide
+3438,7481-89-2,24066,24066.0,"4-amino-1-[(2R,5S)-5-(hydroxymethyl)oxolan-2-yl]pyrimidin-2-one",WREGKURFCTUGRC-POYBYMJQSA-N,C9H13N3O3,Zalcitabine
+3440,7496-02-8,24121,24121.0,6-nitrochrysene,UAWLTQJFZUYROA-UHFFFAOYSA-N,C18H11NO2,6-Nitrochrysene
+3441,75-00-3,6337,6337.0,chloroethane,HRYZWHHZPQKTII-UHFFFAOYSA-N,C2H5Cl,Chloroethane (Ethyl chloride)
+3442,75-01-4,6338,6338.0,chloroethene,BZHJMEDXRYGGRV-UHFFFAOYSA-N,C2H3Cl,Vinyl chloride
+3443,75-02-5,6339,6339.0,fluoroethene,XUCNUKMRBVNAPB-UHFFFAOYSA-N,C2H3F,Vinyl fluoride
+3444,75-07-0,177,177.0,acetaldehyde,IKHGUXGNUITLKF-UHFFFAOYSA-N,C2H4O,Acetaldehyde
+3445,75-09-2,6344,6344.0,dichloromethane,YMWUJEATGCHHMB-UHFFFAOYSA-N,CH2Cl2,Dichloromethane (Methylene chloride)
+3446,75-15-0,6348,6348.0,methanedithione,QGJOPFRUJISHPQ-UHFFFAOYSA-N,CS2,Carbon disulfide
+3447,75-21-8,6354,6354.0,oxirane,IAYPIBMASNFSPL-UHFFFAOYSA-N,C2H4O,"Ethylene oxide [Basis for listing changed effective November 22, 2013]"
+3449,75-25-2,5558,5558.0,bromoform,DIKBFYAXUHHXCS-UHFFFAOYSA-N,CHBr3,Bromoform
+3451,75-26-3,6358,6358.0,2-bromopropane,NAMYKGVDVNBCFQ-UHFFFAOYSA-N,C3H7Br,2-Bromopropane (2-BP)
+3452,75-27-4,6359,6359.0,bromo(dichloro)methane,FMWLUWPQPKEARP-UHFFFAOYSA-N,CHBrCl2,Bromodichloromethane
+3453,75-34-3,6365,6365.0,"1,1-dichloroethane",SCYULBFZEHDVBN-UHFFFAOYSA-N,C2H4Cl2,"1,1-Dichloroethane"
+3454,75-52-5,6375,6375.0,nitromethane,LYGJENNIWJXYER-UHFFFAOYSA-N,CH3NO2,Nitromethane 
+3455,75-55-8,6377,6377.0,2-methylaziridine,OZDGMOYKSFPLSE-UHFFFAOYSA-N,C3H7N,2-Methylaziridine (Propyleneimine)
+3457,75-56-9,6378,6378.0,2-methyloxirane,GOOHAUXETOMSMM-UHFFFAOYSA-N,C3H6O,Propylene oxide
+3459,75-60-5,2513,2513.0,dimethylarsinic acid,OGGXGZAMXPVRFZ-UHFFFAOYSA-N,C2H7AsO2,Cacodylic acid
+3460,75-87-6,6407,6407.0,"2,2,2-trichloroacetaldehyde",HFFLGKNGCAIQMO-UHFFFAOYSA-N,C2HCl3O,Chloral
+3462,75321-20-9,53230,53230.0,"1,3-dinitropyrene",KTNUVDBUEAQUON-UHFFFAOYSA-N,C16H8N2O4,"1,3-Dinitropyrene"
+3464,75330-75-5,53232,53232.0,"[(1S,3R,7S,8S,8aR)-8-[2-[(2R,4R)-4-hydroxy-6-oxooxan-2-yl]ethyl]-3,7-dimethyl-1,2,3,7,8,8a-hexahydronaphthalen-1-yl] (2S)-2-methylbutanoate",PCZOHLXUXFIOCF-BXMDZJJMSA-N,C24H36O5,Lovastatin
+3471,759-73-9,12967,12967.0,1-ethyl-1-nitrosourea,FUSGACRLAFQQRL-UHFFFAOYSA-N,C3H7N3O2,N-Nitroso-N-ethylurea
+3473,759-94-4,12968,12968.0,"S-ethyl N,N-dipropylcarbamothioate",GUVLYNGULCJVDO-UHFFFAOYSA-N,C9H19NOS,Ethyl dipropylthiocarbamate 
+3474,76-03-9,6421,6421.0,"2,2,2-trichloroacetic acid",YNJBWRMUSHSURL-UHFFFAOYSA-N,C2HCl3O2,Trichloroacetic acid
+3479,76-43-7,6446,6446.0,"(8S,9R,10S,11S,13S,14S,17S)-9-fluoro-11,17-dihydroxy-10,13,17-trimethyl-1,2,6,7,8,11,12,14,15,16-decahydrocyclopenta[a]phenanthren-3-one",YLRFCQOZQXIBAB-RBZZARIASA-N,C20H29FO3,Fluoxymesterone
+3483,76-44-8,3589,3589.0,,FRCCEHPWNOQAEU-UHFFFAOYSA-N,C10H5Cl7,Heptachlor
+3486,76-87-9,6327657,6327657.0,triphenyltin;hydrate,NRHFWOJROOQKBK-UHFFFAOYSA-N,C18H17OSn,Triphenyltin hydroxide
+3489,76180-96-6,53462,53462.0,"3-methylimidazo[4,5-f]quinolin-2-amine",ARZWATDYIYAUTA-UHFFFAOYSA-N,C11H10N4,"IQ (2-Amino-3-methylimidazo[4,5-f] quinoline) "
+3494,764-41-0,642197,642197.0,"(E)-1,4-dichlorobut-2-ene",FQDIANVAWVHZIR-OWOJBTEDSA-N,C4H6Cl2,"1,4-Dichloro-2-butene"
+3498,764-41-0,15122,15122.0,"1,4-dichlorobut-2-ene",FQDIANVAWVHZIR-UHFFFAOYSA-N,C4H6Cl2,"1,4-Dichloro-2-butene"
+3505,764-41-0,6432115,6432115.0,"(Z)-1,4-dichlorobut-2-ene",FQDIANVAWVHZIR-UPHRSURJSA-N,C4H6Cl2,"1,4-Dichloro-2-butene"
+3507,765-34-4,13002,13002.0,oxirane-2-carbaldehyde,IWYRWIUNAVNFPE-UHFFFAOYSA-N,C3H4O2,Glycidaldehyde
+3509,76578-14-8,53518,53518.0,ethyl 2-[4-(6-chloroquinoxalin-2-yl)oxyphenoxy]propanoate,OSUHJPCHFDQAIT-UHFFFAOYSA-N,C19H17ClN2O4,Quizalofop-ethyl
+3511,77-09-8,4764,4764.0,"3,3-bis(4-hydroxyphenyl)-2-benzofuran-1-one",KJFMBFZCATUALV-UHFFFAOYSA-N,C20H14O4,Phenolphthalein
+3513,77-78-1,6497,6497.0,dimethyl sulfate,VAYGXNSJCAHWJZ-UHFFFAOYSA-N,C2H6O4S,Dimethyl sulfate
+3515,77094-11-2,62274,62274.0,"3,4-dimethylimidazo[4,5-f]quinolin-2-amine",GMGWMIJIGUYNAY-UHFFFAOYSA-N,C12H12N4,"MeIQ (2-Amino-3,4-dimethylimidazo[4,5-f]quinoline)"
+3516,77439-76-0,53665,53665.0,4-chloro-3-(dichloromethyl)-2-hydroxy-2H-furan-5-one,WNTRMRXAGJOLCU-UHFFFAOYSA-N,C5H3Cl3O3,MX (3-chloro-4-dichloromethyl-5-hydroxy-2(5H)-furanone)
+3517,77500-04-0,62275,62275.0,"3,8-dimethylimidazo[4,5-f]quinoxalin-2-amine",DVCCCQNKIYNAKB-UHFFFAOYSA-N,C11H11N5,"MeIQx (2-Amino-3,8-dimethylimidazo[4,5-f]quinoxaline)"
+3518,77501-63-4,62276,62276.0,(1-ethoxy-1-oxopropan-2-yl) 5-[2-chloro-4-(trifluoromethyl)phenoxy]-2-nitrobenzoate,CONWAEURSVPLRM-UHFFFAOYSA-N,C19H15ClF3NO7,Lactofen
+3520,7758-01-2,23673461,23673461.0,potassium;bromate,OCATYIAKPYKMPG-UHFFFAOYSA-M,BrKO3,Potassium bromate
+3522,78-48-8,5125,5125.0,1-bis(butylsulfanyl)phosphorylsulfanylbutane,ZOKXUAHZSKEQSS-UHFFFAOYSA-N,C12H27OPS3,"S,S,S-Tributyl phosphorotrithioate (Tribufos, DEF)"
+3524,78-79-5,6557,6557.0,"2-methylbuta-1,3-diene",RRHGJUQNOFWUDK-UHFFFAOYSA-N,C5H8,Isoprene
+3525,78-87-5,6564,6564.0,"1,2-dichloropropane",KNKRKFALVUDBJE-UHFFFAOYSA-N,C3H6Cl2,"1,2-Dichloropropane"
+3527,789-02-6,13089,13089.0,"1-chloro-2-[2,2,2-trichloro-1-(4-chlorophenyl)ethyl]benzene",CVUGPAFCQJIYDT-UHFFFAOYSA-N,C14H9Cl5,"o,p'-DDT"
+3529,79-00-5,6574,6574.0,"1,1,2-trichloroethane",UBOXGVDOUJQMTN-UHFFFAOYSA-N,C2H3Cl3,"Vinyl trichloride (1,1,2-Trichloroethane)"
+3530,79-01-6,6575,6575.0,"1,1,2-trichloroethene",XSTXAVWGXDQKEL-UHFFFAOYSA-N,C2HCl3,Trichloroethylene
+3531,79-06-1,6579,6579.0,prop-2-enamide,HRPVXLWXLXDGHG-UHFFFAOYSA-N,C3H5NO,Acrylamide
+3532,79-34-5,6591,6591.0,"1,1,2,2-tetrachloroethane",QPFMBZIOSGYJDE-UHFFFAOYSA-N,C2H2Cl4,"1,1,2,2-Tetrachloroethane"
+3533,79-43-6,6597,6597.0,"2,2-dichloroacetic acid",JXTHNDFMNIQAHM-UHFFFAOYSA-N,C2H2Cl2O2,Dichloroacetic acid
+3536,79-44-7,6598,6598.0,"N,N-dimethylcarbamoyl chloride",YIIMEMSDCNDGTB-UHFFFAOYSA-N,C3H6ClNO,Dimethylcarbamoyl chloride
+3539,79-46-9,398,398.0,2-nitropropane,FGLBSLMDCBOPQK-UHFFFAOYSA-N,C3H7NO2,2-Nitropropane
+3541,79-57-2,54675779,54675779.0,"(4S,4aR,5S,5aR,6S,12aR)-4-(dimethylamino)-1,5,6,10,11,12a-hexahydroxy-6-methyl-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide",OWFJMIVZYSDULZ-PXOLEDIWSA-N,C22H24N2O9,Oxytetracycline (internal use)
+3545,794-93-4,6414792,6414792.0,"[hydroxymethyl-[6-[(E)-2-(5-nitrofuran-2-yl)ethenyl]-1,2,4-triazin-3-yl]amino]methanol",RQWQIVXLPCFXCO-OWOJBTEDSA-N,C11H11N5O5,Panfuran S
+3547,797-63-7,13109,13109.0,"(8R,9S,10R,13S,14S,17R)-13-ethyl-17-ethynyl-17-hydroxy-1,2,6,7,8,9,10,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-3-one",WWYNJERNGUHSAO-XUDSTZEESA-N,C21H28O2,Levonorgestrel implants
+3551,797-63-7,4542,4542.0,"13-ethyl-17-ethynyl-17-hydroxy-1,2,6,7,8,9,10,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-3-one",WWYNJERNGUHSAO-UHFFFAOYSA-N,C21H28O2,Levonorgestrel implants
+3560,797-63-7,45357611,45357611.0,"(14S,17R)-13-ethyl-17-ethynyl-17-hydroxy-1,2,6,7,8,9,10,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-3-one",WWYNJERNGUHSAO-NARPSSSGSA-N,C21H28O2,Levonorgestrel implants
+3564,797-63-7,5702096,5702096.0,"(10R,13S,17R)-13-ethyl-17-ethynyl-17-hydroxy-1,2,6,7,8,9,10,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-3-one",WWYNJERNGUHSAO-RYHLCRTJSA-N,C21H28O2,Levonorgestrel implants
+3567,79748-81-5,6435894,6435894.0,"methyl (2E,3E,5E,7E,9E)-2-ethylidene-11-[(1R,4S,5R)-4-hydroxy-4-(2-hydroxyethyl)-2-oxo-6-oxa-3-azabicyclo[3.1.0]hexan-1-yl]-4,6,10-trimethyl-11-oxoundeca-3,5,7,9-tetraenoate",FZFYFSUIOSWLHW-UNZVFGKVSA-N,C23H29NO7,Fusarin C
+3569,80-05-7,6623,6623.0,4-[2-(4-hydroxyphenyl)propan-2-yl]phenol,IISBACLAFKSPIT-UHFFFAOYSA-N,C15H16O2,"Bisphenol A (BPA)  Delisted April 19, 2013 [Click here for the basis for delisting]"
+3570,80-51-3,6649,6649.0,4-[4-(hydrazinesulfonyl)phenoxy]benzenesulfonohydrazide,NBOCQTNZUPTTEI-UHFFFAOYSA-N,C12H14N4O5S2,"p,p'-Oxybis(benzenesulfonyl hydrazide)  Delisted December 13, 2013 [Click here for the basis of delisting]"
+3572,8018-01-7,3034368,3034368.0,zinc;manganese(2+);N-[2-(sulfidocarbothioylamino)ethyl]carbamodithioate,CHNQZRKUZPNOOH-UHFFFAOYSA-J,C8H12MnN4S8Zn,Mancozeb
+3577,80474-14-2,444036,444036.0,"[(6S,8S,9R,10S,11S,13S,14S,16R,17R)-6,9-difluoro-17-(fluoromethylsulfanylcarbonyl)-11-hydroxy-10,13,16-trimethyl-3-oxo-6,7,8,11,12,14,15,16-octahydrocyclopenta[a]phenanthren-17-yl] propanoate",WMWTYOKRWGGJOA-CENSZEJFSA-N,C25H31F3O5S,Fluticasone propionate
+3583,81-07-2,5143,5143.0,"1,1-dioxo-1,2-benzothiazol-3-one",CVHZOJJKTDOEJC-UHFFFAOYSA-N,C7H5NO3S,"Saccharin  Delisted April 6, 2001  [Click here for the basis for delisting]"
+3584,81-49-2,6681,6681.0,"1-amino-2,4-dibromoanthracene-9,10-dione",ZINRVIQBCHAZMM-UHFFFAOYSA-N,C14H7Br2NO2,"1-Amino-2,4-dibromoanthraquinone"
+3586,81-81-2,54678486,54678486.0,4-hydroxy-3-(3-oxo-1-phenylbutyl)chromen-2-one,PJVWKTKQMONHTI-UHFFFAOYSA-N,C19H16O4,Warfarin
+3589,81-88-9,6694,6694.0,[9-(2-carboxyphenyl)-6-(diethylamino)xanthen-3-ylidene]-diethylazanium;chloride,PYWVYCXTNDRMGF-UHFFFAOYSA-N,C28H31ClN2O3,D&C Red No. 19
+3593,81103-11-9,84029,84029.0,"(3R,4S,5S,6R,7R,9R,11R,12R,13S,14R)-6-[(2S,3R,4S,6R)-4-(dimethylamino)-3-hydroxy-6-methyloxan-2-yl]oxy-14-ethyl-12,13-dihydroxy-4-[(2R,4R,5S,6S)-5-hydroxy-4-methoxy-4,6-dimethyloxan-2-yl]oxy-7-methoxy-3,5,7,9,11,13-hexamethyl-oxacyclotetradecane-2,10-dione",AGOYDEPGAOXOCK-KCBOHYOISA-N,C38H69NO13,Clarithromycin
+3600,81103-11-9,54688,54688.0,"(3R,4S,5S,6R,7R,9R,11R,12R,13S,14R)-6-[4-(dimethylamino)-3-hydroxy-6-methyloxan-2-yl]oxy-14-ethyl-12,13-dihydroxy-4-(5-hydroxy-4-methoxy-4,6-dimethyloxan-2-yl)oxy-7-methoxy-3,5,7,9,11,13-hexamethyl-oxacyclotetradecane-2,10-dione",AGOYDEPGAOXOCK-AVDMLEEESA-N,C38H69NO13,Clarithromycin
+3612,81103-11-9,13048687,13048687.0,"(3R,4S,5S,6R,7R,9R,11R,12R,13S,14R)-6-[(2S,3R,4R,6R)-4-(dimethylamino)-3-hydroxy-6-methyloxan-2-yl]oxy-14-ethyl-12,13-dihydroxy-4-[(2R,4R,5S,6S)-5-hydroxy-4-methoxy-4,6-dimethyloxan-2-yl]oxy-7-methoxy-3,5,7,9,11,13-hexamethyl-oxacyclotetradecane-2,10-dione",AGOYDEPGAOXOCK-BKCYOQPQSA-N,C38H69NO13,Clarithromycin
+3622,81103-11-9,53384925,53384925.0,"(3R,4S,5R,6R,7R,9R,11R,12R,13S,14R)-6-[(2S,3R,4R,6R)-4-(dimethylamino)-3-hydroxy-6-methyloxan-2-yl]oxy-14-ethyl-12,13-dihydroxy-4-[(2R,4R,5S,6S)-5-hydroxy-4-methoxy-4,6-dimethyloxan-2-yl]oxy-7-methoxy-3,5,7,9,11,13-hexamethyl-oxacyclotetradecane-2,10-dione",AGOYDEPGAOXOCK-NJTGNRSASA-N,C38H69NO13,Clarithromycin
+3629,81103-11-9,44629879,44629879.0,"(3R,4S,5S,6R,7R,9R,11R,12R,13S,14R)-6-[(2S,3S,4R,6R)-4-(dimethylamino)-3-hydroxy-6-methyloxan-2-yl]oxy-14-ethyl-12,13-dihydroxy-4-[(2R,4S,5S,6S)-5-hydroxy-4-methoxy-4,6-dimethyloxan-2-yl]oxy-7-methoxy-3,5,7,9,11,13-hexamethyl-oxacyclotetradecane-2,10-dione",AGOYDEPGAOXOCK-XDSQKUKXSA-N,C38H69NO13,Clarithromycin
+3639,81103-11-9,70789203,70789203.0,"(3R,4S,5S,6R,7R,9R,11R,12R,13S,14R)-6-[(2S,3R,4S,6R)-4-(dimethylamino)-3-hydroxy-6-methyloxan-2-yl]oxy-14-ethyl-12,13-dihydroxy-4-[(2S,4S,5R,6R)-5-hydroxy-4-methoxy-4,6-dimethyloxan-2-yl]oxy-7-methoxy-3,5,7,9,11,13-hexamethyl-oxacyclotetradecane-2,10-dione",AGOYDEPGAOXOCK-FEXCRMSXSA-N,C38H69NO13,Clarithromycin
+3643,81103-11-9,5284534,5284534.0,"(3R,4S,6R,7R,9R,11R,12R,13S,14R)-6-[(2S,3R,4S,6R)-4-(dimethylamino)-3-hydroxy-6-methyloxan-2-yl]oxy-14-ethyl-12,13-dihydroxy-4-[(2R,4R,5S,6S)-5-hydroxy-4-methoxy-4,6-dimethyloxan-2-yl]oxy-7-methoxy-3,5,7,9,11,13-hexamethyl-oxacyclotetradecane-2,10-dione",AGOYDEPGAOXOCK-LERDGGEFSA-N,C38H69NO13,Clarithromycin
+3650,81103-11-9,4663848,4663848.0,"6-[4-(dimethylamino)-3-hydroxy-6-methyloxan-2-yl]oxy-14-ethyl-12,13-dihydroxy-4-(5-hydroxy-4-methoxy-4,6-dimethyloxan-2-yl)oxy-7-methoxy-3,5,7,9,11,13-hexamethyl-oxacyclotetradecane-2,10-dione",AGOYDEPGAOXOCK-UHFFFAOYSA-N,C38H69NO13,Clarithromycin
+3658,81131-70-6,16759173,16759173.0,"sodium;(3R,5R)-7-[(1S,2S,6S,8S,8aR)-6-hydroxy-2-methyl-8-[(2S)-2-methylbutanoyl]oxy-1,2,6,7,8,8a-hexahydronaphthalen-1-yl]-3,5-dihydroxyheptanoate",VWBQYTRBTXKKOG-IYNICTALSA-M,C23H35NaO7,Pravastatin sodium
+3662,817-09-4,61220,61220.0,"2-chloro-N,N-bis(2-chloroethyl)ethanamine;hydrochloride",VEAUDLLZYJVHRI-UHFFFAOYSA-N,C6H13Cl4N,Trichlormethine (Trimustine hydrochloride)
+3663,82-28-0,6702,6702.0,"1-amino-2-methylanthracene-9,10-dione",ZLCUIOWQYBYEBG-UHFFFAOYSA-N,C15H11NO2,1-Amino-2-methylanthraquinone
+3664,822-36-6,13195,13195.0,5-methyl-1H-imidazole,XLSZMDLNRCVEIJ-UHFFFAOYSA-N,C4H6N2,4-Methylimidazole
+3665,82410-32-0,3454,3454.0,"2-amino-9-(1,3-dihydroxypropan-2-yloxymethyl)-3H-purin-6-one",IRSCQMHQWWYFCW-UHFFFAOYSA-N,C9H13N5O4,Ganciclovir
+3670,82952-64-5,54949,54949.0,"5-methyl-6-[(3,4,5-trimethoxyanilino)methyl]quinazoline-2,4-diamine;(2S,3S,4S,5R)-2,3,4,5-tetrahydroxy-6-oxohexanoic acid",ZCJXQWYMBJYJNB-LRDBBFHQSA-N,C25H33N5O10,Trimetrexate glucuronate
+3675,82952-64-5,336805,336805.0,"5-methyl-6-[(3,4,5-trimethoxyanilino)methyl]quinazoline-2,4-diamine;2,3,4,5-tetrahydroxy-6-oxohexanoic acid",ZCJXQWYMBJYJNB-UHFFFAOYSA-N,C25H33N5O10,Trimetrexate glucuronate
+3677,838-88-0,13283,13283.0,4-[(4-amino-3-methylphenyl)methyl]-2-methylaniline,WECDUOXQLAIPQW-UHFFFAOYSA-N,C15H18N2,"4,4'-Methylene bis(2-methylaniline)"
+3680,84-17-3,667476,667476.0,"4-[(2E,4E)-4-(4-hydroxyphenyl)hexa-2,4-dien-3-yl]phenol",NFDFQCUYFHCNBW-SCGPFSFSSA-N,C18H18O2,"Dienestrol Delisted January 4, 2013 [Click here for the basis for delisting]"
+3683,84-65-1,6780,6780.0,"anthracene-9,10-dione",RZVHIXYEVGDQDX-UHFFFAOYSA-N,C14H8O2,Anthraquinone
+3685,84-74-2,3026,3026.0,"dibutyl benzene-1,2-dicarboxylate",DOIRQSBPFJWKBE-UHFFFAOYSA-N,C16H22O4,Di-n-butyl phthalate (DBP)
+3688,84-75-3,6786,6786.0,"dihexyl benzene-1,2-dicarboxylate",KCXZNSGUUQJJTR-UHFFFAOYSA-N,C20H30O4,Di-n-hexyl phthalate (DnHP)
+3691,842-07-9,5858445,5858445.0,(1Z)-1-(phenylhydrazinylidene)naphthalen-2-one,ZONYAPYTDIVJGG-VLGSPTGOSA-N,C16H12N2O,C.I. Solvent Yellow 14
+3692,842-07-9,5354458,5354458.0,1-(phenylhydrazinylidene)naphthalen-2-one,ZONYAPYTDIVJGG-UHFFFAOYSA-N,C16H12N2O,C.I. Solvent Yellow 14
+3696,842-07-9,5359509,5359509.0,(1E)-1-(phenylhydrazinylidene)naphthalen-2-one,ZONYAPYTDIVJGG-FBMGVBCBSA-N,C16H12N2O,C.I. Solvent Yellow 14
+3699,846-49-1,3958,3958.0,"7-chloro-5-(2-chlorophenyl)-3-hydroxy-1,3-dihydro-1,4-benzodiazepin-2-one",DIWRORZWFLOCLC-UHFFFAOYSA-N,C15H10Cl2N2O2,Lorazepam
+3700,846-50-4,5391,5391.0,"7-chloro-3-hydroxy-1-methyl-5-phenyl-3H-1,4-benzodiazepin-2-one",SEQDDYPDSLOBDC-UHFFFAOYSA-N,C16H13ClN2O2,Temazepam
+3701,85-68-7,2347,2347.0,"2-O-benzyl 1-O-butyl benzene-1,2-dicarboxylate",IRIAEXORFWYRCZ-UHFFFAOYSA-N,C19H20O4,Butyl benzyl phthalate (BBP)d
+3705,86-30-6,6838,6838.0,"N,N-diphenylnitrous amide",UBUCNCOMADRQHX-UHFFFAOYSA-N,C12H10N2O,N-Nitrosodiphenylamine
+3707,86-74-8,6854,6854.0,9H-carbazole,UJOBWOGCFQCDNV-UHFFFAOYSA-N,C12H9N,Carbazole
+3709,86220-42-0,25084011,25084011.0,acetic acid;N-[1-[[1-[[1-[[1-[[1-[[1-[[1-[2-[(2-amino-2-oxoethyl)carbamoyl]pyrrolidin-1-yl]-5-(diaminomethylideneamino)-1-oxopentan-2-yl]amino]-4-methyl-1-oxopentan-2-yl]amino]-3-naphthalen-2-yl-1-oxopropan-2-yl]amino]-3-(4-hydroxyphenyl)-1-oxopropan-2-yl]amino]-3-hydroxy-1-oxopropan-2-yl]amino]-3-(1H-indol-3-yl)-1-oxopropan-2-yl]amino]-3-(1H-imidazol-5-yl)-1-oxopropan-2-yl]-5-oxopyrrolidine-2-carboxamide;hydrate,FSBTYDWUUWLHBD-UHFFFAOYSA-N,C68H89N17O16,Nafarelin acetate
+3711,87-29-6,5284369,5284369.0,[(E)-3-phenylprop-2-enyl] 2-aminobenzoate,GABQNAFEZZDSCM-RMKNXTFCSA-N,C16H15NO2,Cinnamyl anthranilate
+3714,87-29-6,6881,6881.0,3-phenylprop-2-enyl 2-aminobenzoate,GABQNAFEZZDSCM-UHFFFAOYSA-N,C16H15NO2,Cinnamyl anthranilate
+3721,87-29-6,54603882,54603882.0,[(Z)-3-phenylprop-2-enyl] 2-aminobenzoate,GABQNAFEZZDSCM-TWGQIWQCSA-N,C16H15NO2,Cinnamyl anthranilate
+3722,87-62-7,6896,6896.0,"2,6-dimethylaniline",UFFBMTHBGFGIHF-UHFFFAOYSA-N,C8H11N,"2,6-Xylidine (2,6-Dimethylaniline)"
+3723,87-68-3,6901,6901.0,"1,1,2,3,4,4-hexachlorobuta-1,3-diene",RWNKSTSCBHKHTB-UHFFFAOYSA-N,C4Cl6,Hexachlorobutadiene
+3725,87-86-5,992,992.0,"2,3,4,5,6-pentachlorophenol",IZUPBVBPLAPZRR-UHFFFAOYSA-N,C6HCl5O,Pentachlorophenol
+3727,872-50-4,13387,13387.0,1-methylpyrrolidin-2-one,SECXISVLQFMRJM-UHFFFAOYSA-N,C5H9NO,N-Methylpyrrolidone
+3728,88-06-2,6914,6914.0,"2,4,6-trichlorophenol",LINPIYWFGCPVIE-UHFFFAOYSA-N,C6H3Cl3O,"2,4,6-Trichlorophenol"
+3730,88-72-2,6944,6944.0,1-methyl-2-nitrobenzene,PLAZTCDQAHEYBI-UHFFFAOYSA-N,C7H7NO2,o-Nitrotoluene
+3732,88-85-7,6950,6950.0,"2-butan-2-yl-4,6-dinitrophenol",OWZPCEFYPSAJFR-UHFFFAOYSA-N,C10H12N2O5,Dinoseb
+3733,88671-89-0,6336,6336.0,"2-(4-chlorophenyl)-2-(1,2,4-triazol-1-ylmethyl)hexanenitrile",HZJKXKUJVSEEFU-UHFFFAOYSA-N,C15H17ClN4,Myclobutanil
+3734,90-04-0,7000,7000.0,2-methoxyaniline,VMPITZXILSNTON-UHFFFAOYSA-N,C7H9NO,o-Anisidine
+3736,90-43-7,7017,7017.0,2-phenylphenol,LLEMOWNGBBNAJR-UHFFFAOYSA-N,C12H10O,o-Phenylphenol
+3740,90-94-8,7031,7031.0,bis[4-(dimethylamino)phenyl]methanone,VVBLNCFGVYUYGU-UHFFFAOYSA-N,C17H20N2O,Michler's ketone
+3743,9004-66-4,105075,105075.0,iron;sulfuric acid,MVZXTUSAYBWAAM-UHFFFAOYSA-N,FeH2O4S,Iron dextran complex
+3745,9006-42-2,5284484,5284484.0,zinc;N-[2-(sulfidocarbothioylamino)ethyl]carbamodithioate,AMHNZOICSMBGDH-UHFFFAOYSA-L,C4H6N2S4Zn,Metiram
+3747,91-20-3,931,931.0,naphthalene,UFWIBTONFRDIAS-UHFFFAOYSA-N,C10H8,Naphthalene
+3749,91-23-6,7048,7048.0,1-methoxy-2-nitrobenzene,CFBYEGUGFPZCNF-UHFFFAOYSA-N,C7H7NO3,o-Nitroanisole
+3751,91-59-8,7057,7057.0,naphthalen-2-amine,JBIJLHTVPXGSAM-UHFFFAOYSA-N,C10H9N,2-Naphthylamine
+3753,91-94-1,7070,7070.0,4-(4-amino-3-chlorophenyl)-2-chloroaniline,HUWXDEQWWKGHRV-UHFFFAOYSA-N,C12H10Cl2N2,"3,3'-Dichlorobenzidine"
+3755,919-16-4,13520,13520.0,"trilithium;2-hydroxypropane-1,2,3-tricarboxylate",WJSIUCDMWSDDCE-UHFFFAOYSA-K,C6H5Li3O7,Lithium citrate
+3756,92-67-1,7102,7102.0,4-phenylaniline,DMVOXQPQNTYEKQ-UHFFFAOYSA-N,C12H11N,4-Aminobiphenyl (4-aminodiphenyl)
+3758,92-87-5,7111,7111.0,4-(4-aminophenyl)aniline,HFACYLZERDEVSX-UHFFFAOYSA-N,C12H12N2,Benzidine [and its salts]
+3760,92-93-3,7114,7114.0,1-nitro-4-phenylbenzene,BAJQRLZAPXASRD-UHFFFAOYSA-N,C12H9NO2,4-Nitrobiphenyl
+3762,924-16-3,13542,13542.0,"N,N-dibutylnitrous amide",YGJHZCLPZAZIHH-UHFFFAOYSA-N,C8H18N2O,N-Nitrosodi-n-butylamine
+3764,924-42-5,13543,13543.0,N-(hydroxymethyl)prop-2-enamide,CNCOEDDPFOAUMB-UHFFFAOYSA-N,C4H7NO2,N-Methylolacrylamide
+3765,93-15-2,7127,7127.0,"1,2-dimethoxy-4-prop-2-enylbenzene",ZYEMGPIYFIJGTP-UHFFFAOYSA-N,C11H14O2,Methyleugenol
+3769,930-55-2,13591,13591.0,1-nitrosopyrrolidine,WNYADZVDBIBLJJ-UHFFFAOYSA-N,C4H8N2O,N-Nitrosopyrrolidine
+3770,94-58-6,7197,7197.0,"5-propyl-1,3-benzodioxole",MYEIDJPOUKASEC-UHFFFAOYSA-N,C10H12O2,Dihydrosafrole
+3772,94-59-7,5144,5144.0,"5-prop-2-enyl-1,3-benzodioxole",ZMQAAUBTXCXRIC-UHFFFAOYSA-N,C10H10O2,Safrole
+3774,94-78-0,4756,4756.0,"3-phenyldiazenylpyridine-2,6-diamine",QPFYXYFORQJZEC-UHFFFAOYSA-N,C11H11N5,Phenazopyridine
+3776,94-82-6,1489,1489.0,"4-(2,4-dichlorophenoxy)butanoic acid",YIVXMZJTEQBPQO-UHFFFAOYSA-N,C10H10Cl2O3,"2,4-D butyric acid [Click here for the basis for the removal of developmental endpoint, effective June 22, 2001]"
+3780,94088-85-4,62305,62305.0,"dicalcium;(5R,5aR,6S,6aR,7S,10aS)-9-[amino(oxido)methylidene]-7-(dimethylamino)-10a-hydroxy-5-methyl-8,10,11-trioxo-5a,6,6a,7-tetrahydro-5H-tetracene-1,6,12-triolate",IUXJIFQLSXIMMG-QFWOMMJSSA-K,C22H20Ca2N2O8,Doxycycline calcium (internal use)
+3782,95-06-7,7216,7216.0,"2-chloroprop-2-enyl N,N-diethylcarbamodithioate",XJCLWVXTCRQIDI-UHFFFAOYSA-N,C8H14ClNS2,Sulfallate
+3783,95-53-4,7242,7242.0,2-methylaniline,RNVCVTLRINQCPJ-UHFFFAOYSA-N,C7H9N,o-Toluidine
+3785,95-54-5,7243,7243.0,"benzene-1,2-diamine",GEYOCULIXLDCMW-UHFFFAOYSA-N,C6H8N2,o-Phenylenediamine and its salts
+3787,95-69-2,7251,7251.0,4-chloro-2-methylaniline,CXNVOWPRHWWCQR-UHFFFAOYSA-N,C7H8ClN,p-Chloro-o-toluidine
+3790,95-80-7,7261,7261.0,"4-methylbenzene-1,3-diamine",VOZKAJLKRJDJLL-UHFFFAOYSA-N,C7H10N2,"2,4-Diaminotoluene"
+3793,95-83-0,7263,7263.0,"4-chlorobenzene-1,2-diamine",BXIXXXYDDJVHDL-UHFFFAOYSA-N,C6H7ClN2,4-Chloro-o-phenylenediamine
+3794,96-09-3,7276,7276.0,2-phenyloxirane,AWMVMTVKBNGEAK-UHFFFAOYSA-N,C8H8O,Styrene oxide
+3797,96-12-8,7280,7280.0,"1,2-dibromo-3-chloropropane",WBEJYOJJBDISQU-UHFFFAOYSA-N,C3H5Br2Cl,"1,2-Dibromo-3-chloropropane  (DBCP)"
+3799,96-13-9,7281,7281.0,"2,3-dibromopropan-1-ol",QWVCIORZLNBIIC-UHFFFAOYSA-N,C3H6Br2O,"2,3-Dibromo-1-propanol"
+3802,96-18-4,7285,7285.0,"1,2,3-trichloropropane",CFXQEHVMCRXUSD-UHFFFAOYSA-N,C3H5Cl3,"1,2,3-Trichloropropane"
+3804,96-23-1,7289,7289.0,"1,3-dichloropropan-2-ol",DEWLEGDTCGBNGU-UHFFFAOYSA-N,C3H6Cl2O,"1,3-Dichloro-2-propanol (1,3-DCP)"
+3807,96-24-2,7290,7290.0,"3-chloropropane-1,2-diol",SSZWWUDQMAHNAQ-UHFFFAOYSA-N,C3H7ClO2,"3-Monochloropropane-1,2-diol (3-MCDP)"
+3810,96-45-7,2723650,2723650.0,imidazolidine-2-thione,PDQAZBWRQCGBEV-UHFFFAOYSA-N,C3H6N2S,Ethylene thiourea
+3812,97-23-4,3037,3037.0,4-chloro-2-[(5-chloro-2-hydroxyphenyl)methyl]phenol,MDNWOSOZYLHTCG-UHFFFAOYSA-N,C13H10Cl2O2,Dichlorophene
+3814,97048-13-0,62819,62819.0,"1-[19-amino-7-(2-amino-2-oxoethyl)-13-butan-2-yl-10-(1-hydroxyethyl)-16-[(4-hydroxyphenyl)methyl]-6,9,12,15,18-pentaoxo-1,2-dithia-5,8,11,14,17-pentazacycloicosane-4-carbonyl]-N-[1-[(2-amino-2-oxoethyl)amino]-4-methyl-1-oxopentan-2-yl]pyrrolidine-2-carboxamide",ZDRRIRUAESZNIH-UHFFFAOYSA-N,C42H65N11O12S2,Urofollitropin
+3815,98-07-7,7367,7367.0,trichloromethylbenzene,XEMRAKSQROQPBR-UHFFFAOYSA-N,C7H5Cl3,Benzotrichloride
+3816,98-82-8,7406,7406.0,cumene,RWGFKTVRMDUZSP-UHFFFAOYSA-N,C9H12,Cumene
+3818,98-83-9,7407,7407.0,prop-1-en-2-ylbenzene,XYLMUPLGERFSHI-UHFFFAOYSA-N,C9H10,"α-Methyl styrene Delisted April 4, 2014 [Click for the basis for delisting]"
+3820,98-95-3,7416,7416.0,nitrobenzene,LQNUZADURLCDLV-UHFFFAOYSA-N,C6H5NO2,Nitrobenzene
+3821,982-57-0,13794,13794.0,"sodium;4-[2-[(2,2-dichloroacetyl)amino]-3-hydroxy-3-(4-nitrophenyl)propoxy]-4-oxobutanoate",RPLOPBHEZLFENN-UHFFFAOYSA-M,C15H15Cl2N2NaO8,Chloramphenicol sodium succinate
+3826,982-57-0,656833,656833.0,"sodium;4-[(2R,3R)-2-[(2,2-dichloroacetyl)amino]-3-hydroxy-3-(4-nitrophenyl)propoxy]-4-oxobutanoate",RPLOPBHEZLFENN-HTMVYDOJSA-M,C15H15Cl2N2NaO8,Chloramphenicol sodium succinate
+3829,99-59-2,7447,7447.0,2-methoxy-5-nitroaniline,NIPDVSLAMPAWTP-UHFFFAOYSA-N,C7H8N2O3,"5-Nitro-o-anisidine Delisted December 8, 2006 [Click here for the basis for delisting]"
+3833,99-65-0,7452,7452.0,"1,3-dinitrobenzene",WDCYWAQPCXBPJA-UHFFFAOYSA-N,C6H4N2O4,m-Dinitrobenzene
+3835,99-66-1,3121,3121.0,2-propylpentanoic acid,NIJJYAXOARWZEE-UHFFFAOYSA-N,C8H16O2,Valproate (Valproic acid)
+3838,994-05-8,61247,61247.0,2-methoxy-2-methylbutane,HVZJRWJGKQPSFL-UHFFFAOYSA-N,C6H14O,"tert-Amyl methyl ether  Delisted December 13, 2013 [Click here for the basis for delisting]"
