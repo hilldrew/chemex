@@ -12,6 +12,26 @@ import csv
 import json
 from chemex import casrn
 
+def clean_names(syns):
+    # The list is '; '-delimited, and includes names like 'beryllium;lead'...
+    z = syns.split('; ')
+    # Separate the first synoynm in the list from the heading number.
+    z[0] = z[0].split('.')[1]
+    # Clean up all the synonyms.
+    z = [x.strip('\r\n ') for x in z]
+    # Try (imperfectly) to find the first name that's not an alphanumeric ID.
+    p = re.compile(r'[0-9A-Z_-]{5,}')
+    for x in z:
+        if p.match(x):
+            continue
+        else:
+            s = x
+            break
+    else:
+        s = z[0]
+    # Returns: [best synonym, [all synonyms]]
+    return [s, z]
+
 def extract(in_path, out_path, cmg):
     with open(in_path) as f:
         data = f.readlines() # Reads the file as one giant list.
@@ -26,27 +46,26 @@ def extract(in_path, out_path, cmg):
     cids = [x.lstrip('CID: ').rstrip('\r\n') for x in cids]
     # Extract CASRNs:
     casrns = [casrn.find_valid(x) for x in syns]
-    # Arbitrarily extract the first synonym in the list:
-    syn1 = [x.split(';')[0].split('.')[1] for x in syns]
+    # Find what looks like a 'name', and also gather all synonyms as a list.
+    names = [clean_names(x) for x in syns]
     # Compile into a dict:
-    results = {cids[i]: {'casrn': casrns[i], 'syn': syn1[i]}
-               for i in range(len(cids))}
-    # Output as JSON:
+    results = {cids[i]: {'casrn': casrns[i], 'name': names[i][0],
+                         'syns': names[i][1]} for i in range(len(cids))}
+    # Output as JSON: This writes out the entire data structure.
     with open(os.path.join(out_path, cmg + '.json'), 'w') as f:
-        # This will write out the entire data structure, including
-        # all CASRNs found among the synonyms for each CID.
         json.dump(results, f)
-    # Output as CSV (abridged):
+    # Output as CSV (abridged): This only writes out entries for which a valid
+    # CASRN was found; includes only the first CASRN if found more than one;
+    # and includes only one synonym.
     with open(os.path.join(out_path, cmg + '.csv'), 'w') as f:
         w = csv.writer(f)
         w.writerow(['CID', 'synonym', 'CASRN', 'CMG'])
-        # This will only output the first CASRN if there are more than one.
         for c in cids:
             if len(results[c]['casrn']) > 0:
-                cas = results[c]['casrn'][0]
+                w.writerow([c, results[c]['name'],
+                            results[c]['casrn'][0], cmg])
             else:
-                cas = ''
-            w.writerow([c, results[c]['syn'], cas, cmg])
+                pass
 
 def main():
     d = 'Extract CID-CASRN correspondences from PubChem structure output.'
