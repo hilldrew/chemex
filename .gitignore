@@ -2,6 +2,9 @@
 .ipynb_checkpoints
 notebooks.old/
 temp/
+data/extract-cid-casrn/*.*
+results/extract-cid-casrn/*.*
+results/*.*
 
 # Operating system junk
 .DS_Store

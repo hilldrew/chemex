@@ -28,3 +28,12 @@ def validate(casrn, boolean=False):
         return valid
     else:
         return '-'.join([n[:-3], n[-3:-1], n[-1:]]) if valid else None
+
+def find_valid(s):
+    '''
+    Find all CASRNs in a string and check their validity. Returns a list of
+    valid CASRNs only.
+    '''
+    p = re.compile(r'(\d{2,7})-(\d{2})-\d')
+    found = [validate(i.group()) for i in p.finditer(s)]
+    return [x for x in found if x is not None]
