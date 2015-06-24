@@ -31,13 +31,11 @@ def extract(in_path, out_path, cmg):
     # Compile into a dict:
     results = {cids[i]: {'casrn': casrns[i], 'syn': syn1[i]}
                for i in range(len(cids))}
-
     # Output as JSON:
     with open(os.path.join(out_path, cmg + '.json'), 'w') as f:
         # This will write out the entire data structure, including
         # all CASRNs found among the synonyms for each CID.
         json.dump(results, f)
-
     # Output as CSV (abridged):
     with open(os.path.join(out_path, cmg + '.csv'), 'w') as f:
         w = csv.writer(f)
@@ -49,6 +47,7 @@ def extract(in_path, out_path, cmg):
             else:
                 cas = ''
             w.writerow([c, results[c]['syn'], cas, cmg])
+
 def main():
     d = 'Extract CID-CASRN correspondences from PubChem structure output.'
     parser = argparse.ArgumentParser(description=d)
