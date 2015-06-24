@@ -10,15 +10,14 @@ import glob
 import re
 import csv
 import json
-from builtins import str # now str() and unicode() do the same thing
 from chemex import casrn
 
 def extract(in_path, out_path, cmg):
     with open(in_path) as f:
         data = f.readlines() # Reads the file as one giant list.
-    # THIS MAY NEED TO BE CHANGED to accommodate raw PubChem output...
-    # This takes every fourth line of the file, alternately starting from
-    # lines 4 and 2, to get separate lists of the CIDs and synonym strings.
+    # Based on how PubChem search results are formatted, this takes every
+    # fourth line of the file, alternately starting from lines 4 and 2,
+    # to get separate lists of the CIDs and synonym strings. 
     cids = data[3::4]
     syns = data[1::4]
     if len(cids) != len(syns):
