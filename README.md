@@ -7,16 +7,15 @@ Not all chemical identifiers are created equal. This project is about ways of li
 
 ## Requirements
 
-The [IPython](http://ipython.org/) notebooks use:
-* Python 3
-* [pandas](http://pandas.pydata.org/)
-* requests
-* xlrd
-
-The currently non-existent app will eventually use:
+The chemex package and the scripts (`scripts/`) require:
 * Python 2.7
-* [Clastic](https://github.com/mahmoud/clastic)
+* future
+* xlrd
+* numpy
 
+The [IPython](http://ipython.org/) notebooks (`notebooks/`) were written in Python 3, and additionally use:
+* requests
+* pandas
 
 ## Fine print
 

@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-from __future__ import unicode_literals
+from __future__ import unicode_literals, print_function
 import os
 import sys
 _CUR_PATH = os.path.dirname(os.path.abspath(__file__))
@@ -41,7 +41,7 @@ def extract(in_path, out_path, cmg):
     cids = data[3::4]
     syns = data[1::4]
     if len(cids) != len(syns):
-        print '%s: Warning: unequal number of CIDs & synonym strings.' % cmg
+        print('{0}: Warning: unequal number of CIDs & synonym strings.'.format(cmg))
     # Extract CIDs:
     cids = [x.lstrip('CID: ').rstrip('\r\n') for x in cids]
     # Extract CASRNs:

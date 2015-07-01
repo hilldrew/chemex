@@ -3,8 +3,8 @@
 notebooks.old/
 temp/
 data/extract-cid-casrn/*.*
-results/extract-cid-casrn/*.*
 results/*.*
+results/extract-cid-casrn/*.*
 
 # Operating system junk
 .DS_Store
