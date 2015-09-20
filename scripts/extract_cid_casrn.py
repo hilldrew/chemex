@@ -72,10 +72,10 @@ def main():
     parser = argparse.ArgumentParser(description=d)
     parser.add_argument('-i', metavar='input_dir',
                         help='directory containing input files (CMG*.txt)',
-                        default='data/extract-cid-casrn')
+                        default=os.path.join('data', 'extract_cid_casrn'))
     parser.add_argument('-o', metavar='output_dir',
                         help='directory where output files will be generated',
-                        default='results/extract-cid-casrn')
+                        default=os.path.join('results', 'extract_cid_casrn'))
     args = parser.parse_args()
     in_path = os.path.abspath(args.i)
     out_path = os.path.abspath(args.o)

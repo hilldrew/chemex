@@ -21,7 +21,7 @@ RESULTS_PATH = os.path.join(_PARENT_PATH, 'results', 'ghs')
 # international government documents. By Akos Kokai.
 
 # GHS hazard classes, based on GHS Revision 4 chapter reference.
-ghs_hazards = {
+hazard_classes = {
     '2.1': 'Explosives',
     '2.2': 'Flammable gases',
     '2.3': 'Aerosols',
@@ -132,10 +132,6 @@ h_statements = {
     'H420': 'Harms public health and the environment by destroying ozone in the upper atmosphere'
     }
 
-def extract_jp():
-    import ghs_jp
-    ghs_jp.extract()
-
 def extract_kr():
     # Process the Korea GHS classification (2011).
     KR_DATA_PATH = os.path.join(DATA_PATH, 'kr')
@@ -175,7 +171,7 @@ def extract_kr():
         # M-factor        (r, 9)
         haz_class_field = chemsheet.cell_value(r, 4)
         ref = haz_class_field[haz_class_field.find('('):].strip('()')
-        haz_class_en = ghs_hazards[ref]
+        haz_class_en = hazard_classes[ref]
         if ref == '3.1':
             if u'급성 독성-경구' in haz_class_field:
                 haz_class_en = 'Acute toxicity (oral)'
@@ -501,8 +497,8 @@ def main():
                 help='Process GHS classifications from these countries.')
     args = parser.parse_args()
     if 'jp' in args.countries:
-        print('Processing Japan GHS classifications.')
-        extract_jp()
+        import ghs_jp
+        ghs_jp.main()
     if 'kr' in args.countries:
         print('Processing Republic of Korea GHS classifications.')
         extract_kr()
