@@ -45,11 +45,11 @@ def extract(in_path, out_path, cmg):
     # Extract CIDs:
     cids = [x.lstrip('CID: ').rstrip('\r\n') for x in cids]
     # Extract CASRNs:
-    casrns = [casrn.find_valid(x) for x in syns]
+    cas_rns = [casrn.find_valid(x) for x in syns]
     # Find what looks like a 'name', and also gather all synonyms as a list.
     names = [clean_names(x) for x in syns]
     # Compile into a dict:
-    results = {cids[i]: {'casrn': casrns[i], 'name': names[i][0],
+    results = {cids[i]: {'casrn': cas_rns[i], 'name': names[i][0],
                          'syns': names[i][1]} for i in range(len(cids))}
     # Output as JSON: This writes out the entire data structure.
     with open(os.path.join(out_path, cmg + '.json'), 'w') as f:

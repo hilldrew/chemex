@@ -13,13 +13,12 @@ from builtins import str
 import xlrd
 from chemex import casrn
 
-DATA_PATH = os.path.join(_PARENT_PATH, 'data')
-RESULTS_PATH = os.path.join(_PARENT_PATH, 'results')
+DATA_PATH = os.path.join(_PARENT_PATH, 'data', 'ghs')
+RESULTS_PATH = os.path.join(_PARENT_PATH, 'results', 'ghs')
 
-# ghscrunch.py
+# ghs.py
 # Extract GHS chemical hazard classification information out of various
-# international government documents. 
-# Version 2, by Akos Kokai.
+# international government documents. By Akos Kokai.
 
 # GHS hazard classes, based on GHS Revision 4 chapter reference.
 ghs_hazards = {
@@ -133,308 +132,11 @@ h_statements = {
     'H420': 'Harms public health and the environment by destroying ozone in the upper atmosphere'
     }
 
-# def ghs_hazard(ref):
-#     return ghs_hazards[ref]
+def extract_jp():
+    import ghs_jp
+    ghs_jp.extract()
 
-# def h_statement(h):
-#     return h_statements[h]
-
-
-def splitsens(info):
-    # For Japan GHS classifications.
-    # Splits apart info for respiratory sensitization and skin sensitization
-    # in a given row of cells. The hazard class name field, which says
-    # "Respiratory/skin sensitizer", should not be included in the list passed
-    # to this function. Returned list includes an automatically assigned field.
-    resp_list = ['Respiratory sensitizer']
-    skin_list = ['Skin sensitizer']
-    for s in info:
-        s = str(s)
-        if 'Skin' in s:
-            a = s.find('Skin')
-            resp_str = s[:a].rstrip(';([ \n\r')
-            resp_str = resp_str.replace('Respiratory sensitizer: ', '', 1)
-            resp_str = resp_str.replace('Respiratory Sensitizer: ', '', 1)
-            resp_str = resp_str.replace('Respiratory sensitization: ', '', 1)
-            resp_str = resp_str.replace('(Respiratory sensitization)', '', 1)
-            skin_str = s[a:].rstrip('; \n\r')
-            skin_str = skin_str.replace('Skin sensitizer: ', '', 1)
-            skin_str = skin_str.replace('Skin Sensitizer: ', '', 1)
-            skin_str = skin_str.replace('Skin sensitization: ', '', 1)
-            skin_str = skin_str.replace('Skin sensitization)', '', 1)
-        else: 
-            resp_str = skin_str = s.rstrip(' \n')
-        resp_list = resp_list + [resp_str]
-        skin_list = skin_list + [skin_str]
-    return resp_list, skin_list
-
-
-def update(chemical, hazard_class, datalist):
-    # For Japan GHS classifications.
-    # Copies spreadsheet data to the chemical classification record.
-    # Does not overwrite the original classification info with blank
-    # sections of the revised classification.
-    if hazard_class not in chemical:
-        chemical[hazard_class] = datalist
-    elif datalist[1] != '':
-        chemical[hazard_class] = datalist
-
-
-def update_all(chemicals, source_file):
-    # For Japan GHS classifications.
-    # Creates or updates the dict of chemical classifications from a given
-    # spreadsheet. Specifying date allows revisions to be clearly seen, but
-    # not going to deal with parsing the dates given in the spreadsheets.
-    chembook = xlrd.open_workbook(source_file)
-    # Ignore the first sheet (it's just a list of chemicals in the workbook).
-    for chempage in range(1, chembook.nsheets):
-        chemsheet = chembook.sheet_by_index(chempage)
-        # Cells are identified by (row, col) where A1 is (0, 0).
-        id = chemsheet.cell_value(1,0).strip()
-        chemname = chemsheet.cell_value(1, 3).strip()
-        casrn_field = chemsheet.cell_value(2, 2).strip('- ')
-        # Must use something as unique ID if CASRN is blank. Provided index
-        # IDs are not the same across datasets (2007 - 2009). So, add a few
-        # characters of the chemical name (without introducing commas).
-        if casrn_field == '':
-            casrn_field = id + (chemname[:4] + chemname[-4:]).replace(',', '')
-        date = chemsheet.cell_value(2, 4)
-        # But I also want one CASRN per chemical listing.
-        for c in casrn_field.split(','):
-            casrn = c.strip()
-            if casrn not in chemicals:
-                chemicals[casrn] = dict(name=chemname)
-            # We are going to extract columns 2-7 for each of the rows.
-            # col 2: Hazard class name
-            # col 3: Classification
-            # col 4: Symbol
-            # col 5: Signal word
-            # col 6: Hazard statement
-            # col 7: Rationale for classification
-            update(chemicals[casrn], 'explosive',
-                   chemsheet.row_values(5)[2:8] + [date])
-            update(chemicals[casrn], 'flamm_gas',
-                   chemsheet.row_values(6)[2:8] + [date])
-            update(chemicals[casrn], 'flamm_aer',
-                   chemsheet.row_values(7)[2:8] + [date])
-            update(chemicals[casrn], 'oxid_gas',
-                   chemsheet.row_values(8)[2:8] + [date])
-            update(chemicals[casrn], 'gas_press',
-                   chemsheet.row_values(9)[2:8] + [date])
-            update(chemicals[casrn], 'flamm_liq',
-                   chemsheet.row_values(10)[2:8] + [date])
-            update(chemicals[casrn], 'flamm_sol',
-                   chemsheet.row_values(11)[2:8] + [date])
-            update(chemicals[casrn], 'self_react',
-                   chemsheet.row_values(12)[2:8] + [date])
-            update(chemicals[casrn], 'pyro_liq',
-                   chemsheet.row_values(13)[2:8] + [date])
-            update(chemicals[casrn], 'pyro_sol',
-                   chemsheet.row_values(14)[2:8] + [date])
-            update(chemicals[casrn], 'self_heat',
-                   chemsheet.row_values(15)[2:8] + [date])
-            update(chemicals[casrn], 'water_fire',
-                   chemsheet.row_values(16)[2:8] + [date])
-            update(chemicals[casrn], 'oxid_liq',
-                   chemsheet.row_values(17)[2:8] + [date])
-            update(chemicals[casrn], 'oxid_sol',
-                   chemsheet.row_values(18)[2:8] + [date])
-            update(chemicals[casrn], 'org_perox',
-                   chemsheet.row_values(19)[2:8] + [date])
-            update(chemicals[casrn], 'cor_metal',
-                   chemsheet.row_values(20)[2:8] + [date])
-            update(chemicals[casrn], 'acute_oral',
-                   chemsheet.row_values(24)[2:8] + [date])
-            update(chemicals[casrn], 'acute_derm',
-                   chemsheet.row_values(25)[2:8] + [date])
-            update(chemicals[casrn], 'acute_gas',
-                   chemsheet.row_values(26)[2:8] + [date])
-            update(chemicals[casrn], 'acute_vap',
-                   chemsheet.row_values(27)[2:8] + [date])
-            update(chemicals[casrn], 'acute_air',
-                   chemsheet.row_values(28)[2:8] + [date])
-            update(chemicals[casrn], 'skin_cor',
-                   chemsheet.row_values(29)[2:8] + [date])
-            update(chemicals[casrn], 'eye_dmg',
-                   chemsheet.row_values(30)[2:8] + [date])
-            # For respiratory & skin sensitization, we need to split strings.
-            # Don't include cell 2, it's automatically added by splitsens().
-            resp_only, skin_only = splitsens(chemsheet.row_values(31)[3:8])
-            update(chemicals[casrn], 'resp_sens',
-                   resp_only + [date])
-            update(chemicals[casrn], 'skin_sens',
-                   skin_only + [date])
-            update(chemicals[casrn], 'mutagen',
-                   chemsheet.row_values(32)[2:8] + [date])
-            update(chemicals[casrn], 'cancer',
-                   chemsheet.row_values(33)[2:8] + [date])
-            update(chemicals[casrn], 'repr_tox',
-                   chemsheet.row_values(34)[2:8] + [date])
-            update(chemicals[casrn], 'sys_single',
-                   chemsheet.row_values(35)[2:8] + [date])
-            update(chemicals[casrn], 'sys_rept',
-                   chemsheet.row_values(36)[2:8] + [date])
-            update(chemicals[casrn], 'asp_haz',
-                   chemsheet.row_values(37)[2:8] + [date])
-            update(chemicals[casrn], 'aq_acute',
-                   chemsheet.row_values(41)[2:8] + [date])
-            update(chemicals[casrn], 'aq_chronic',
-                   chemsheet.row_values(42)[2:8] + [date])
-
-
-def crunch_jp():
-    # Process the Japan GHS classifications (2006-2008).
-    # File locations:
-    JP_DATA_NEW_PATH = os.path.join(DATA_PATH, 'jp', 'new')
-    JP_DATA_REV_PATH = os.path.join(DATA_PATH, 'jp', 'rev')
-    JP_RESULTS_PATH = os.path.join(RESULTS_PATH, 'jp')
-    # Find filenames:
-    new_search = os.path.join(JP_DATA_NEW_PATH, '*.xl*')
-    files = glob.glob(new_search) # ...
-    # GHS_jp_2006_files = [
-    #     'classification_result_e(ID001-100).xls',
-    #     'classification_result_e(ID101-200).xls',
-    #     'classification_result_e(ID201-300).xls',
-    #     'classification_result_e(ID301-400).xls',
-    #     'classification_result_e(ID401-500).xls',
-    #     'classification_result_e(ID501-600).xls',
-    #     'classification_result_e(ID601-700).xls',
-    #     'classification_result_e(ID701-800).xls',
-    #     'classification_result_e(ID801-900).xls',
-    #     'classification_result_e(ID901-1000).xls',
-    #     'classification_result_e(ID1001-1100).xls',
-    #     'classification_result_e(ID1101-1200).xls',
-    #     'classification_result_e(ID1201-1300).xls',
-    #     'classification_result_e(ID1301-1400).xls',
-    #     'classification_result_e(ID1401-1424).xls'
-    #     ]
-    # GHS_jp_2007_files = [
-    #                     'METI_H19_GHS_review_e.xls',
-    #                     'METI_H19_GHS_new_e.xls'
-    #                     ]
-    # GHS_jp_2008_files = [
-    #                     'METI_H20_GHS_review_e.xls',
-    #                     'METI_H20_GHS_new_e.xls'
-                        ]
-    # Initialize a dictionary of CASRN-identified chemicals. 
-    # Each key will be a CASRN, and each corresponding value will itself be 
-    # a dictionary with:
-    #   - A key called 'name', with the substance name as its value.
-    #   - Keys for each hazard class, with lists of relevant classification
-    #     information as their values.
-    chemicals = dict()   
-    # First feed in the 2006 mass classification.
-    for f in GHS_jp_2006_files:
-        update_all(chemicals, os.path.join(JP_DATA_PATH, f))
-    # Then add subsequent revisions and additions.
-    for f in GHS_jp_2007_files:
-        update_all(chemicals, os.path.join(JP_DATA_PATH, f))
-    for f in GHS_jp_2008_files:
-        update_all(chemicals, os.path.join(JP_DATA_PATH, f))
-    # Then, output a list of chemicals & their classification info for 
-    # each hazard class.
-    # There will be no separate hazard class field in the output, because
-    # it will be combined with classification.
-    header = ['CASRN', 'Name', # 'Hazard class',
-              'Classification', 'Symbol', 'Signal word', 'Hazard statement',
-              'Rationale for classification', 'Date of classification']
-    # This will keep track of unique classifications.
-    sublists = set()
-    # I want the output to be in separate CSV files for each hazard class.
-    # Furthermore, I want separate files for "classification not possible",
-    # "not classified", and "not applicable".
-    nafile = open(os.path.join(JP_RESULTS_PATH, 'notapplicable.csv'), 'w')
-    nawriter = csv.writer(nafile)
-    nawriter.writerow(header)
-    ncfile = open(os.path.join(JP_RESULTS_PATH, 'notclassified.csv'), 'w')
-    ncwriter = csv.writer(ncfile)
-    ncwriter.writerow(header)
-    npfile = open(os.path.join(JP_RESULTS_PATH, 'notpossible.csv'), 'w')
-    npwriter = csv.writer(npfile)
-    npwriter.writerow(header)
-    # These are all the hazard class keywords that we will use. 
-    `# They are the dictionary keys used by update_all().
-    hazard_classes = [
-        'explosive',
-        'flamm_gas',
-        'flamm_aer',
-        'oxid_gas',
-        'gas_press',
-        'flamm_liq',
-        'flamm_sol',
-        'self_react',
-        'pyro_liq',
-        'pyro_sol',
-        'self_heat',
-        'water_fire',
-        'oxid_liq',
-        'oxid_sol',
-        'org_perox',
-        'cor_metal',
-        'acute_oral',
-        'acute_derm',
-        'acute_gas',
-        'acute_vap',
-        'acute_air',
-        'skin_cor',
-        'eye_dmg',
-        'resp_sens',
-        'skin_sens',
-        'mutagen',
-        'cancer',
-        'repr_tox',
-        'sys_single',
-        'sys_rept',
-        'asp_haz',
-        'aq_acute',
-        'aq_chronic'
-        ] 
-    for h in hazard_classes:
-        with open('GHS-jp/output/' + h + '.csv', 'w', newline='') as outfile:
-            listwriter = csv.writer(outfile)
-            listwriter.writerow(header)
-            for c in sorted(chemicals.keys()):
-                # Mash the hazard class and category together...
-                category = str(chemicals[c][h][1]).replace('\n', ' ').strip()
-                s = str(chemicals[c][h][0]).strip() + ' - ' + category
-                # These conditions test for exact matches. Things like
-                # "Category 4 (m-cresol) Not applicable (o- and p-cresol)" 
-                # will not be filtered out, since you want to know about that
-                # Category 4. Unfortunately, you have to edit these by hand.
-                # As a side effect, things like "Not applicable (aqueous 
-                # solution)" will be kept even though they're useless.
-                if category == 'Not applicable':
-                    nawriter.writerow([c] + [chemicals[c]['name']] + 
-                                      [s] + chemicals[c][h][2:])
-                elif category == 'Not classified':
-                    ncwriter.writerow([c] + [chemicals[c]['name']] + 
-                                      [s] + chemicals[c][h][2:])
-                elif category == 'Classification not possible':
-                    npwriter.writerow([c] + [chemicals[c]['name']] + 
-                                      [s] + chemicals[c][h][2:])
-                elif category != '':
-                    # Don't bother outputting rows of empty classifications
-                    # (where no classification results were given).
-                    sublists.add(s)
-                    listwriter.writerow([c] + [chemicals[c]['name']] + 
-                                        [s] + chemicals[c][h][2:])
-    nafile.close()
-    ncfile.close()
-    npfile.close()
-    # Output a list of unique classifications (hazard class + category) that
-    # appear in the hazard-specific output files.
-    with open(os.path.join(JP_RESULTS_PATH, 'classifications.txt'), 'w') as classtxt:
-        for sub in sorted(sublists):
-            print(sub, file=classtxt)
-    # Also output an index of chemicals, just to check for problems.
-    with open(os.path.join(JP_RESULTS_PATH, 'index.csv'), 'w') as outfile:
-        listwriter = csv.writer(outfile)
-        listwriter.writerow(['CASRN', 'Name'])
-        for c in sorted(chemicals.keys()):
-            listwriter.writerow([c] + [chemicals[c]['name']])
-
-
-def crunch_kr():
+def extract_kr():
     # Process the Korea GHS classification (2011).
     KR_DATA_PATH = os.path.join(DATA_PATH, 'kr')
     KR_RESULTS_PATH = os.path.join(RESULTS_PATH, 'kr')
@@ -519,7 +221,7 @@ def crunch_kr():
             print(sub, file=subtxt)
 
 
-def crunch_nz():
+def extract_nz():
     # Process the HSNO CCID export.
     # Translate HSNO classifications into GHS classifications, and perform
     # some additional processing to filter out certain substances.
@@ -800,13 +502,13 @@ def main():
     args = parser.parse_args()
     if 'jp' in args.countries:
         print('Processing Japan GHS classifications.')
-        crunch_jp()
+        extract_jp()
     if 'kr' in args.countries:
         print('Processing Republic of Korea GHS classifications.')
-        crunch_kr()
+        extract_kr()
     if 'nz' in args.countries:
         print('Processing Aotearoa New Zealand HSNO classifications.')
-        crunch_nz()
+        extract_nz()
 
 
 if __name__ == '__main__':
