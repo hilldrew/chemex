@@ -28,6 +28,8 @@ For each hazard class, the spreadsheets tabulate the following results of chemic
 - Hazard statement (unfortunately without H-statement codes)
 - Rationale for classification
 
+This script *does not* take account of the PDF files provided on the NITE website which describe a limited number of individual errata/corrigenda. However, it seems that these errors have already been corrected in the XLS dataset which the script retrieves.
+
 ### What the program does
 
 Compiles the cumulative results of all chemical classifications and revisions. Produces two kinds of output:
@@ -36,10 +38,6 @@ Compiles the cumulative results of all chemical classifications and revisions. P
 - A series of Excel spreadsheets organized by hazard class -- one XLSX file per hazard class, one chemical per row.
 
 **Note on identifiers:** If there are multiple CASRNs per chemical, then this script creates an identical entry for each of them, which also specifies a list of all the CASRNs associated with it. This is a compromise, and a decision that errs on the side of more aliasing. Such is life with CASRNs.
-
-### What the program does not do
-
-Importantly, this script *does not* take account of the limited number of individual errata/corrigenda that are provided on the NITE website as PDF files. (Why PDF?!)
 
 ### How to run it
 
