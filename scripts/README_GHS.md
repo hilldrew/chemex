@@ -17,9 +17,7 @@ The data sources are the official published classification documents from the fo
 
 ### How the data source is organized
 
-Several batches of classifications are distributed in series of Excel workbooks. There are batches of 'new' classifications, and batches of revisions to earlier ones. Each workbook contains many sheets, with each sheet describing the classification results for a single chemical in an (almost) identical layout.
-
-- Chemicals are identified by an index ID (inconsistent/incomplete), 
+Several batches of classifications are distributed in series of Excel workbooks. There are batches of 'new' classifications, and batches of revisions to earlier ones. Each workbook contains many sheets, with each sheet describing the classification results for a single chemical in an (almost) identical layout. Chemicals are identified by an index ID (inconsistent/incomplete), 
 zero or more CASRNs, and chemical name. 
 
 For each hazard class, the spreadsheets tabulate the following results of chemical evaluations: 
@@ -38,6 +36,10 @@ Compiles the cumulative results of all chemical classifications and revisions. P
 - A series of Excel spreadsheets organized by hazard class -- one XLSX file per hazard class, one chemical per row.
 
 **Note on identifiers:** If there are multiple CASRNs per chemical, then this script creates an identical entry for each of them, which also specifies a list of all the CASRNs associated with it. This is a compromise, and a decision that errs on the side of more aliasing. Such is life with CASRNs.
+
+### What the program does not do
+
+Importantly, this script *does not* take account of the limited number of individual errata/corrigenda that are provided on the NITE website as PDF files. (Why PDF?!)
 
 ### How to run it
 
