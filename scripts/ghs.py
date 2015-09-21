@@ -495,6 +495,7 @@ def main():
     parser.add_argument('countries', action='store', nargs='+', 
                 choices=['jp', 'kr', 'nz'], 
                 help='Process GHS classifications from these countries.')
+    # Future: add a --download option.
     args = parser.parse_args()
     if 'jp' in args.countries:
         import ghs_jp

@@ -11,9 +11,9 @@ It's also about transforming public chemical hazard data into more usable forms.
 
 * `chemex` package.
 * `scripts/` contains a few scripts that help transform and clean data from useful public-domain sources. See the README(s) in that directory.
-  * GHS classifications
-  * PubChem search results
-* `notebooks/` contains ([notebooks](http://jupyter.org/)) with some explanation and/or some testing/
+  * [GHS classifications](https://github.com/akokai/chemex/blob/master/scripts/README_GHS.md).
+  * PubChem search results.
+* `notebooks/` contains [notebooks](http://jupyter.org/) for explanation and/or testing.
 
 
 ## Requirements

@@ -5,12 +5,10 @@ These are Python scripts for extracting Globally Harmonised System (GHS) hazard 
 For information on the Globally Harmonised System of Classification and Labelling of Chemicals, see [the UNECE's GHS website](http://www.unece.org/trans/danger/publi/ghs/ghs_welcome_e.html).
 
 
-## Information sources and explanation
-
 The data sources are the official published classification documents from the following national GHS implementations. 
 
 
-### Japan: GHS Classifications
+## Japan: GHS Classifications
 
 > N.B. This script has been updated and now works differently.
 
@@ -43,11 +41,11 @@ Compiles the cumulative results of all chemical classifications and revisions. P
 
 ### How to run it
 
-`python ghs.py jp`
+* Download the data: `python ghs_jp_download.py`
+* Run the script: `python ghs.py jp`
 
 
-
-### Republic of Korea: GHS Classifications
+## Republic of Korea: GHS Classifications
 
 > N.B. This section may be out of date.
 
@@ -72,7 +70,7 @@ Using the hazard class names allows (via Google Translate) distinguishing the fo
 * 수생환경유해성-만성 (4.1) = Hazardous to the aquatic environment - chronic
 
 
-### Aotearoa New Zealand: HSNO Chemical Classifications
+## Aotearoa New Zealand: HSNO Chemical Classifications
 
 > N.B. This section may be out of date.
 
