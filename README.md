@@ -2,9 +2,10 @@
 
 ![chemex](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Chemex_Coffeemaker.jpg/300px-Chemex_Coffeemaker.jpg)
 
-This project was originally about ways of linking different kinds of identifiers (especially authority-controlled numeric IDs with open structure-based IDs) using public data, limited resources, and Python. 
+This project is about making public chemical hazard information more usable, by applying limited labor resources and Python.
 
-It's also about transforming public chemical hazard data into more usable forms.  
+* Transforming certain useful resources, such as hazard classification lists, into simple & uniform data formats.
+* Helping to link different chemical identifiers, especially authority-controlled IDs & open structure-based IDs.
 
 
 ## Organization
@@ -18,10 +19,11 @@ It's also about transforming public chemical hazard data into more usable forms.
 
 ## Requirements
 
-* Python 2.7 or 3.x with [future](http://python-future.org/)
+* Python 3.x, or 2.7 with [future](http://python-future.org/)
 * xlrd
 * numpy
 * pandas
+* lxml
 * requests
 
 

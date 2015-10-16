@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 from __future__ import unicode_literals, print_function
-import os
 import requests
-import numpy as np
 from time import sleep
 
 # PubChem PUG REST API
@@ -58,20 +56,20 @@ def pc_img_link_html(cid, size=300):
     return '<a href="https://pubchem.ncbi.nlm.nih.gov/compound/{0}" target="_blank"><img src="https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/{0}/PNG?image_size=large" width="{1}" height="{1}"></a>'.format(cid, size)
 
 # Direct lookup of a CASRN
-def pc_casrn_cid_lookup(casrn, properties=pc_default_props, verbose=False):
-    casrn = cx.cas.casrn_format(casrn)
+def pc_casrn_cid_lookup(rn, properties=pc_default_props, verbose=False):
+    rn = cx.cas.casrn_format(rn)
     if verbose:
-        print(casrn)
+        print(rn)
     results = []
     # CASRN-to-CIDs lookup using PubChem API.
     while True:
         try:
             r = requests.get('http://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/xref/RN/{0}/JSON'
-                             .format(casrn)).json()
+                             .format(rn)).json()
         except ConnectionError as e:
             if verbose:
                 print('Connection error while requesting CIDs for CASRN {0}: {1}'
-                      .format(casrn, e))
+                      .format(rn, e))
                 print('Trying again...')
             sleep(15)
             continue
@@ -84,11 +82,11 @@ def pc_casrn_cid_lookup(casrn, properties=pc_default_props, verbose=False):
         cpds = r['PC_Compounds']
     except KeyError as e:
         if verbose:
-            print('No data for CASRN {0}: {1}'.format(casrn, e))
-        results.append({'CASRN': casrn})
+            print('No data for CASRN {0}: {1}'.format(rn, e))
+        results.append({'CASRN': rn})
     else:
         for c in cpds:
-            data = {'CASRN': casrn, 'CID': c['id']['id']['cid']}
+            data = {'CASRN': rn, 'CID': c['id']['id']['cid']}
             # Retrieve the desired properties, if any.
             if properties:
                 data = pc_get_cid_properties(data, verbose=verbose)
