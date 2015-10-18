@@ -2,8 +2,8 @@
 from __future__ import unicode_literals, print_function
 import urllib.request
 from urllib.error import HTTPError
-import requests
-from time import sleep
+# import requests
+# from time import sleep
 import lxml
 from lxml.html import parse
 
@@ -14,16 +14,16 @@ idplus_base_rn = 'http://chem.sis.nlm.nih.gov/chemidplus/rn/'
 def idplus_heading_by_casrn(rn):
     '''Get the name, CASRN, UNII, and InChIKey of a chemical from ChemIDplus
     for a given CASRN.'''
-    data = None
+    data = dict()
     try:
         r = urllib.request.urlopen(idplus_base_rn + rn)
         parsed = parse(r)
         doc = parsed.getroot()
         heading = doc.find('.//h1')
-        name = heading.text.split('\xa0')[1]
-        ids = [e.text.split('\xa0')[1] for e in heading if e.text is not None]
-        keys = ['Name', 'CASRN', 'UNII', 'InChIKey']
-        data = dict(zip(keys, [name] + ids))
+        name = heading.text.split(':\xa0')[1]
+        data.update({'Name': name})
+        ids = dict([e.text.split(':\xa0') for e in heading if e.text is not None])
+        data.update(ids)
     except HTTPError as e:
         print('{0}: {1}.'.format(rn, e))
     return data
