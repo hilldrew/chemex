@@ -10,7 +10,7 @@ This project is about making public chemical hazard information more usable, by 
 
 ## Organization
 
-* `chemex` package.
+* `chemex` package, just a loose collection of convenient functions.
 * `scripts/` contains a few scripts that help transform and clean data from useful public-domain sources. See the README(s) in that directory.
   * [GHS classifications](https://github.com/akokai/chemex/blob/master/scripts/README_GHS.md).
   * PubChem search results.
@@ -20,11 +20,11 @@ This project is about making public chemical hazard information more usable, by 
 ## Requirements
 
 * Python 3.x, or 2.7 with [future](http://python-future.org/)
-* xlrd
+* lxml
 * numpy
 * pandas
-* lxml
 * requests
+* xlrd
 
 
 ## Fine print
@@ -32,3 +32,13 @@ This project is about making public chemical hazard information more usable, by 
 Files in `data/` are from the public domain.
 
 Everything else here is free and unencumbered software released into the public domain (see `LICENSE`).
+
+
+## See also
+
+There are some solid Python interfaces for accessing major open chemical data services on the web.
+
+* [PubChemPy](https://github.com/mcs07/PubChemPy)
+* [ChemSpiPy](https://github.com/mcs07/ChemSpiPy)
+* [CIRpy](https://github.com/mcs07/CIRpy)
+* [BioServices](https://github.com/cokelaer/bioservices)

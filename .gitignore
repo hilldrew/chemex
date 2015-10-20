@@ -5,6 +5,7 @@ temp/
 data/extract-cid-casrn/*.*
 results/*.*
 results/extract-cid-casrn/*.*
+settings.py
 
 # Operating system junk
 .DS_Store

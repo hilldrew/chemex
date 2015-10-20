@@ -38,4 +38,9 @@ def pc_img_html(cid, size=300):
     return '<img src="{0}compound/cid/{1}/PNG?image_size=large" width="{2}" height="{2}">'.format(pc_rest_base, cid, size)
 
 def pc_img_link_html(cid, size=300):
-    return '<a href="{0}compound/{1}" target="_blank"><img src="https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/{0}/PNG?image_size=large" width="{2}" height="{2}"></a>'.format(pc_base, cid, size)
+    return '<a href="{0}compound/{1}" target="_blank">{2}</a>'.format(pc_base, cid, pc_img_html(cid, size))
+
+
+# UniChem
+# https://www.ebi.ac.uk/unichem/info/webservices
+
