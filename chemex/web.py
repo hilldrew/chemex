@@ -69,7 +69,7 @@ def cs_scrape_properties(csid, props=None):
         if li:
             values = li.find_all('td')
             for v in values:
-                x = v.get_text().strip(' \r\n')
+                x = v.get_text().strip()
                 data[prop_name].append(x)
     # EPI Suite results, as a blob to process later:
     #   Sometimes only returns part of the text, for some reason.
@@ -105,12 +105,14 @@ def epi_suite_values(epi_str):
             if j.startswith('Log Kow (') or j.startswith('Log BCF'):
                 data.update(dict_from_line(i, '='))
             if j.startswith('Henrys LC') or\
-                j.startswith('Log Koa (KOAWIN') or\
-                j.startswith('Log Koa (experimental') or\
-                j.startswith('Persistence Time') or\
-                j.startswith('Ready Biodegradability Prediction'):
+               j.startswith('Log Koa (KOAWIN') or\
+               j.startswith('Log Koa (experimental') or\
+               j.startswith('Ready Biodegradability Prediction'):
                 data.update(dict_from_line(i))
-    except AttributeError:
+        if 'Fugacity' in epi_str:
+            model = epi_str[epi_str.find('Level III Fugacity Model:'):].rstrip()
+            data.update({'Level III Fugacity Model': model})
+    except:
         pass
     return data
 
