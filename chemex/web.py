@@ -2,6 +2,8 @@
 from __future__ import unicode_literals, print_function
 import requests
 from bs4 import BeautifulSoup
+import chemex as cx
+import chemex.casrn
 
 # ChemIDplus
 
@@ -24,30 +26,28 @@ def idplus_heading_by_casrn(rn):
     data.update(ids)
     return data
 
-# EPI Suite output
-
-def dict_from_line(txt, sep=':'):
-    d = [s.strip() for s in txt.split(sep, 1)]
-    return {d[0]: d[1]}
-
-def epi_suite_values(epi_str):
-    data = dict()
-    lines = epi_str.split('\n')
-    for i in lines:
-        j = i.strip()
-        if j.startswith('Log Kow (') or j.startswith('Log BCF'):
-            data.update(dict_from_line(i, '='))
-        if j.startswith('Henrys LC') or\
-            j.startswith('Log Koa (KOAWIN') or\
-            j.startswith('Log Koa (experimental') or\
-            j.startswith('Persistence Time') or\
-            j.startswith('Ready Biodegradability Prediction'):
-            data.update(dict_from_line(i))
-    return data
+def idplus_heading_gen(rns):
+    for i in rns:
+        data = {'inputID': i}
+        n = cx.casrn.validate(i)
+        if n:
+            data.update(idplus_heading_by_casrn(n))
+        yield data
 
 # ChemSpider
 
-def cs_scrape_properties(csid):
+cs_default_props = ['Experimental Melting Point',
+                    'Experimental Boiling Point',
+                    'Experimental Vapor Pressure',
+                    'Experimental Solubility',
+                    'Experimental LogP',
+                    'Experimental Vapor Pressure',
+                    'EPI Suite']
+                # A subset of the properties that might be available.
+                # Check ChemSpider for more... Besides 'EPI Suite', these are
+                # just the text strings in the HTML page.
+
+def cs_scrape_properties(csid, props=None):
     '''Retrieve some of the experimental and predicted chemical properties that
     are not surfaced in the ChemSpider web API.'''
     try:
@@ -56,12 +56,14 @@ def cs_scrape_properties(csid):
     except Exception as e:
         print(e)
         return None
-    data = dict()
+    data = {'CSID': csid}
     doc = BeautifulSoup(r.text, 'lxml')
     # Experimental and predicted properties ("Experimental data" tab):
-    props = doc.find_all(class_='user_data_property_name')
-    for p in props:
+    props_found = doc.find_all(class_='user_data_property_name')
+    for p in props_found:
         prop_name = p.get_text().strip(':')
+        if props is not None and prop_name not in props:
+            continue
         data.update({prop_name: []})
         li = p.find_parent('li')
         if li:
@@ -71,13 +73,45 @@ def cs_scrape_properties(csid):
                 data[prop_name].append(x)
     # EPI Suite results, as a blob to process later:
     #   Sometimes only returns part of the text, for some reason.
-    epi_tab = doc.find(id='epiTab')
-    epi_str = epi_tab.get_text() if epi_tab else None
-    data.update({'EPI Suite': epi_str})
+    if props is not None and 'EPI Suite' not in props:
+        pass
+    else:
+        epi_tab = doc.find(id='epiTab')
+        epi_str = epi_tab.get_text() if epi_tab else None
+        data.update({'EPI Suite': epi_str})
     # ACD Labs predicted properties:
-    # acd_tab = doc.find(id='acdLabsTab')
-    # if acd_tab:
-    #     pass # ...
+    # if #...
+    #     acd_tab = doc.find(id='acdLabsTab')
+    #     if acd_tab:
+    #         pass
+    return data
+
+def cs_properties_gen(csids, props=None):
+    for csid in csids:
+        yield cs_scrape_properties(csid, props)
+
+## EPI Suite output
+
+def dict_from_line(txt, sep=':'):
+    d = [s.strip() for s in txt.split(sep, 1)]
+    return {d[0]: d[1]}
+
+def epi_suite_values(epi_str):
+    data = dict()
+    try:
+        lines = epi_str.split('\n')
+        for i in lines:
+            j = i.strip()
+            if j.startswith('Log Kow (') or j.startswith('Log BCF'):
+                data.update(dict_from_line(i, '='))
+            if j.startswith('Henrys LC') or\
+                j.startswith('Log Koa (KOAWIN') or\
+                j.startswith('Log Koa (experimental') or\
+                j.startswith('Persistence Time') or\
+                j.startswith('Ready Biodegradability Prediction'):
+                data.update(dict_from_line(i))
+    except AttributeError:
+        pass
     return data
 
 # PubChem
