@@ -93,7 +93,7 @@ def cs_properties_gen(csids, props=None):
 ## EPI Suite output
 
 def dict_from_line(txt, sep=':'):
-    d = [s.strip() for s in txt.split(sep, 1)]
+    d = [s.strip() for s in txt.split(sep, maxsplit=1)]
     return {d[0]: d[1]}
 
 def epi_suite_values(epi_str):
@@ -110,8 +110,8 @@ def epi_suite_values(epi_str):
                j.startswith('Ready Biodegradability Prediction'):
                 data.update(dict_from_line(i))
         if 'Fugacity' in epi_str:
-            model = epi_str[epi_str.find('Level III Fugacity Model:'):].rstrip()
-            data.update({'Level III Fugacity Model': model})
+            mod_table = epi_str.split('Level III Fugacity Model:', maxsplit=1)[1].rstrip()
+            data.update({'Level III Fugacity Model': mod_table})
     except:
         pass
     return data
