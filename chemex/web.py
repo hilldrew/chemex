@@ -4,6 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 import chemex as cx
 import chemex.casrn
+from boltons.dictutils import OrderedMultiDict as OMD
 
 # ChemIDplus
 
@@ -42,10 +43,17 @@ cs_default_props = ['Experimental Melting Point',
                     'Experimental Solubility',
                     'Experimental LogP',
                     'Experimental Vapor Pressure',
-                    'EPI Suite']
+                    'EPI Suite',
+                    'Boiling Point', # returned as 'ACD/Boiling Point'
+                    'Vapour Pressure', # returned as 'ACD/Vapour Pressure'
+                    'Flash Point', # returned as 'ACD/Flash Point'
+                    'ACD/LogP',
+                    'ACD/BCF (pH 7.4)',
+                    'ACD/KOC (pH 7.4)'
+                    ]
                 # A subset of the properties that might be available.
                 # Check ChemSpider for more... Besides 'EPI Suite', these are
-                # just the text strings in the HTML page.
+                # just the text strings directly from the HTML page.
 
 def cs_scrape_properties(csid, props=None):
     '''Retrieve some of the experimental and predicted chemical properties that
@@ -56,34 +64,47 @@ def cs_scrape_properties(csid, props=None):
     except Exception as e:
         print(e)
         return None
-    data = {'CSID': csid}
+    data = OMD([('CSID', csid)])
     doc = BeautifulSoup(r.text, 'lxml')
     # Experimental and predicted properties ("Experimental data" tab):
-    props_found = doc.find_all(class_='user_data_property_name')
-    for p in props_found:
-        prop_name = p.get_text().strip(':')
-        if props is not None and prop_name not in props:
-            continue
-        data.update({prop_name: []})
-        li = p.find_parent('li')
-        if li:
+    props_tabs = doc.find(id='suppInfoTab')
+    try:
+        props_found = props_tabs.find_all(class_='user_data_property_name')
+        for p in props_found:
+            prop_name = p.get_text().strip(': \r\n')
+            if props is not None and prop_name not in props:
+                continue
+            li = p.find_parent('li')
             values = li.find_all('td')
-            for v in values:
-                x = v.get_text().strip()
-                data[prop_name].append(x)
+            for i in values:
+                value = i.get_text().strip()
+                data.add(prop_name, value)
+    except AttributeError:
+        pass
+    # ACD/Labs predicted properties:
+    acd_tab = doc.find(id='acdLabsTab')
+    try:
+        acd_props = acd_tab.find_all(class_='prop_title')
+        for p in acd_props:
+            prop_name = p.get_text().strip(': \r\n')
+            v = p.find_next_sibling('td')
+            value = v.get_text().strip()
+            if props is not None and prop_name not in props:
+                continue
+            # Make sure all predicted properties are obviously named 
+            if prop_name.startswith('ACD/') is False:
+                prop_name = 'ACD/' + prop_name
+            data.add(prop_name, value)
+    except AttributeError:
+        pass
     # EPI Suite results, as a blob to process later:
     #   Sometimes only returns part of the text, for some reason.
     if props is not None and 'EPI Suite' not in props:
         pass
     else:
         epi_tab = doc.find(id='epiTab')
-        epi_str = epi_tab.get_text() if epi_tab else None
-        data.update({'EPI Suite': epi_str})
-    # ACD Labs predicted properties:
-    # if #...
-    #     acd_tab = doc.find(id='acdLabsTab')
-    #     if acd_tab:
-    #         pass
+        epi_blob = epi_tab.get_text().strip() if epi_tab else None
+        data.add('EPI Suite', epi_blob)
     return data
 
 def cs_properties_gen(csids, props=None):
@@ -96,10 +117,12 @@ def dict_from_line(txt, sep=':'):
     d = [s.strip() for s in txt.split(sep, maxsplit=1)]
     return {d[0]: d[1]}
 
-def epi_suite_values(epi_str):
-    data = dict()
+def epi_suite_values(epi_blob):
+    '''Extracts some information as key-value pairs from EPI Suite output.
+    Pretty rough (work in progress).'''
+    data = OMD()
     try:
-        lines = epi_str.split('\n')
+        lines = epi_blob.split('\n')
         for i in lines:
             j = i.strip()
             if j.startswith('Log Kow (') or j.startswith('Log BCF'):
@@ -109,9 +132,9 @@ def epi_suite_values(epi_str):
                j.startswith('Log Koa (experimental') or\
                j.startswith('Ready Biodegradability Prediction'):
                 data.update(dict_from_line(i))
-        if 'Fugacity' in epi_str:
-            mod_table = epi_str.split('Level III Fugacity Model:', maxsplit=1)[1].rstrip()
-            data.update({'Level III Fugacity Model': mod_table})
+        if 'Fugacity' in epi_blob:
+            model_table = epi_blob.split('Level III Fugacity Model:', 1)[1]
+            data.add('Level III Fugacity Model', model_table)
     except:
         pass
     return data

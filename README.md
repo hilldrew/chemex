@@ -27,6 +27,7 @@ Many public sources of chemical hazard information don't have the kind of progra
 * lxml
 * pandas & numpy
 * xlrd
+* [boltons](https://github.com/mahmoud/boltons/)
 
 
 ## Fine print
