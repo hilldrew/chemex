@@ -9,7 +9,7 @@ This project is about making public chemical hazard information more usable, by 
 
 ## Context
 
-Many public sources of chemical hazard information don't have the kind of programmatic accessibility that's generally expected from [open data](http://opendefinition.org/od/2.0/en/index.html)). For the major sources of open chemical data on the web, there are helpful Python interfaces: see [PubChemPy](https://github.com/mcs07/PubChemPy), [ChemSpiPy](https://github.com/mcs07/ChemSpiPy), [CIRpy](https://github.com/mcs07/CIRpy), [BioServices](https://github.com/cokelaer/bioservices). But those resources still leave gaps in the accessibility of certain types of information, which I'm interested in.
+Many public sources of chemical hazard information don't have the kind of programmatic accessibility that's generally expected from [open data](http://opendefinition.org/od/2.0/en/index.html). For the major sources of open chemical data on the web, there are helpful Python interfaces: see [PubChemPy](https://github.com/mcs07/PubChemPy), [ChemSpiPy](https://github.com/mcs07/ChemSpiPy), [CIRpy](https://github.com/mcs07/CIRpy), [BioServices](https://github.com/cokelaer/bioservices). But those resources still leave gaps in the accessibility of certain types of information, which I'm interested in.
 
 ## Organization
 

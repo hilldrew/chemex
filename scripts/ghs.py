@@ -20,7 +20,7 @@ RESULTS_PATH = os.path.join(_PARENT_PATH, 'results', 'ghs')
 # Extract GHS chemical hazard classification information out of various
 # international government documents. By Akos Kokai.
 
-# GHS hazard classes, based on GHS Revision 4 chapter reference.
+# GHS hazard classes, based on GHS Revision 6 chapter reference.
 hazard_classes = {
     '2.1': 'Explosives',
     '2.2': 'Flammable gases',
@@ -38,6 +38,7 @@ hazard_classes = {
     '2.14': 'Oxidizing solids',
     '2.15': 'Organic peroxides',
     '2.16': 'Corrosive to metals',
+    '2.17': 'Desensitized explosives',
     '3.1': 'Acute toxicity',
     '3.2': 'Skin corrosion/irritation',
     '3.3': 'Serious eye damage/irritation',
@@ -52,7 +53,7 @@ hazard_classes = {
     '4.2': 'Hazardous to the ozone layer'
     }
 
-# H-statements: List from GHS Revision 4.
+# H-statements: List from GHS Revision 6.
 # Did not include the abbreviated combinations (e.g. H302 + H332).
 h_statements = {
     'H200': 'Unstable explosive',
@@ -61,6 +62,9 @@ h_statements = {
     'H203': 'Explosive; fire, blast or projection hazard',
     'H204': 'Fire or projection hazard',
     'H205': 'May mass explode in fire',
+    'H206': 'Fire, blast or projection hazard; increased risk of explosion if desensitizing agent is reduced',
+    'H207': 'Fire or projection hazard; increased risk of explosion if desensitizing agent is reduced',
+    'H208': 'Fire hazard; increased risk of explosion if desensitizing agent is reduced',
     'H220': 'Extremely flammable gas',
     'H221': 'Flammable gas',
     'H222': 'Extremely flammable aerosol',
@@ -73,6 +77,7 @@ h_statements = {
     'H229': 'Pressurized container: may burst if heated',
     'H230': 'May react explosively even in the absence of air',
     'H231': 'May react explosively even in the absence of air at elevated pressure and/or temperature',
+    'H232': 'May ignite spontaneously if exposed to air',
     'H240': 'Heating may cause an explosion',
     'H241': 'Heating may cause a fire or explosion',
     'H242': 'Heating may cause a fire',
